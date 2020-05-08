@@ -1,0 +1,951 @@
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 8
+
+  
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 8
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+			
+
+			
+
+
+
+Lesson 8:  Exploring the Symmetry in Graphs of Quadratic Functions
+
+
+
+Classwork 
+
+Graph Vocabulary
+
+Axis of symmetry:  Given a quadratic function in standard form, , the vertical line given by the graph of the equation  is called the axis of symmetry of the graph of the quadratic function.
+
+Vertex:  The point where the graph of a quadratic function and its axis of symmetry intersect is called the vertex.
+
+End behavior of a graph:  Given a quadratic function in the form  (or ), the quadratic function is said to open up if  and open down if .  
+
+If , then  has a minimum at the -coordinate of the vertex; that is,  is decreasing for -values less than 
+(or to the left of) the vertex, and  is increasing for -values greater than (or to the right of) the vertex.  
+
+If , then  has a maximum at the -coordinate of the vertex; that is,  is increasing for -values less than 
+(or to the left of) the vertex, and  is decreasing for -values greater than (or to the right of) the vertex.  
+
+
+
+y
+
+y
+
+
+
+
+
+	
+
+
+
+x
+
+x
+
+End behavior:  This graph of a quadratic function opens up.  As the values of  approach  and , the values of  approach .
+
+End behavior:  This graph of a quadratic function opens up.  As the values of  approach  and , the values of  approach .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exploratory Challenge 1
+
+Below are some examples of curves found in architecture around the world.  Some of these might be represented by graphs of quadratic functions.  What are the key features these curves have in common with a graph of a quadratic function? 
+
+
+
+		
+
+			St. Louis Arch	Bellos Falls Arch Bridge
+
+		
+
+			Arch of Constantine	Roman Aqueduct
+
+
+
+The photographs of architectural features above MIGHT be closely represented by graphs of quadratic functions.  Answer the following questions based on the pictures.
+
+	How would you describe the overall shape of a graph of a quadratic function?
+
+
+
+
+
+
+
+	What is similar or different about the overall shape of the above curves? 
+
+
+
+
+
+
+
+IMPORTANT:  Many of the photographs in this activity cannot actually be modeled with a quadratic function but rather are catenary curves.  These are “quadratic-like” and can be used for our exploration purposes as they display many of the same features, including the symmetry we are exploring in this lesson. 
+
+Exploratory Challenge 2 
+
+Use the graphs of quadratic functions (Graph A and Graph B) to fill in the table and answer the questions on the following page.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Graph A
+
+Graph B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Graph A
+
+Graph B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Use your graphs and tables of values from the previous page to fill in the blanks or answer the questions for each below.
+
+
+
+Graph A
+
+Graph B
+
+1
+
+-Intercepts
+
+
+
+
+
+
+
+
+
+2
+
+Vertex
+
+
+
+
+
+3
+
+Sign of the Leading Coefficient
+
+
+
+
+
+4
+
+Vertex Represents a Minimum or Maximum?
+
+
+
+
+
+5
+
+Points of Symmetry
+
+Find  and .
+
+
+
+
+
+
+
+Is  greater than or less than ? Explain
+
+
+
+
+
+Find  and .
+
+
+
+
+
+
+
+.  Predict the value for  and explain your answer.
+
+
+
+
+
+6
+
+Increasing and Decreasing Intervals
+
+On what intervals of the domain is the function depicted by the graph increasing?
+
+
+
+
+
+
+
+On what intervals of the domain is the function depicted by the graph decreasing?
+
+
+
+
+
+
+
+On what intervals of the domain is the function depicted by the graph increasing?
+
+
+
+
+
+
+
+On what intervals of the domain is the function depicted by the graph decreasing?
+
+
+
+
+
+
+
+7
+
+Average Rate of Change on an Interval
+
+What is the average rate of change for the following intervals?
+
+
+
+:  
+
+:  
+
+:  
+
+:     
+
+What is the average rate of change for the following intervals?
+
+
+
+:  
+
+:  
+
+:  
+
+:  
+
+
+
+Understanding the symmetry of quadratic functions and their graphs (Look at the tables and row 5 in the chart.)
+
+What patterns do you see in the tables of values you made next to Graph A and Graph B?
+
+
+
+
+
+
+
+
+
+
+
+Finding the vertex and axis of symmetry (Look at rows 1 and 2 of the chart.)
+
+How can we know the -coordinate of the vertex by looking at the -coordinates of the zeros (or any pair of symmetric points)?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Understanding end behavior (Look at rows 3 and 4 of the chart.)
+
+What happens to the -values of the functions as the -values increase to very large numbers?  What about as the -values decrease to very small numbers (in the negative direction)?
+
+
+
+
+
+
+
+
+
+
+
+
+
+How can we know whether a graph of a quadratic function opens up or down? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Identifying intervals on which the function is increasing or decreasing (Look at row 6 in the chart.)
+
+Is it possible to determine the exact intervals that a quadratic function is increasing or decreasing just by looking at a graph of the function?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computing average rate of change on an interval (Look at row 7 in the chart.)
+
+Explain why the average rate of change over the interval  for Graph A was zero.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How are finding the slope of a line and finding the average rate of change on an interval of a quadratic function similar?  How are they different?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Finding a unique quadratic function:
+
+Can you graph a quadratic function if you don’t know the vertex?  Can you graph a quadratic function if you only know the -intercepts?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Remember that we need to know at least two points to define a unique line.  Can you identify a unique quadratic function with just two points?  Explain. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is the minimum number of points needed to identify a unique quadratic function?  Explain why.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exploratory Challenge 3
+
+Below you see only one side of the graph of a quadratic function.  Complete the graph by plotting three additional points of the quadratic function.  Explain how you found these points, and then fill in the table on the right.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+
+What are the coordinates of the -intercepts? 
+
+
+
+
+
+
+
+What are the coordinates of the -intercept?     
+
+
+
+
+
+
+
+What are the coordinates of the vertex?  Is it a minimum or a maximum?
+
+
+
+
+
+
+
+If we knew the equation for this curve, what would the sign of the leading coefficient be? 
+
+
+
+
+
+
+
+
+
+Verify that the average rate of change for the interval , or , is .  Show your steps.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Based on your answer to row 6 in the table for Exploratory Challenge 2, what interval would have an average rate of change of ?  Explain.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+Quadratic functions create a symmetrical curve with its highest (maximum) or lowest (minimum) point corresponding to its vertex and an axis of symmetry passing through the vertex when graphed.  The -coordinate of the vertex is the average of the -coordinates of the zeros or any two symmetric points on the graph.    
+
+When the leading coefficient is a negative number, the graph opens down, and its end behavior is that both ends move towards negative infinity.  If the leading coefficient is positive, the graph opens up, and both ends move towards positive infinity.
+
+Lesson Summary
+
+Quadratic functions create a symmetrical curve with its highest (maximum) or lowest (minimum) point corresponding to its vertex and an axis of symmetry passing through the vertex when graphed.  The -coordinate of the vertex is the average of the -coordinates of the zeros or any two symmetric points on the graph.    
+
+When the leading coefficient is a negative number, the graph opens down, and its end behavior is that both ends move towards negative infinity.  If the leading coefficient is positive, the graph opens up, and both ends move towards positive infinity.
+
+
+
+Problem Set 
+
+
+
+Khaya stated that every -value of the graph of a quadratic function has two different -values.  Do you agree or disagree with Khaya?  Explain your answer. 
+
+
+
+Is it possible for the graphs of two different quadratic functions to each have  as its line of symmetry and both have a maximum at ?  Explain and support your answer with a sketch of the graphs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Graph A
+
+Graph B
+
+Graph C
+
+Graph D
+
+Graph A
+
+Graph B
+
+Graph C
+
+Graph DConsider the following key features discussed in this lesson for the four graphs of quadratic functions below:  
+-intercepts, -intercept, line of symmetry, vertex, and end behavior.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Which key features of a quadratic function do graphs A and B have in common?  Which features are not shared?
+
+Compare graphs A and C, and explain the differences and similarities between their key features.
+
+Compare graphs A and D, and explain the differences and similarities between their key features.
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ What do all four of the graphs have in common?
+
+
+
+Use the symmetric properties of quadratic functions to sketch the graph of the function below, given these points and given that the vertex of the graph is the point.
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.42
+
+S.42
+
+	Lesson 8:	Exploring the Symmetry in Graphs of Quadratic Functions
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 8:	Exploring the Symmetry in Graphs of Quadratic Functions

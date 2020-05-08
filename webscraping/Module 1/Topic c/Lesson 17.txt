@@ -1,0 +1,459 @@
+Lesson 17
+
+Lesson 17
+
+M1
+
+M1
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+
+
+
+
+
+
+Lesson 17:  Equations Involving Factored Expressions
+
+
+
+Classwork 
+
+Exercise 1
+
+Solve each equation for .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Demanding Dwight insists that you give him two solutions to the following equation:
+
+
+
+Can you provide him with two solutions?
+
+
+
+
+
+
+
+
+
+Demanding Dwight now wants FIVE solutions to the following equation:
+
+
+
+Can you provide him with five solutions?
+
+
+
+
+
+
+
+
+
+
+
+Do you think there might be a sixth solution?
+
+
+
+
+
+
+
+
+
+Consider the equation .
+
+Rewrite the equation as a compound statement.
+
+		
+
+
+
+
+
+
+
+Find the two solutions to the equation.
+
+	
+
+
+
+
+
+
+
+Example 1
+
+Solve , for .
+
+
+
+
+
+
+
+
+
+
+
+Example 2
+
+Solve   for .
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercises 2–7 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example 3
+
+Consider the equation Lulu chooses to multiply through by  and gets the 
+answer .  But Poindexter points out that  is also an answer, which Lulu missed.
+
+What’s the problem with Lulu’s approach?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Use factoring to solve the original equation for .  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercises 8–11 
+
+Use factoring to solve the equation for :  .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solve each of the following for : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Verify: .	
+
+Verify:  .
+
+Verify:  .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solve for :  .	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solve for :  .
+
+
+
+
+
+A string  inches long is to be laid out on a tabletop to make a rectangle of perimeter  inches.  Write the width of the rectangle as  inches.  What is an expression for its length?  What is an expression for its area?  What value for  gives an area of the largest possible value?  Describe the shape of the rectangle for this special value of .
+
+
+
+
+
+
+Lesson Summary
+
+The zero-product property says that if ,  then either   or    or   
+
+
+
+Lesson Summary
+
+The zero-product property says that if ,  then either   or    or   
+
+
+
+
+
+Problem Set 
+
+
+
+Find the solution set of each equation:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solve , for .
+
+
+
+Solve , for .  What solution do you lose if you simply divide by  to get ?
+
+
+
+
+
+
+
+
+
+
+
+The square of a number plus  times the number is equal to.  What is the number?
+
+
+
+In the right triangle shown below, the length of side AB is , the length of side BC is , and the length of the hypotenuse AC is .  Use this information to find the length of each side.  (Use the Pythagorean theorem to get an equation, and solve for .)
+
+
+
+             
+
+
+
+
+
+
+
+
+
+
+
+
+
+Using what you learned in this lesson, create an equation that has  and  as its only solutions.
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M1-TE-1.3.0-07.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M1-TE-1.3.0-07.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.97
+
+S.97
+
+	Lesson 17:	Equations Involving Factored Expressions
+
+	
+
+	
+
+	Lesson 17:	Equations Involving Factored Expressions

@@ -1,0 +1,411 @@
+Lesson 7
+
+Lesson 7
+
+M3
+
+M3
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+		
+
+		
+
+
+
+Lesson 7:  Exponential Decay
+
+
+
+Classwork 
+
+Example 1
+
+Malik bought a new car for .  As he drove it off the lot, his best friend, Will, told him that the car’s value just dropped by  and that it would continue to depreciate  of its current value each year.  If the car’s value is now  (according to Will), what will its value be after  years?
+
+
+
+Complete the table below to determine the car’s value after each of the next five years.  Round each value to the nearest cent.
+
+Number of years, ,  passed since driving the car off the lot
+
+Car value after  years
+
+ depreciation of current car value
+
+Car value minus the  depreciation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write an explicit formula for the sequence that models the value of Malik’s car  years after driving it off the lot. 
+
+
+
+
+
+Use the formula from part (b) to determine the value of Malik’s car five years after its purchase.  Round your answer to the nearest cent.  Compare the value with the value in the table.  Are they the same?
+
+
+
+
+
+Use the formula from part (b) to determine the value of Malik’s car  years after its purchase.  Round your answer to the nearest cent.
+
+
+
+
+
+Exercises 1–6
+
+Identify the initial value in each formula below, and state whether the formula models exponential growth or exponential decay.  Justify your responses. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+If a person takes a given dosage  of a particular medication, then the formula  represents the concentration of the medication in the bloodstream  hours later.  If Charlotte takes  of the medication at   a.m., how much remains in her bloodstream at  a.m.?  How long does it take for the concentration to drop below ? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+When you breathe normally, about  of the air in your lungs is replaced with each breath.  Write an explicit formula for the sequence that models the amount of the original air left in your lungs, given that the initial volume of air is .  Use your model to determine how much of the original  remains after  breaths.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ryan bought a new computer for .  The value of the computer decreases by  each year.  When will the value drop below ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kelli’s mom takes a  dose of aspirin.  Each hour, the amount of aspirin in a person’s system decreases by about .  How much aspirin is left in her system after  hours?
+
+
+
+
+
+
+
+
+
+According to the International Basketball Association (FIBA), a basketball must be inflated to a pressure such that when it is dropped from a height of , it rebounds to a height of .  Maddie decides to test the rebound-ability of her new basketball.  She assumes that the ratio of each rebound height to the previous rebound height remains the same at .  Let  be the height of the basketball after  bounces.  Complete the chart below to reflect the heights Maddie expects to measure.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write the explicit formula for the sequence that models the height of Maddie’s basketball after any number of bounces.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Plot the points from the table.  Connect the points with a smooth curve, and then use the curve to estimate the bounce number at which the rebound height drops below .
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+The explicit formula  models exponential decay, where  represents the initial value of the sequence,  represents the growth factor (or decay factor) per unit of time, and  represents units of time.  
+
+Lesson Summary
+
+The explicit formula  models exponential decay, where  represents the initial value of the sequence,  represents the growth factor (or decay factor) per unit of time, and  represents units of time.  
+
+Problem Set
+
+
+
+From 2000 to 2013, the value of the U.S. dollar has been shrinking.  The value of the U.S. dollar over time () can be modeled by the following formula:
+
+, where  is the number of years since 2000
+
+How much was a dollar worth in the year 2005?
+
+Graph the points  for integer values of .   
+
+Estimate the year in which the value of the dollar fell below .
+
+
+
+A construction company purchased some equipment costing .  The value of the equipment depreciates (decreases) at a rate of  per year.
+
+Write a formula that models the value of the equipment each year.
+
+What is the value of the equipment after  years?
+
+Graph the points  for integer values of .
+
+Estimate when the equipment will have a value of .
+
+
+
+The number of newly reported cases of HIV (in thousands) in the United States from 2000 to 2010 can be modeled by the following formula:
+
+, where  is the number of years after 2000
+
+Identify the growth factor.
+
+Calculate the estimated number of new HIV cases reported in 2004.
+
+Graph the points  for integer values of .
+
+During what year did the number of newly reported HIV cases drop below ?
+
+
+
+Doug drank a soda with  of caffeine.  Each hour, the caffeine in the body diminishes by about .  
+
+Write a formula to model the amount of caffeine remaining in Doug’s system each hour.
+
+How much caffeine remains in Doug’s system after  hours?
+
+How long will it take for the level of caffeine in Doug’s system to drop below ?
+
+
+
+
+
+
+
+ teams participate in a softball tournament in which half the teams are eliminated after each round of play.
+
+Write a formula to model the number of teams remaining after any given round of play.
+
+How many teams remain in play after  rounds?
+
+How many rounds of play will it take to determine which team wins the tournament?
+
+
+
+Sam bought a used car for .  He boasted that he got a great deal since the value of the car two years ago (when it was new) was .  His friend, Derek, was skeptical, stating that the value of a car typically depreciates about  per year, so Sam got a bad deal. 
+
+Use Derek’s logic to write a formula for the value of Sam’s car.  Use  for the total age of the car in years.
+
+Who is right, Sam or Derek?
+
+
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M3-TE-1.3.0-08.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M3-TE-1.3.0-08.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.37
+
+S.37
+
+	Lesson 7:	Exponential Decay
+
+	
+
+	
+
+	
+
+	Lesson 7:	Exponential Decay

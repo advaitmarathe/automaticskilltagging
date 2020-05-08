@@ -1,0 +1,215 @@
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+Lesson 2
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+Lesson 2
+
+  
+
+M1
+
+  
+
+M1
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+
+
+
+
+
+
+Lesson 2:  Graphs of Quadratic Functions
+
+
+
+Classwork
+
+Exploratory Challenge 
+
+Plot a graphical representation of change in elevation over time for the following graphing story.  It is a video of a man jumping from  above ground into  of water. 
+
+http://www.youtube.com/watch?v=ZCFBC8aXz-g or http://youtu.be/ZCFBC8aXz-g (If neither link works, search for “OFFICIAL Professor Splash World Record Video!”)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example 2
+
+The table below gives the area of a square with sides of whole number lengths.  Have students plot the points in the table on a graph and draw the curve that goes through the points.
+
+Side
+()
+
+
+
+
+
+
+
+
+
+
+
+Area
+()
+
+
+
+
+
+
+
+
+
+
+
+On the same graph, reflect the curve across the -axis.  This graph is an example of a graph of a quadratic function.
+
+
+
+
+
+
+Problem Set 
+
+
+
+Here is an elevation-versus-time graph of a ball rolling down a ramp.  The first section of the graph is slightly curved.
+
+
+
+From the time of about  onward, the graph is a flat horizontal line.  If Ken puts his foot on the ball at time  to stop the ball from rolling, how will this graph of elevation versus time change? 
+
+Estimate the number of inches of change in elevation of the ball from  to   Also estimate the change in elevation of the ball between  and . 
+
+At what point is the speed of the ball the fastest, near the top of the ramp at the beginning of its journey or near the bottom of the ramp?  How does your answer to part (b) support what you say?
+
+
+
+Watch the following graphing story:
+
+Elevation vs. Time # [http://www.mrmeyer.com/graphingstories1/graphingstories4.mov.  This is the second video under “Download Options” at the site http://blog.mrmeyer.com/?p=213 called “Elevation vs. Time #.”] 
+
+The video is of a man hopping up and down several times at three different heights (first, five medium-sized jumps immediately followed by three large jumps, a slight pause, and then  very quick small jumps).
+
+What object in the video can be used to estimate the height of the man’s jump?  What is your estimate of the object’s height? 
+
+Draw your own graph for this graphing story.  Use parts of graphs of quadratic functions to model each of the man’s hops.  Label your -axis and -axis appropriately and give a title for your graph.
+
+
+
+
+
+
+Use the table below to answer the following questions.
+
+
+
+Plot the points  in this table on a graph (except when  is ).
+
+The -values in the table follow a regular pattern that can be discovered by computing the differences of consecutive -values.  Find the pattern and use it to find the -value when  is .
+
+Plot the point you found in part (b).  Draw a curve through the points in your graph.  Does the graph go through the point you plotted?
+
+How is this graph similar to the graphs you drew in Examples 1 and 2 and the Exploratory Challenge?  Different?  
+
+
+
+A ramp is made in the shape of a right triangle using the dimensions described in the picture below.  The ramp length is  from the top of the ramp to the bottom, and the horizontal width of the ramp is . 
+
+
+
+A ball is released at the top of the ramp and takes  to roll from the top of the ramp to the bottom.  Find each answer below to the nearest .
+
+Find the average speed of the ball over the . 
+
+Find the average rate of horizontal change of the ball over the . 
+
+Find the average rate of vertical change of the ball over the .
+
+What relationship do you think holds for the values of the three average speeds you found in parts (a), (b), and (c)?  (Hint: Use the Pythagorean theorem.)
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M1-TE-1.3.0-07.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M1-TE-1.3.0-07.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.7
+
+S.7
+
+	Lesson 2:	Graphs of Quadratic Functions 
+
+	
+
+	
+
+	
+
+	Lesson 2:	Graphs of Quadratic Functions

@@ -1,0 +1,350 @@
+M1
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+Lesson 23
+
+ALGEBRA I
+
+  
+
+M1
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+Lesson 23
+
+ALGEBRA I
+
+
+
+				
+
+				
+
+
+
+Lesson 23:  Solution Sets to Simultaneous Equations
+
+
+
+Classwork 
+
+Opening Exercise
+
+Here is a system of two linear equations.  Verify that the solution to this system is . 
+
+	Equation A1:  
+
+	Equation A2:  
+
+
+
+
+
+
+
+
+
+Exploratory Challenge
+
+Write down another system of two linear equations, B1 and B2, whose solution is .  This time make sure both linear equations have a positive slope. 
+
+
+
+
+
+
+
+
+
+Verify that the solution to this system of two linear equations is .
+
+
+
+
+
+
+
+
+
+Graph equation B1 and B2. 
+
+
+
+Are either B1 or B2 equivalent to the original A1 or A2?  Explain your reasoning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add A1 and A2 to create a new equation C1.  Then, multiply A1 by  to create a new equation C2.  Why is the solution to this system also ?  Explain your reasoning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+The following system of equations was obtained from the original system by adding a multiple of equation A2 to equation A1.
+
+	Equation D1:  
+
+	Equation D2:  
+
+
+
+What multiple of A2 was added to A1 to create D2?
+
+
+
+
+
+
+
+
+
+What is the solution to the system of two linear equations formed by D1 and D2?
+
+
+
+
+
+
+
+
+
+Is D2 equivalent to the original A1 or A2?  Explain your reasoning.
+
+
+
+
+
+
+
+
+
+Start with equation A1.  Multiply it by a number of your choice and add the result to equation A2.  This creates a new equation E2.  Record E2 below to check if the solution is .
+
+Equation E1:  
+
+Equation E2:
+
+
+
+
+
+
+
+
+
+
+
+Example:  Why Does the Elimination Method Work?
+
+Solve this system of linear equations algebraically.
+
+
+
+ORIGINAL SYSTEM
+
+NEW SYSTEM
+
+SOLUTION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercises
+
+Explain a way to create a new system of equations with the same solution as the original that eliminates variable  from one equation.  Then determine the solution.
+
+
+
+ORIGINAL SYSTEM
+
+NEW SYSTEM
+
+SOLUTION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explain a way to create a new system of equations with the same solution as the original that eliminates variable  from one equation.  Then determine the solution.
+
+
+
+ORIGINAL SYSTEM
+
+NEW SYSTEM
+
+SOLUTION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Problem Set
+
+
+
+Try to answer the following without solving for  and  first:
+
+				If  and , then
+
+
+
+
+
+
+
+You always get the same solution no matter which two of the four equations you choose from Problem 1 to form a system of two linear equations.  Explain why this is true.
+
+
+
+Solve the system of equations  by graphing.  Then, create a new system of equations that has the same solution.  Show either algebraically or graphically that the systems have the same solution. 
+
+
+
+			Without solving the systems, explain why the following systems must have the same solution.
+
+					System (i):	  	System (ii): 	
+				
+
+	
+
+Solve each system of equations by writing a new system that eliminates one of the variables.
+
+
+
+
+
+
+
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M1-TE-1.3.0-07.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M1-TE-1.3.0-07.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.126
+
+S.126
+
+	Lesson 23:	Solution Sets to Simultaneous Equations
+
+	
+
+	
+
+	
+
+	Lesson 23:	Solution Sets to Simultaneous Equations

@@ -1,0 +1,467 @@
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M2
+
+
+
+MX
+
+Lesson 3
+
+
+
+Lesson #
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M2
+
+
+
+MX
+
+Lesson 3
+
+
+
+Lesson #
+
+
+
+ALGEBRA I
+
+
+
+COURSE NAME
+
+ALGEBRA I
+
+
+
+COURSE NAME
+
+
+
+
+
+
+
+Lesson 3:  Estimating Centers and Interpreting the Mean as a Balance Point
+
+
+
+Classwork
+
+Example
+
+Your previous work in mathematics involved estimating a balance point of a data distribution.  Let’s review what we learned about the balance point of a distribution.  A -inch ruler has several quarters taped to positions along the ruler.  The broad side of a pencil is placed underneath the ruler to determine an approximate balance point of the ruler with the quarters.  
+
+
+
+Exercises 1–7
+
+Consider the following example of quarters taped to a lightweight ruler.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sam taped  quarters to his ruler.  The quarters were taped to the positions  inch,  inches, and  inches.  If the pencil was placed under the position  inches, do you think the ruler would balance?  Why or why not?
+
+
+
+
+
+
+
+
+
+
+
+
+
+If the ruler did not balance, would you move the pencil to the left or to the right of  inches to balance the ruler?  Explain your answer.
+
+
+
+
+
+
+
+
+
+
+
+
+Estimate a balance point for the ruler.  Complete the following based on the position you selected.
+
+Position of Quarter
+
+Distance from Quarter to Your 
+
+Estimate of the Balance Point
+
+
+
+		
+
+
+
+		
+
+
+
+		
+
+
+
+What is the sum of the distances to the right of your estimate of the balance point?
+
+
+
+
+
+
+
+
+
+
+
+What is the sum of the distances to the left of your estimate of the balance point?
+
+
+
+
+
+
+
+
+
+
+
+Do you need to adjust the position of your balance point?  If yes, explain how.
+
+
+
+
+
+
+
+
+
+
+
+Calculate the mean and the median of the position of the quarters.  Does the mean or the median of the positions provide a better estimate of the balance point for the position of the  quarters taped to this ruler?  Explain why you made this selection.
+
+
+
+
+
+
+Exercises 8–20
+
+Twenty-two students from the junior class and twenty-six students from the senior class at River City High School participated in a walkathon to raise money for the school’s band.  Dot plots indicating the distances in miles students from each class walked are as follows.
+
+
+
+
+
+Estimate the mean number of miles walked by a junior, and mark it with an X on the junior class dot plot.  How did you estimate this position?
+
+
+
+
+
+
+
+What is the median of the junior data distribution?
+
+
+
+
+
+
+
+
+
+Is the mean number of miles walked by a junior less than, approximately equal to, or greater than the median number of miles?  If they are different, explain why.  If they are approximately the same, explain why.
+
+	
+
+	
+
+	
+
+	
+
+	
+
+How would you describe the typical number of miles walked by a junior in this walkathon?
+
+
+
+
+
+
+
+
+Estimate the mean number of miles walked by a senior, and mark it with an X on the senior class dot plot.  How did you estimate this position?
+
+
+
+
+
+
+
+
+
+What is the median of the senior data distribution?
+
+
+
+
+
+
+
+Estimate the mean and the median of the miles walked by the seniors.  Is your estimate of the mean number of miles less than, approximately equal to, or greater than the median number of miles walked by a senior?  If they are different, explain why.  If they are approximately the same, explain why.
+
+
+
+
+
+
+
+
+
+
+
+
+
+How would you describe the typical number of miles walked by a senior in this walkathon?
+
+
+
+
+
+
+
+
+
+
+
+
+
+A junior from River City High School indicated that the number of miles walked by a typical junior was better than the number of miles walked by a typical senior.  Do you agree?  Explain your answer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Finally, the twenty-five sophomores who participated in the walkathon reported their results.  A dot plot is shown below.
+
+
+
+
+
+What is different about the sophomore data distribution compared to the data distributions for juniors and seniors?
+
+
+
+
+
+
+
+
+
+
+
+Estimate the balance point of the sophomore data distribution.
+
+
+
+
+
+
+
+
+
+
+
+What is the median number of miles walked by a sophomore?
+
+
+
+
+
+
+
+
+
+
+
+How would you describe the sophomore data distribution?
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+The mean of a data distribution represents a balance point for the distribution.  The sum of the distances to the right of the mean is equal to the sum of the distances to the left of the mean.
+
+
+
+Lesson Summary
+
+The mean of a data distribution represents a balance point for the distribution.  The sum of the distances to the right of the mean is equal to the sum of the distances to the left of the mean.
+
+
+
+
+
+Problem Set
+
+
+
+Consider another example of balance.  Mr. Jackson is a mathematics teacher at Waldo High School.  Students in his class are frequently given quizzes or exams.  He indicated to his students that an exam is worth  quizzes when calculating an overall weighted average to determine their final grade.  During one grading period, Scott got an  on one exam, a  on a second exam, a  on one quiz, and a  on another quiz.  
+
+How could we represent Scott’s test scores?  Consider the following number line.
+
+
+
+
+
+What values are represented by the number line?
+
+
+
+If one “•” symbol is used to represent a quiz score, how might you represent an exam score?
+
+
+
+Represent Scott’s exams and quizzes on this number line using “•” symbols.
+
+
+
+Mr. Jackson indicated that students should set an  overall weighted average as a goal.  Do you think Scott met that goal?  Explain your answer.
+
+
+
+Place an X on the number line at a position that you think locates the balance point of all of the “•” symbols.  Determine the sum of the distances from the X to each “•” on the right side of the X.
+
+
+
+Determine the sum of the distances from the X to each “•” on the left side of the X.
+
+
+
+Do the total distances to the right of the X equal the total distances to the left of the X?  
+
+
+
+Based on your answer to Problem 7, would you change your estimate of the balance point?  If yes, where would you place your adjusted balance point?  How does using this adjusted estimate change the total distances to the right of your estimate and the total distances to the left?
+
+
+Scott’s weighted average is .  Recall that each exam score is equal to  times a quiz score.  Show the calculations that lead to this weighted average.
+
+
+
+How does the calculated mean score compare with your estimated balance point?
+
+
+
+Compute the total distances to the right of the mean and the total distances to the left of the mean.  What do you observe?
+
+
+
+Did Scott achieve the goal set by Mr. Jackson of an  average?  Explain your answer.
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M2-TE-1.3.0-08.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M2-TE-1.3.0-08.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.18
+
+S.18
+
+	Lesson 3:	Estimating Centers and Interpreting the Mean as a Balance Point
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 3:	Estimating Centers and Interpreting the Mean as a Balance Point

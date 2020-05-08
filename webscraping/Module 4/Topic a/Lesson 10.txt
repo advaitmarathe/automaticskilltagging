@@ -1,0 +1,465 @@
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 10
+
+  
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 10
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+			
+
+			
+
+
+
+Lesson 10:  Interpreting Quadratic Functions from Graphs and Tables 
+
+
+
+Classwork 
+
+Example 1
+
+
+
+
+
+
+
+Height of the dolphin in feet (distance from water surface)
+
+Time in seconds
+
+
+
+
+
+
+
+Height of the dolphin in feet (distance from water surface)
+
+Time in seconds
+
+In a study of the activities of dolphins, a marine biologist made a -second video of a dolphin swimming and jumping in the ocean with a specially equipped camera that recorded one dolphin’s position with respect to time.  This graph represents a piecewise function, , that is defined by quadratic functions on each interval.  It relates the dolphin’s vertical distance from the surface of the water, in feet, to the time from the start of the video, in seconds.  Use the graph to answer the questions below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Describe what you know for sure about the actions of the dolphin in the time interval from – sec.  Can you determine the horizontal distance the dolphin traveled in that time interval?  Explain why or why not.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Where do you find the values for which ?  Explain what they mean in the context of this problem.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How long was the dolphin swimming under water in the recorded time period?  Explain your answer or show your work.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Estimate the maximum height, in feet, that the dolphin jumped in the recorded -second time period?  Explain how you determined your answer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Locate the point on the graph where , and explain what information the coordinates of that point give you in the context of this problem. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example 2
+
+The table below represents the value of Andrew’s stock portfolio, where  represents the value of the portfolio in hundreds of dollars and  is the time in months since he started investing.  Answer the questions that follow based on the table of values.
+
+ (months)
+
+ (hundreds of dollars)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What kind of function could model the data in this table?  How can you support your conclusion?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Assuming this data is in fact quadratic, how much did Andrew invest in his stock initially?  Explain how you arrived at this answer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is the maximum value of his stock, and how long did it take to reach the maximum value?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If the pattern continues to follow the quadratic trend shown above, do you advise Andrew to sell or keep his stock portfolio?  Explain why.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How fast is Andrew’s stock value decreasing between ?  Find another two-month interval where the average rate of change is faster than  and explain why.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Are there other two-month intervals where the rate of change is the same as ?  Explain your answer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+When interpreting quadratic functions and their graphs, it is important to note that the graph does not necessarily depict the path of an object.  In the case of free-falling objects, for example, it is height with respect to time.  
+
+The -intercept can represent the initial value of the function given the context, and the vertex represents the highest (if a maximum) or the lowest (if a minimum) value.  
+
+
+
+Lesson Summary
+
+When interpreting quadratic functions and their graphs, it is important to note that the graph does not necessarily depict the path of an object.  In the case of free-falling objects, for example, it is height with respect to time.  
+
+The -intercept can represent the initial value of the function given the context, and the vertex represents the highest (if a maximum) or the lowest (if a minimum) value.  
+
+Problem Set 
+
+
+
+Pettitte and Ryu each threw a baseball into the air. 
+
+The vertical height of Pettitte’s baseball is represented by the graph  below.   represents the vertical distance of the baseball from the ground in feet, and represents time in seconds.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The vertical height of Ryu’s baseball is represented by the table values  below.  represents the vertical distance of the baseball from the ground in feet, and  represents time in seconds.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Use the functions on the previous page to answer the following questions.  
+
+Whose baseball reached the greatest height?  Explain your answer.
+
+Whose ball reached the ground fastest?  Explain your answer. 
+
+Pettitte claims that his ball reached its maximum faster than Ryu’s.  Is his claim correct or incorrect?  Explain your answer.
+
+Find  and  values and explain what they mean in the problem.  What conclusion can you make based on these values?  Did Ryu and Pettitte throw their baseballs from the same height?  Explain your answer.
+
+Ryu claims that he can throw the ball higher than Pettitte.  Is his claim correct or incorrect?  Explain your answer.
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.64
+
+S.64
+
+	Lesson 10:	Interpreting Quadratic Functions from Graphs and Tables 
+
+	
+
+	
+
+	
+
+	Lesson 10:	Interpreting Quadratic Functions from Graphs and Tables

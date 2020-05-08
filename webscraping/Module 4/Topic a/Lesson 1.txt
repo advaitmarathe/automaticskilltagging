@@ -1,0 +1,605 @@
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 1
+
+  
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 1
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+			
+
+			
+
+
+
+Lesson 1:  Multiplying and Factoring Polynomial Expressions
+
+
+
+Classwork 
+
+Opening Exercise
+
+Write expressions for the areas of the two rectangles in the figures given below. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now write an expression for the area of this rectangle:
+
+
+
+Example 1
+
+Jackson has given his friend a challenge:
+
+The area of a rectangle, in square units, is represented by  for some real number.  Find the length and width of the rectangle.  
+
+
+
+ square units
+
+
+
+ square units
+
+How many possible answers are there for Jackson’s challenge to his friend?  List the answer(s) you find.
+
+
+
+Exercises 1–3
+
+Factor each by factoring out the greatest common factor:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Discussion:  The Language of Polynomials
+
+Prime number:  A prime number is a positive integer greater than  whose only positive integer factors are  and itself.  
+
+Composite number:  A composite number is a positive integer greater than  that is not a prime number.
+
+A composite number can be written as the product of positive integers with at least one factor that is not  or itself.
+
+For example, the prime number  has only  and  as its factors.  The composite number  has factors of , , , and ; it could be written as the product .
+
+A nonzero polynomial expression with integer coefficients is said to be prime or irreducible over the integers if it satisfies two conditions:
+
+It is not equivalent to  or , and 
+
+If the polynomial is written as a product of two polynomial factors, each with integer coefficients, then one of the two factors must be  or . 
+
+Given a polynomial in standard form with integer coefficients, let  be the greatest common factor of all of the coefficients.  The polynomial is factored completely over the integers when it is written as a product of  and one or more prime polynomial factors, each with integer coefficients.
+
+
+
+
+Example 2:  Multiply Two Binomials
+
+Using a Table as an Aid
+
+You have seen the geometric area model used in previous examples to demonstrate the multiplication of polynomial expressions for which each expression was known to represent a measurement of length.  
+
+Without a context such as length, we cannot be certain that a polynomial expression represents a positive quantity.  Therefore, an area model is not directly applicable to all polynomial multiplication problems.  However, a table can be used in a similar fashion to identify each partial product as we multiply polynomial expressions.  The table serves to remind us of the area model even though it does not represent area.
+
+For example, fill in the table to identify the partial products of .  Then, write the product of 
+ in standard form.
+
+
+
+
+
+ 
+
+
+
+                  
+
+
+
+ 
+
+
+
+                  
+
+	
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Without the Aid of a Table
+
+Regardless of whether or not we make use of a table as an aid, the multiplying of two binomials is an application of the distributive property.  Both terms of the first binomial distribute over the second binomial.  Try it with .  In the example below, the colored arrows match each step of the distribution with the resulting partial product.
+
+
+
+Multiply: 
+
+
+
+
+
+
+
+
+
+
+
+Example 3:  The Difference of Squares
+
+Find the product of .  Use the distributive property to distribute the first binomial over the second.  
+
+With the Use of a Table:
+
+
+
+
+
+
+
+
+
+                  
+
+
+
+
+
+
+
+                  
+
+	
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Without the Use of a Table:  
+
+
+
+
+
+
+
+Exercise 4
+
+Factor the following examples of the difference of perfect squares.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+Write a General Rule for Finding the Difference of Squares
+
+Write  in factored form.
+
+
+
+
+
+
+
+Exercises 5–7
+
+Factor each of the following differences of squares completely:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  (Hint:  This one factors twice.)
+
+
+
+
+
+
+
+
+
+
+
+Example 4:  The Square of a Binomial
+
+To square a binomial, such as , multiply the binomial by itself.  
+
+
+
+
+
+
+
+
+
+Square the following general examples to determine the general rule for squaring a binomial:
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+Exercises 8–9
+
+Square the binomial.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+Factoring is the reverse process of multiplication.  When factoring, it is always helpful to look for a GCF that can be pulled out of the polynomial expression.  For example,  can be factored as .
+
+Factor the difference of perfect squares : 
+
+ .
+
+When squaring a binomial ,
+
+.
+
+When squaring a binomial ,
+
+.
+
+
+
+Lesson Summary
+
+Factoring is the reverse process of multiplication.  When factoring, it is always helpful to look for a GCF that can be pulled out of the polynomial expression.  For example,  can be factored as .
+
+Factor the difference of perfect squares : 
+
+ .
+
+When squaring a binomial ,
+
+.
+
+When squaring a binomial ,
+
+.
+
+
+
+
+
+Problem Set 
+
+
+
+For each of the following, factor out the greatest common factor:
+
+   
+
+  
+
+   
+
+ 
+
+
+
+
+
+Multiply.
+
+ 
+
+
+
+
+
+
+
+
+
+The measure of a side of a square is  units.  A new square is formed with each side  units longer than the original square’s side.  Write an expression to represent the area of the new square.  (Hint:  Draw the new square and count the squares and rectangles.)
+
+	Original Square          	         
+
+
+
+
+
+
+
+
+
+
+
+
+In the accompanying diagram, the width of the inner rectangle is represented by  and the length by .  The width of the outer rectangle is represented by  and the length by . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write an expression to represent the area of the larger rectangle.
+
+Write an expression to represent the area of the smaller rectangle. 
+
+Express the area of the region inside the larger rectangle but outside the smaller rectangle as a polynomial in terms of .  (Hint:  You will have to add or subtract polynomials to get your final answer.)
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.1
+
+S.1
+
+	Lesson 1:	Multiplying and Factoring Polynomial Expressions
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 1:	Multiplying and Factoring Polynomial Expressions

@@ -1,0 +1,274 @@
+M1
+
+  
+
+M1
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+Lesson 25
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+Lesson 25
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+
+
+
+
+
+
+Lesson 25:  Solving Problems in Two Ways—Rates and Algebra
+
+
+
+Classwork
+
+Exercise 1
+
+Solve the following problem first using a tape diagram and then using an equation:  In a school choir,  of the members were girls.  At the end of the year,  boys left the choir, and the ratio of boys to girls became . How many boys remained in the choir? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Which problem solution, the one using a tape diagram or the one using an equation, was easier to set up and solve?  Why?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematical Modeling Exercise/Exercise 2
+
+Read the following problem: 
+
+All the printing presses at a print shop were scheduled to make copies of a novel and a cookbook.  They were to print the same number of copies of each book, but the novel had twice as many pages as the cookbook.  All of the printing presses worked for the first day on the larger book, turning out novels.  Then, on day two, the presses were split into two equally sized groups.  The first group continued printing copies of the novel and finished printing all the copies by the evening of the second day.  The second group worked on the cookbook but did not finish by evening.  One printing press, working for two additional full days, finished printing the remaining copies of the cookbooks.  If all printing presses printed pages (for both the novel and cookbook) at the same constant rate, how many printing presses are there at the print shop?
+
+Solve the problem working with rates to setup a tape diagram or an area model.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solve the problem by setting up an equation.
+
+
+
+
+
+
+Problem Set
+
+
+
+Solve the following problems first using a tape diagram and then by setting up an equation.  For each, give your opinion on which solution method was easier.  Can you see the connection(s) between the two methods?  What does each “unit” in the tape diagram stand for? 
+
+ years from now, Pia’s age will be twice her age  years ago.  Find her present age. 
+
+The total age of a woman and her son is  years.  Three years ago, the woman was eight times as old as her son.  How old is her son now? 
+
+Five years from now, the sum of the ages of a woman and her daughter will be  years.  The difference in their present age is  years.  How old is her daughter now? 
+
+Find three consecutive integers such that their sum is . 
+
+
+
+Solve the following problems by setting up an equation or inequality.
+
+If two numbers represented by  and  have a sum of , find . 
+
+Find two consecutive even numbers such that the sum of the smaller number and twice the greater number is . 
+
+If  is subtracted from a number, and the result is multiplied by , the product is .  Find the number. 
+
+The product of two consecutive whole numbers is less than the sum of the square of the smaller number and . 
+
+
+
+The length,  meters, is the answer to the following question. 
+
+“The length of a rectangle is three meters longer than its width.  The area of the rectangle is  square meters. What is the length of the rectangle?” 
+
+Rework this problem:  Write an equation using  as the length (in meters) of the rectangle that would lead to the solution of the problem.  Check that the answer above is correct by substituting  for  in your equation. 
+
+
+
+Jim tells you he paid a total of  for a car, and you would like to know the price of the car before sales tax so that you can compare the price of that model of car at various dealers.  Find the price of the car before sales tax if Jim bought the car in each of the following states: 
+
+Arizona, where the sales tax is . 
+
+New York, where the sales tax is . 
+
+A state where the sales tax is . 
+
+
+
+A checking account is set up with an initial balance of , and  is removed from the account at the end of each month for rent.  (No other user transactions occur on the account.) 
+
+Write an inequality whose solutions are the months, , in which the account balance is greater than . Write the solution set to your equation by identifying all of the solutions. 
+
+Make a graph of the balance in the account after  months, and indicate on the plot the solutions to your inequality in part (a). 
+
+
+
+Axel and his brother like to play tennis.  About three months ago they decided to keep track of how many games each has won.  As of today, Axel has won  out of the  games against his brother. 
+
+How many games would Axel have to win in a row in order to have a  winning record? 
+
+How many games would Axel have to win in a row in order to have a  winning record? 
+
+Is Axel ever able to reach a  winning record?  Explain why or why not. 
+
+Suppose that after reaching a winning record of  in part (b), Axel had a losing streak.  How many games in a row would Axel have to lose in order to drop down to a winning record of  again? 
+
+
+
+Omar has  and Calina has .  How much money must Omar give to Calina so that Calina will have three times as much as Omar? 
+
+Solve the problem above by setting up an equation. 
+
+In your opinion, is this problem easier to solve using an equation or using a tape diagram?  Why? 
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M1-TE-1.3.0-07.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M1-TE-1.3.0-07.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.134
+
+S.134
+
+	Lesson 25:	Solving Problems in Two Ways—Rates and Algebra 
+
+	
+
+	
+
+	
+
+	Lesson 25:	Solving Problems in Two Ways—Rates and Algebra

@@ -1,0 +1,534 @@
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 9
+
+  
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 9
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+			
+
+			
+
+
+
+Lesson 9:  Graphing Quadratic Functions from Factored Form,   
+
+
+
+Classwork
+
+Opening Exercise
+
+Solve the following equation.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Example 1
+
+Consider the equation .
+
+Given this quadratic equation, can you find the point(s) where the graph crosses the -axis?
+
+
+
+
+
+
+
+
+
+In the last lesson, we learned about the symmetrical nature of the graph of a quadratic function.  How can we use that information to find the vertex for the graph?
+
+
+
+
+
+
+
+
+
+How could we find the -intercept (where the graph crosses the -axis and where )?
+
+
+
+
+
+
+
+
+
+
+
+
+
+What else can we say about the graph based on our knowledge of the symmetrical nature of the graph of a quadratic function?  Can we determine the coordinates of any other points?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Plot the points you know for this equation on graph paper, and connect them to show the graph of the equation. 
+
+
+
+
+
+
+
+Exercise 1
+
+Graph the following functions, and identify key features of the graph.
+
+			b.  	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       				d.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               
+
+              
+
+Example 2
+
+Consider the graph of the quadratic function shown below with -intercepts  and .
+
+Write a formula for a possible quadratic function, in factored form, that the graph represents using  as a constant factor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The intercept of the graph is .  Use the -intercept to adjust your function by finding the constant factor .
+
+        
+
+
+
+
+
+
+
+
+
+
+
+Exercise 2
+
+Given the -intercepts for the graph of a quadratic function, write a possible formula for the quadratic function, in factored form.
+
+-intercepts:   and 3				b.    -intercepts:   and 1
+
+
+
+
+
+
+
+
+
+-intercepts:   and 10				d.    -intercepts:   and 4
+
+
+
+
+
+
+
+
+
+Exercise 3
+
+Consider the graph of the quadratic function shown below with -intercept .
+
+Write a formula for a possible quadratic function, in factored form, that the graph represents using  as a constant factor.
+
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+b. The -intercept of the graph is .  Use the -intercept to adjust your function by finding the constant factor .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example 3
+
+A science class designed a ball launcher and tested it by shooting a tennis ball straight up from the top of a -story building.  They determined that the motion of the ball could be described by the function:  
+
+,
+
+where represents the time the ball is in the air in seconds and  represents the height, in feet, of the ball above the ground at time .  What is the maximum height of the ball?  At what time will the ball hit the ground?  
+
+With a graph, we can see the number of seconds it takes for the ball to reach its peak and how long it takes to hit the ground.  How can factoring the expression help us graph this function?
+
+
+
+
+
+
+
+
+
+
+
+Once we have the function in its factored form, what do we need to know in order to graph it?  Now graph the function.
+
+
+
+
+
+
+
+
+
+
+
+Using the graph, at what time does the ball hit the ground?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Over what domain is the ball rising?  Over what domain is the ball falling?
+
+
+
+
+
+
+
+
+
+
+
+Using the graph, what is the maximum height the ball reaches?
+
+
+
+
+
+
+
+Exercise 4
+
+The science class in Example 3 adjusted their ball launcher so that it could accommodate a heavier ball.  They moved the launcher to the roof of a -story building and launched an 
+-pound shot put straight up into the air.  (Note:  Olympic and high school women use the 
+-pound shot put in track and field competitions.)  The motion is described by the function  
+, where  represents the height, in feet, of the shot put above the ground with respect to time  in seconds.  (Important:  No one was harmed during this experiment!) 
+
+Graph the function, and identify the key features of the graph.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+After how many seconds does the shot put hit the ground?  
+
+
+
+
+
+
+
+
+
+
+
+What is the maximum height of the shot put?  
+
+
+
+
+
+
+
+
+
+
+
+What is the value of , and what does it mean for this problem?
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+When we have a quadratic function in factored form, we can find its -intercepts, -intercept, axis of symmetry, and vertex.  
+
+For any quadratic equation, the roots are the solution(s) where , and these solutions correspond to the points where the graph of the equation crosses the -axis.  
+
+A quadratic equation can be written in the form , where  and  are the roots of the function.  Since the -value of the vertex is the average of the -values of the two roots, we can substitute that value back into the equation to find the -value of the vertex.  If we set , we can find the -intercept.  
+
+
+
+
+
+Lesson Summary
+
+When we have a quadratic function in factored form, we can find its -intercepts, -intercept, axis of symmetry, and vertex.  
+
+For any quadratic equation, the roots are the solution(s) where , and these solutions correspond to the points where the graph of the equation crosses the -axis.  
+
+A quadratic equation can be written in the form , where  and  are the roots of the function.  Since the -value of the vertex is the average of the -values of the two roots, we can substitute that value back into the equation to find the -value of the vertex.  If we set , we can find the -intercept.  
+
+
+
+
+
+
+
+Problem Set 
+
+
+
+Graph the following on your own graph paper, and identify the key features of the graph.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A rocket is launched from a cliff.  The relationship between the height of the rocket, , in feet, and the time since its launch, , in seconds, can be represented by the following function: 
+
+.
+
+Sketch the graph of the motion of the rocket.  
+
+When does the rocket hit the ground?  
+
+When does the rocket reach its maximum height?  
+
+What is the maximum height the rocket reaches?  
+
+At what height was the rocket launched?
+
+
+
+Given the -intercepts for the graph of a quadratic function, write a possible formula for the quadratic function, in factored form.
+
+-intercepts:   and 				b.    -intercepts:   and 
+
+-intercepts:   and 				d.    -intercept:  
+
+
+
+Suppose a quadratic function is such that its graph has-intercepts of and and a-intercept of.
+
+Write a formula for the quadratic function.
+
+Sketch the graph of the function.
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.52
+
+S.52
+
+	Lesson 9:	Graphing Quadratic Functions from Factored Form, 
+
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 9:	Graphing Quadratic Functions from Factored Form,

@@ -1,0 +1,435 @@
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 2
+
+  
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 2
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+			
+
+			
+
+
+
+Lesson 2:  Multiplying and Factoring Polynomial Expressions
+
+
+
+Classwork 
+
+Example 1:  Using a Table as an Aid
+
+Use a table to assist in multiplying .  
+
+
+
+
+
+
+
+
+
+
+
+                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercise 1
+
+Use a table to aid in finding the product of .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Polynomial expression:  A polynomial expression is either:
+
+A numerical expression or a variable symbol, or 
+
+The result of placing two previously generated polynomial expressions into the blanks of the addition operator (____) or the multiplication operator (__ __).
+
+
+
+Exercises 2–6
+
+Multiply the following binomials; note that every binomial given in the problems below is a polynomial in one variable, , with a degree of one.  Write the answers in standard form, which in this case takes the form , where , , and  are constants. 
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Describe any patterns you noticed as you worked.  
+
+
+
+
+
+
+Exercises 7–10
+
+Factor the following quadratic expressions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example 3:  Quadratic Expressions
+
+If the leading coefficient for a quadratic expression is not , the first step in factoring should be to see if all the terms in the expanded form have a common factor.  Then, after factoring out the greatest common factor, it may be possible to factor again.  
+
+
+
+For example, to factor to  completely, begin by finding the GCF.
+
+The GCF of the expression is :		  	.
+
+Now, factor the difference of squares:          		.
+
+
+
+Another example:  Follow the steps to factor  completely.  
+
+
+
+First, factor out the GCF.  (Remember:  When you factor out a negative number, all the signs on the resulting factor change.)
+
+
+
+
+
+
+
+
+
+	
+
+Now look for ways to factor further.  (Notice the quadratic expression factors.)
+
+		
+
+
+
+
+
+
+Lesson Summary
+
+Multiplying binomials is an application of the distributive property; each term in the first binomial is distributed over the terms of the second binomial.
+
+The area model can be modified into a tabular form to model the multiplication of binomials (or other polynomials) that may involve negative terms.  
+
+When factoring trinomial expressions (or other polynomial expressions), it is useful to look for a GCF as your first step.  
+
+Do not forget to look for these special cases:  
+
+The square of a binomial 
+
+The product of the sum and difference of two expressions.
+
+
+
+Lesson Summary
+
+Multiplying binomials is an application of the distributive property; each term in the first binomial is distributed over the terms of the second binomial.
+
+The area model can be modified into a tabular form to model the multiplication of binomials (or other polynomials) that may involve negative terms.  
+
+When factoring trinomial expressions (or other polynomial expressions), it is useful to look for a GCF as your first step.  
+
+Do not forget to look for these special cases:  
+
+The square of a binomial 
+
+The product of the sum and difference of two expressions.
+
+
+
+
+
+Problem Set 
+
+
+
+Factor these trinomials as the product of two binomials, and check your answer by multiplying. 
+
+
+
+
+
+
+
+
+
+Factor completely. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The square parking lot at Gene Simon’s Donut Palace is going to be enlarged so that there will be an additional  of parking space in the front of the lot and an additional  of parking space on the side of the lot, as shown in the figure below.  Write an expression in terms of  that can be used to represent the area of the new parking lot.
+
+
+Explain how your solution is demonstrated in the area model.
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.9
+
+S.9
+
+	Lesson 2:	Multiplying and Factoring Polynomial Expressions
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 2:	Multiplying and Factoring Polynomial Expressions

@@ -1,0 +1,126 @@
+Lesson 1
+
+Lesson 1
+
+M1
+
+M1
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+
+
+
+
+
+
+Lesson 1:  Graphs of Piecewise Linear Functions
+
+
+
+Classwork
+
+Exploratory Challenge
+
+
+
+
+Example 1
+
+Here is an elevation-versus-time graph of a person’s motion.  Can we describe what the person might have been doing?
+
+
+
+
+
+
+
+
+
+or
+
+orPiecewise-defined linear function:  Given non-overlapping intervals on the real number line, a (real) piecewise linear function is a function from the union of the intervals on the real number line that is defined by (possibly different) linear functions on each interval.
+
+Problem Set
+
+
+
+Watch the video, “Elevation vs. Time #3” (below)
+
+http://www.mrmeyer.com/graphingstories1/graphingstories3.mov. (This is the third video under “Download Options” at the site http://blog.mrmeyer.com/?p=213 called “Elevation vs. Time #3.”)
+
+It shows a man climbing down a ladder that is  high.  At time , his shoes are at  above the floor, and at time , his shoes are at   From time  to the  mark, he drinks some water on the step  off the ground.  After drinking the water, he takes  to descend to the ground, and then he walks into the kitchen.  The video ends at the  mark.
+
+Draw your own graph for this graphing story.  Use straight line segments in your graph to model the elevation of the man over different time intervals.  Label your -axis and -axis appropriately, and give a title for your graph.  
+
+Your picture is an example of a graph of a piecewise linear function.  Each linear function is defined over an interval of time, represented on the horizontal axis.  List those time intervals.
+
+In your graph in part (a), what does a horizontal line segment represent in the graphing story? 
+
+If you measured from the top of the man’s head instead (he is  tall), how would your graph change? 
+
+Suppose the ladder descends into the basement of the apartment.  The top of the ladder is at ground level () and the base of the ladder is  below ground level.  How would your graph change in observing the man following the same motion descending the ladder? 
+
+What is his average rate of descent between time  and time ?  What was his average rate of descent between time  and time ?  Over which interval does he descend faster? Describe how your graph in part (a) can also be used to find the interval during which he is descending fastest. 
+
+
+
+Create an elevation-versus-time graphing story for the following graph:
+
+
+
+Draw an elevation-versus-time graphing story of your own, and then create a story for it.
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M1-TE-1.3.0-07.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M1-TE-1.3.0-07.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.3
+
+S.3
+
+	Lesson 1:	Graphs of Piecewise Linear Functions 
+
+	
+
+	
+
+	
+
+	Lesson 1:	Graphs of Piecewise Linear Functions

@@ -1,0 +1,272 @@
+Lesson 3
+
+Lesson 3
+
+M3
+
+M3
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+	
+
+	
+
+
+
+Lesson 3:  Arithmetic and Geometric Sequences
+
+
+
+Classwork 
+
+Exercise 2
+
+Think of a real-world example of an arithmetic or a geometric sequence.  Describe it, and write its formula.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercise 3
+
+If we fold a rectangular piece of paper in half multiple times and count the number of rectangles created, what type of sequence are we creating?  Can you write the formula?
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+Two types of sequences were studied:
+
+Arithmetic sequence:  A sequence is called arithmetic if there is a real number  such that each term in the sequence is the sum of the previous term and . 
+
+Geometric sequence:  A sequence is called geometric if there is a real number  such that each term in the sequence is a product of the previous term and .  
+
+
+
+Lesson Summary
+
+Two types of sequences were studied:
+
+Arithmetic sequence:  A sequence is called arithmetic if there is a real number  such that each term in the sequence is the sum of the previous term and . 
+
+Geometric sequence:  A sequence is called geometric if there is a real number  such that each term in the sequence is a product of the previous term and .  
+
+
+
+
+
+Problem Set 
+
+
+
+For Problems 1–4, list the first five terms of each sequence, and identify them as arithmetic or geometric.  
+
+ for  and 
+
+
+
+ for  and 
+
+
+
+ for  and 
+
+
+
+ for  and 
+
+
+
+For Problems 5–8, identify the sequence as arithmetic or geometric, and write a recursive formula for the sequence.  Be sure to identify your starting value.
+
+, , , , …
+
+
+
+, , , , …
+
+
+
+, ,   , …
+
+
+
+, , , , …
+
+
+
+The local football team won the championship several years ago, and since then, ticket prices have been increasing  per year.  The year they won the championship, tickets were .  Write a recursive formula for a sequence that models ticket prices.  Is the sequence arithmetic or geometric?
+
+
+
+
+
+
+
+A radioactive substance decreases in the amount of grams by one-third each year.  If the starting amount of the substance in a rock is , write a recursive formula for a sequence that models the amount of the substance left after the end of each year.  Is the sequence arithmetic or geometric?
+
+
+
+Find an explicit form  for each of the following arithmetic sequences (assume  is some real number and  is some real number).
+
+, , ,  ...
+
+, , ,  ...
+
+, , ,  ...
+
+, , ,  ...
+
+
+
+Consider the arithmetic sequence , ,  ....
+
+Find an explicit form for the sequence in terms of .  
+
+Find the th term.
+
+If the th term is , find the value of .
+
+
+
+If , , , ,  forms an arithmetic sequence, find the values of , , and .
+
+
+
+, , , ... is an arithmetic sequence for some real number . 
+
+Find the value of .
+
+Find the th term of the sequence.
+
+
+
+Find an explicit form  of the arithmetic sequence where the nd term is  and the sum of the rd term and th term is .
+
+
+
+Challenge:  In the right triangle figure below, the lengths of the sides , , and  of the right triangle form a finite arithmetic sequence.  If the perimeter of the triangle is , find the values of , , and .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Find the common ratio and an explicit form in each of the following geometric sequences.
+
+, , , , ...
+
+, , , ...
+
+, , , , ...
+
+, , , , ...
+
+The first term in a geometric sequence is , and the th term is .  Find an explicit form for the geometric sequence.
+
+
+
+If , , ,  forms a geometric sequence, find the values of  and .
+
+
+
+Find the explicit form of a geometric sequence if  and .
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M3-TE-1.3.0-08.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M3-TE-1.3.0-08.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.14
+
+S.14
+
+	Lesson 3:	Arithmetic and Geometric Sequences
+
+	
+
+	
+
+	Lesson 3:	Arithmetic and Geometric Sequences

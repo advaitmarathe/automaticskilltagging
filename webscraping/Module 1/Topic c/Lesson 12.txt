@@ -1,0 +1,413 @@
+M1
+
+  
+
+M1
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+Lesson 12
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+Lesson 12
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+
+
+
+
+
+
+Lesson 12:  Solving Equations
+
+
+
+Classwork 
+
+Opening Exercise
+
+Answer the following questions.
+
+Why should the equations  and  have the same solution set?
+
+
+
+
+
+Why should the equations  and  have the same solution set?
+
+
+
+
+
+Do you think the equations  and  should have the same solution set?  Why?
+
+
+
+
+
+Do you think the equations  and  should have the same solution set?  Explain why.
+
+
+
+
+
+Exercise 1
+
+Use the commutative property to write an equation that has the same solution set as
+
+.
+
+
+
+
+
+
+
+Use the associative property to write an equation that has the same solution set as 
+
+.
+
+
+
+
+
+
+
+Does this reasoning apply to the distributive property as well? 
+
+
+
+
+
+Exercise 2
+
+Consider the equation .
+
+Verify that this has the solution set .  Draw this solution set as a graph on the number line.  We will later learn how to show that these happen to be the ONLY solutions to this equation.
+
+
+
+
+
+
+
+
+
+Let’s add 4 to both sides of the equation and consider the new equation .  Verify  and  are still solutions.
+
+
+
+
+
+
+
+
+
+Let’s now add  to both sides of the equation and consider the new equation .  Are  and  still solutions? 
+
+
+
+
+
+
+
+
+
+Let’s add  to both sides of the equation and consider the new equation .  Are  and  still solutions?
+
+
+
+
+
+
+
+
+
+Let’s multiply both sides by  to get .  Are  and  still solutions?	
+
+
+
+
+
+
+
+
+
+
+
+Let’s go back to part (d) and add  to both sides of the equation and consider the new equation 
+.  Are  and  still solutions? 
+
+
+
+
+
+
+
+
+
+Exercise 3
+
+Solve for :  
+
+
+
+
+
+
+
+
+
+
+
+Solve for :  
+
+
+
+
+
+
+
+
+
+
+
+Solve for :  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercise 4
+
+Consider the equation .  Solve for  using the given starting point.  
+
+
+
+Group 1
+
+Group 2
+
+Group 3
+
+Group 4
+
+Subtract  from both sides
+
+Subtract  from both sides
+
+Subtract  from both sides
+
+Add  to both sides
+
+
+
+
+
+
+
+
+
+Closing 
+
+Consider the equation .
+
+Use the commutative property to create an equation with the same solution set.
+
+
+
+
+
+
+
+Using the result from part (a), use the associative property to create an equation with the same solution set.
+
+
+
+
+
+
+
+Using the result from part (b), use the distributive property to create an equation with the same solution set.
+
+
+
+
+
+
+
+Using the result from part (c), add a number to both sides of the equation.
+
+
+
+
+
+
+
+Using the result from part (d), subtract a number from both sides of the equation.
+
+
+
+
+
+
+
+Using the result from part (e), multiply both sides of the equation by a number.
+
+
+
+
+
+
+
+Using the result from part (f), divide both sides of the equation by a number.
+
+
+
+
+
+
+
+What do all seven equations have in common?  Justify your answer.
+
+
+
+
+
+
+
+
+Lesson Summary
+
+If  is a solution to an equation, it will also be a solution to the new equation formed when the same number is added to (or subtracted from) each side of the original equation or when the two sides of the original equation are multiplied by (or divided by) the same nonzero number.  These are referred to as the properties of equality.
+
+If one is faced with the task of solving an equation, that is, finding the solution set of the equation:
+
+Use the commutative, associative, and distributive properties, AND use the properties of equality (adding, subtracting, multiplying by nonzeros, dividing by nonzeros) to keep rewriting the equation into one whose solution set you easily recognize.  (We believe that the solution set will not change under these operations.)
+
+
+
+Lesson Summary
+
+If  is a solution to an equation, it will also be a solution to the new equation formed when the same number is added to (or subtracted from) each side of the original equation or when the two sides of the original equation are multiplied by (or divided by) the same nonzero number.  These are referred to as the properties of equality.
+
+If one is faced with the task of solving an equation, that is, finding the solution set of the equation:
+
+Use the commutative, associative, and distributive properties, AND use the properties of equality (adding, subtracting, multiplying by nonzeros, dividing by nonzeros) to keep rewriting the equation into one whose solution set you easily recognize.  (We believe that the solution set will not change under these operations.)
+
+
+
+
+
+Problem Set
+
+
+
+Which of the following equations have the same solution set?  Give reasons for your answers that do not depend on solving the equations.
+
+
+
+I.    			II.  		III.  
+
+
+
+IV.  		V.  		VI.  
+
+
+
+Solve the following equations, check your solutions, and then graph the solution sets.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M1-TE-1.3.0-07.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M1-TE-1.3.0-07.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.66
+
+S.66
+
+	Lesson 12:	Solving Equations 
+
+	
+
+	
+
+	
+
+	Lesson 12:	Solving Equations

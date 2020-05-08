@@ -1,0 +1,408 @@
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+Lesson 19
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+Lesson 19
+
+  
+
+M1
+
+  
+
+M1
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+
+
+
+
+
+
+Lesson 19:  Rearranging Formulas
+
+
+
+Classwork
+
+Exercises 1–3
+
+Solve each equation for .  For part (c), remember a variable symbol, like , , and , represents a number.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compare your work in parts (a) through (c) above.  Did you have to do anything differently to solve for  in part (c)?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solve the equation  for .  The variable symbols , , and , represent numbers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example 1:  Rearranging Familiar Formulas
+
+The area  of a rectangle is .  The formula for area is .
+
+If the width  is , what is the length ?
+
+
+
+
+
+If the width  is , what is the length ?
+
+
+
+
+
+Rearrange the area formula to solve for .  
+
+
+
+
+
+
+
+
+
+
+
+Verify that the area formula, solved for , will give the same results for  as having solved for  in the original area formula.  
+
+
+
+
+
+
+
+
+
+Exercises 4–5
+
+Solve each problem two ways.  First, substitute the given values, and solve for the given variable.  Then, solve for the given variable, and substitute the given values.
+
+The perimeter formula for a rectangle is , where  represents the perimeter,  represents the length, and  represents the width.  Calculate  when  and .
+
+
+
+
+
+
+
+
+
+
+
+The area formula for a triangle is , where  represents the area,  represents the length of the base, and  represents the height.  Calculate  when  and .
+
+
+
+
+
+
+
+Rearrange each formula to solve for the specified variable.  Assume no variable is equal to .   
+
+Given ,
+
+Solve for .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solve for .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Given ,
+
+Solve for .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solve for .
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example 2:  Comparing Equations with One Variable to Those with More Than One Variable
+
+
+
+Equation Containing More Than One Variable
+
+Related Equation
+
+Solve  for .
+
+
+
+Solve  for .
+
+
+
+Solve for .
+
+
+
+
+
+
+
+Solve for .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+The properties and reasoning used to solve equations apply regardless of how many variables appear in an equation or formula.  Rearranging formulas to solve for a specific variable can be useful when solving applied problems.
+
+
+
+Lesson Summary
+
+The properties and reasoning used to solve equations apply regardless of how many variables appear in an equation or formula.  Rearranging formulas to solve for a specific variable can be useful when solving applied problems.
+
+Problem Set 
+
+
+
+For Problems 1–8, solve for .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solve for . 
+
+
+
+Solve for .	
+
+
+
+Solve for .
+
+
+
+Solve for .
+
+
+
+Solve for .
+
+
+
+Solve for .
+
+
+
+Solve for .
+
+
+
+Solve for .
+
+
+
+
+
+The science teacher wrote three equations on a board that relate velocity, , distance traveled, , and the time to travel the distance, , on the board.
+
+
+
+
+
+
+
+
+
+Would you need to memorize all three equations, or could you just memorize one?  Explain your reasoning.
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M1-TE-1.3.0-07.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M1-TE-1.3.0-07.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.107
+
+S.107
+
+	Lesson 19:	Rearranging Formulas 
+
+	
+
+	
+
+	
+
+	Lesson 19:	Rearranging Formulas

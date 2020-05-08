@@ -1,0 +1,234 @@
+M1
+
+  
+
+M1
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+Lesson 3
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+Lesson 3
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+
+
+
+
+
+
+Lesson 3:  Graphs of Exponential Functions
+
+
+
+Classwork
+
+Example
+
+Consider the story:
+
+Darryl lives on the third floor of his apartment building.  His bike is locked up outside on the ground floor.  At 3:00 p.m., he leaves to go run errands, but as he is walking down the stairs, he realizes he forgot his wallet.  He goes back up the stairs to get it and then leaves again.  As he tries to unlock his bike, he realizes that he forgot his keys.  One last time, he goes back up the stairs to get his keys.  He then unlocks his bike, and he is on his way at 3:10 p.m.
+
+Sketch a graph that depicts Darryl’s change in elevation over time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exploratory Challenge
+
+Watch the following graphing story:
+
+https://www.youtube.com/watch?v=gEwzDydciWc
+
+The video shows bacteria doubling every second.  
+
+
+
+Graph the number of bacteria versus time in seconds.  Begin by counting the number of bacteria present at each second and plotting the appropriate points on the set of axes below.  Consider how you might handle estimating these counts as the population of the bacteria grows.
+
+
+
+
+
+
+
+Graph the number of bacteria versus time in minutes.
+
+
+
+
+
+
+
+Graph the number of bacteria versus time in hours (for the first five hours).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Problem Set
+
+
+
+Below are three stories about the population of a city over a period of time and four population-versus-time graphs.  Two of the stories each correspond to a graph.  Match the two graphs and the two stories.  Write stories for the other two graphs, and draw a graph that matches the third story.
+
+Story 1:  The population size grows at a constant rate for some time, then doesn’t change for a while, and then grows at a constant rate once again.
+
+Story 2:  The population size grows somewhat fast at first, and then the rate of growth slows.
+
+Story 3:  The population size declines to zero.  
+
+
+
+
+
+In the video, the narrator says:
+
+“Just one bacterium, dividing every , could produce nearly  billion billion bacteria in one day.  That is  bacteria."
+
+This seems WAY too big.  Could this be correct, or did she make a mistake?  (Feel free to experiment with numbers using a calculator.)
+
+
+
+Bacillus cereus is a soil-dwelling bacterium that sometimes causes food poisoning.  Each cell divides to form two new cells every .  If a culture starts out with exactly  bacterial cells, how many bacteria will be present after ?
+
+
+
+
+
+
+Create a story to match each graph below:
+
+
+
+
+
+Consider the following story about skydiving: 
+
+Julie gets into an airplane and waits on the tarmac for  before it takes off.  The airplane climbs to  over the next .  After  at that constant elevation, Julie jumps from the plane and free falls for  until she reaches a height of .  Deploying her chute, she slowly glides back to Earth over the next  where she lands gently on the ground.
+
+Draw an elevation-versus-time graph to represent Julie’s elevation with respect to time.
+
+According to your graph, describe the manner in which the plane climbed to its elevation of .
+
+What assumption(s) did you make about falling after she opened the parachute?
+
+
+
+Draw a graph of the number of bacteria versus time for the following story:  Dave is doing an experiment with a type of bacteria that he assumes divides in half exactly every .  He begins at 8:00 a.m. with  bacteria in a Petri dish and waits for   At 11:00 a.m., he decides this is too large of a sample and adds Chemical A to the dish, which kills half of the bacteria almost immediately.  The remaining bacteria continue to grow in the same way.  At noon, he adds Chemical B to observe its effects.  After observing the bacteria for two more hours, he observes that Chemical B seems to have cut the growth rate in half.
+
+
+
+Decide how to label the vertical axis so that you can graph the data set on the axes below.  Graph the data set and draw a curve through the data points. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M1-TE-1.3.0-07.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M1-TE-1.3.0-07.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.12
+
+S.12
+
+	Lesson 3:	Graphs of Exponential Functions 
+
+	
+
+	
+
+	
+
+	Lesson 3:	Graphs of Exponential Functions

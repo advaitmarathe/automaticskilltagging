@@ -1,0 +1,344 @@
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 6
+
+  
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 6
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+			
+
+			
+
+
+
+Lesson 6:  Solving Basic One-Variable Quadratic Equations  
+
+
+
+Classwork 
+
+Example 1
+
+A physics teacher put a ball at the top of a ramp and let it roll down toward the floor.  The class determined that the height of the ball could be represented by the equation , where the height, , is measured in feet from the ground and time, , is measured in seconds.
+
+What do you notice about the structure of the quadratic expression in this problem?
+
+
+
+
+
+
+
+
+
+
+
+In the equation, explain what the  represents.
+
+
+
+
+
+
+
+
+
+
+
+Explain how you would use the equation to determine the time it takes the ball to reach the floor.
+
+
+
+
+
+
+
+
+
+
+
+Now consider the two solutions for .  Which one is reasonable?  Does the final answer make sense based on this context?  Explain.
+
+
+
+
+
+
+
+
+
+
+Example 2
+
+Lord Byron is designing a set of square garden plots so some peasant families in his kingdom can grow vegetables.  The minimum size for a plot recommended for vegetable gardening is at least  on each side.  Lord Byron has enough space around the castle to make bigger plots.  He decides that each side should be the minimum () plus an additional . 
+
+What expression can represent the area of one individual garden based on the undecided additional length ?
+
+
+
+
+
+
+
+There are  families in the kingdom who are interested in growing vegetables in the gardens.  What equation can represent the total area, , of the  gardens?
+
+
+
+
+
+
+
+
+
+If the total area available for the gardens is , what are the dimensions of each garden?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Find both values for  that make the equation in part (c) true (the solution set).  What value of  does Lord Byron need to add to the ?
+
+
+
+
+
+
+
+
+
+
+
+Exercises
+
+Solve each equation.  Some of them may have radicals in their solutions.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Analyze the solutions for Exercises 2–4.  Notice how the questions all had  as a factor, but each solution was different (radical, mixed number, whole number).  Explain how the structure of each expression affected each problem-solution pair.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Peter is a painter, and he wonders if he would have time to catch a paint bucket dropped from his ladder before it hits the ground.  He drops a bucket from the top of his -foot ladder.  The height, , of the bucket during its fall can be represented by the equation, , where the height is measured in feet from the ground, and the time since the bucket was dropped, , is measured in seconds.  After how many seconds does the bucket hit the ground?  Do you think he could catch the bucket before it hits the ground?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+By looking at the structure of a quadratic equation (missing linear terms, perfect squares, factored expressions), you can find clues for the best method to solve it.  Some strategies include setting the equation equal to zero, factoring out the GCF or common factors, and using the zero product property.  
+
+Be aware of the domain and range for a function presented in context, and consider whether answers make sense in that context.
+
+Lesson Summary
+
+By looking at the structure of a quadratic equation (missing linear terms, perfect squares, factored expressions), you can find clues for the best method to solve it.  Some strategies include setting the equation equal to zero, factoring out the GCF or common factors, and using the zero product property.  
+
+Be aware of the domain and range for a function presented in context, and consider whether answers make sense in that context.
+
+Problem Set 
+
+
+
+Factor completely:  .
+
+
+
+Solve each equation. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mischief is a toy poodle that competes with her trainer in the agility course.  Within the course, Mischief must leap through a hoop.  Mischief’s jump can be modeled by the equation , where  is the height of the leap in feet and  is the time since the leap, in seconds.  At what values of  does Mischief start and end the jump?
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.32
+
+S.32
+
+	Lesson 6:	Solving Basic One-Variable Quadratic Equations  
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 6:	Solving Basic One-Variable Quadratic Equations

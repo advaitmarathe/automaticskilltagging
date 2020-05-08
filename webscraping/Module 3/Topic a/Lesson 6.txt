@@ -1,0 +1,672 @@
+Lesson 6
+
+Lesson 6
+
+M3
+
+M3
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+		
+
+		
+
+
+
+Lesson 6:  Exponential Growth—U.S. Population and World Population	 
+
+
+
+Classwork 
+
+Mathematical Modeling Exercise 1
+
+Callie and Joe are examining the population data in the graphs below for a history report.  Their comments are as follows:
+
+Callie:  It looks like the U.S. population grew the same amount as the world population, but that can’t be right, can it?
+
+Joe:  Well, I don’t think they grew by the same amount, but they sure grew at about the same rate.  Look at the slopes.
+
+
+
+Is Callie’s observation correct?  Why or why not?
+
+
+
+
+
+
+
+
+
+
+
+Is Joe’s observation correct?  Why or why not?
+
+
+
+
+
+
+
+
+
+
+
+Use the World Population graph to estimate the percent increase in world population from 1950 to 2000.
+
+
+
+
+
+
+
+
+
+
+
+Now, use the U.S. Population graph to estimate the percent increase in the U.S. population for the same time period.
+
+
+
+
+
+
+
+
+
+
+
+How does the percent increase for the world population compare to that for the U.S. population over the same time period, 1950 to 2000?
+
+
+
+
+
+
+
+
+
+
+
+Do the graphs above seem to indicate linear or exponential population growth?  Explain your response.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write an explicit formula for the sequence that models the world population growth from 1950 to 2000 based on the information in the graph.  Assume that the population (in millions) in 1950 was  and in 2000 was .  Use  to represent the number of years after 1950.
+
+
+
+
+
+
+
+
+
+
+Mathematical Modeling Exercise 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How is this graph similar to the World Population graph in Mathematical Modeling Exercise 1?  How is it different?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Does the behavior of the graph from 1950 to 2000 match that shown on the graph in Mathematical Modeling Exercise 1?  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why is the graph from Mathematical Modeling Exercise 1 somewhat misleading?
+
+
+
+
+
+
+
+
+
+
+
+
+
+An exponential formula that can be used to model the world population growth from 1950 through 2000 is as follows:
+
+
+
+where  represents the world population in the year 1950, and  represents the number of years after 1950.  Use this equation to calculate the world population in 1950, 1980, and 2000.  How do your calculations compare with the world populations shown on the graph?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The following is a table showing the world population numbers used to create the graphs above.  
+
+Year
+
+World Population
+
+(in millions)
+
+1700
+
+
+
+1750
+
+
+
+1800
+
+
+
+1850
+
+
+
+1900
+
+
+
+1950
+
+
+
+1960
+
+
+
+1970
+
+
+
+1980
+
+
+
+1990
+
+
+
+2000
+
+
+
+How do the numbers in the table compare with those you calculated in part (d) above?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How is the formula in part (d) above different from the formula in Mathematical Modeling Exercise 1, part (g)?  What causes the difference?  Which formula more closely represents the population?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercises 1–2
+
+The table below represents the population of the United States (in millions) for the specified years. 
+
+Year
+
+U.S. Population
+
+(in millions)
+
+1800
+
+
+
+1900
+
+
+
+2000
+
+
+
+If we use the data from 1800 to 2000 to create an exponential equation representing the population, we generate the following formula for the sequence, where  represents the U.S. population and  represents the number of years after 1800.
+
+
+
+Use this formula to determine the population of the United States in the year 2010.
+
+
+
+
+
+
+
+
+
+
+
+If we use the data from 1900 to 2000 to create an exponential equation that models the population, we generate the following formula for the sequence, where  represents the U.S. population and  represents the number of years after .
+
+
+
+Use this formula to determine the population of the United States in the year 2010.
+
+
+
+
+
+
+
+
+
+
+
+
+The actual U.S. population in the year 2010 was  million.  Which of the above formulas better models the U.S. population for the entire span of 1800–2010?  Why?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Complete the table below to show projected population figures for the years indicated.  Use the formula from part (b) to determine the numbers.
+
+Year
+
+World Population
+
+(in millions)
+
+2020
+
+
+
+2050
+
+
+
+2080
+
+
+
+Are the population figures you computed reasonable?  What other factors need to be considered when projecting population?
+
+
+
+
+
+
+
+
+
+
+
+
+
+The population of the country of Oz was  in the year 2010.  The population is expected to grow by a factor of  annually.  The annual food supply of Oz is currently sufficient for a population of  people and is increasing at a rate that will supply food for an additional  people per year.
+
+Write a formula to model the population of Oz.  Is your formula linear or exponential?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write a formula to model the food supply.  Is the formula linear or exponential?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+At what point does the population exceed the food supply?  Justify your response.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If Oz doubled its current food supply (to  million), would shortages still take place?  Explain.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If Oz doubles both its beginning food supply and doubles the rate at which the food supply increases, would food shortages still take place?  Explain.
+
+
+
+
+
+
+
+
+
+
+
+
+Problem Set
+
+
+
+Student Friendly Bank pays a simple interest rate of  per year.  Neighborhood Bank pays a compound interest rate of  per year, compounded monthly.
+
+Which bank will provide the largest balance if you plan to invest  for  years?  For  years?
+
+Write an explicit formula for the sequence that models the balance in the Student Friendly Bank account  years after a deposit is left in the account. 
+
+Write an explicit formula for the sequence that models the balance in the Neighborhood Bank account  months after a deposit is left in the account.
+
+Create a table of values indicating the balances in the two bank accounts from year  to year  in -year increments.  Round each value to the nearest dollar.
+
+Year
+
+Student Friendly Bank
+
+(in dollars)
+
+Neighborhood Bank
+
+(in dollars)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Which bank is a better short-term investment?  Which bank is better for those leaving money in for a longer period of time?  When are the investments about the same?
+
+What type of model is Student Friendly Bank?  What is the rate or ratio of change?
+
+What type of model is Neighborhood Bank?  What is the rate or ratio of change?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The table below represents the population of the state of New York for the years 1800–2000.  Use this information to answer the questions.
+
+Year
+
+Population
+
+1800
+
+
+
+1900
+
+
+
+2000
+
+
+
+Using the year 1800 as the base year, an explicit formula for the sequence that models the population of New York is , where  is the number of years after 1800.  
+
+Using this formula, calculate the projected population of New York in 2010.
+
+Using the year 1900 as the base year, an explicit formula for the sequence that models the population of New York is , where  is the number of years after 1900.
+
+Using this formula, calculate the projected population of New York in 2010.
+
+Using the Internet (or some other source), find the population of the state of New York according to the 2010 census.  Which formula yielded a more accurate prediction of the 2010 population?
+
+
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M3-TE-1.3.0-08.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M3-TE-1.3.0-08.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.28
+
+S.28
+
+	Lesson 6:	Exponential Growth—U.S. Population and World Population
+
+	
+
+	
+
+	Lesson 6:	Exponential Growth—U.S. Population and World Population

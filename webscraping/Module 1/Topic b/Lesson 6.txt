@@ -1,0 +1,287 @@
+Lesson 6
+
+Lesson 6
+
+M1
+
+M1
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+
+
+
+
+
+
+Lesson 6:  Algebraic Expressions—The Distributive Property
+
+
+
+Classwork 
+
+Exercises
+
+Using the numbers , , ,  only once and the operations  or  as many times as you like, write an expression that evaluates to .  Use this expression and any combination of those symbols as many times as you like to write an expression that evaluates to .
+
+
+
+
+
+
+
+
+
+
+
+Define the rules of a game as follows: 
+
+	Begin by choosing an initial set of symbols, variable or numeric, as a starting set of expressions. 
+
+	
+
+	
+
+	
+
+	Generate more expressions by placing any previously created expressions into the blanks of the addition operator:  .
+
+
+
+
+
+
+
+
+
+Roma says that collecting like terms can be seen as an application of the distributive property.  Is writing  an application of the distributive property?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Leela is convinced that .  Do you think she is right?  Use a picture to illustrate your reasoning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Draw a picture to represent the expression .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Draw a picture to represent the expression 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Key Belief of Arithmetic
+
+The distributive property:  If , , and  are real numbers, then .
+
+
+
+Lesson Summary
+
+The distributive property represents a key belief about the arithmetic of real numbers.  This property can be applied to algebraic expressions using variables that represent real numbers.  
+
+
+
+Lesson Summary
+
+The distributive property represents a key belief about the arithmetic of real numbers.  This property can be applied to algebraic expressions using variables that represent real numbers.  
+
+
+
+
+
+Problem Set
+
+
+
+Insert parentheses to make each statement true.
+
+
+
+
+
+
+
+
+
+
+
+Using starting symbols of , , , and , which of the following expressions will NOT appear when following the rules of the game played in Exercise 3?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Luke wants to play the -number game with the numbers , , , and  and the operations of addition, multiplication, AND subtraction.
+
+Leoni responds, “Or we just could play the -number game with just the operations of addition and multiplication, but now with the numbers , , , , , , , and  instead.” 
+
+What observation is Leoni trying to point out to Luke?
+
+
+
+Consider the expression:  .
+
+Draw a picture to represent the expression.
+
+Write an equivalent expression by applying the distributive property.
+
+
+
+
+
+Given that , which of the shaded regions is larger and why?
+
+Consider the expressions  and .  Which would result in a larger product?  Use a diagram to demonstrate your result.
+
+
+
+Consider the following diagram.
+
+
+
+Edna looked at the diagram and then highlighted the four small rectangles shown and concluded:
+
+.
+
+
+
+Michael, when he saw the picture, highlighted four rectangles and concluded:
+
+.
+
+Which four rectangles and one square did he highlight?
+
+Jill, when she saw the picture, highlighted eight rectangles and squares (not including the square in the middle) to conclude:
+
+.
+
+Which eight rectangles and squares did she highlight?
+
+When Fatima saw the picture, she concluded:  
+
+.  
+
+She claims she highlighted just four rectangles to conclude this.  Identify the four rectangles she highlighted, and explain how using them she arrived at the expression .
+
+Is each student's technique correct?  Explain why or why not.
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M1-TE-1.3.0-07.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M1-TE-1.3.0-07.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.26
+
+S.26
+
+	Lesson 6:	Algebraic Expressions—The Distributive Property
+
+	
+
+	
+
+	Lesson 6:	Algebraic Expressions—The Distributive Property

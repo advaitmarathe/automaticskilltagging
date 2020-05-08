@@ -1,0 +1,502 @@
+M1
+
+  
+
+M1
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+Lesson 13
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+Lesson 13
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+				
+
+				
+
+
+
+Lesson 13:  Some Potential Dangers When Solving Equations
+
+
+
+In previous lessons, we have looked at techniques for solving equations, a common theme throughout algebra.  In this lesson, we examine some potential dangers where our intuition about algebra may need to be examined.
+
+
+
+Classwork
+
+Exercises
+
+Describe the property used to convert the equation from one line to the next:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In each of the steps above, we applied a property of real numbers and/or equations to create a new equation.
+
+
+
+Why are we sure that the initial equation  and the final equation   have the same solution set?
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is the common solution set to all these equations?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solve the equation for .  For each step, describe the operation used to convert the equation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solve each equation for .  For each step, describe the operation used to convert the equation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Consider the equations  and .
+
+Verify that  is a solution to both equations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Find a second solution to the second equation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Based on your results, what effect does squaring both sides of an equation appear to have on the solution set?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Consider the equations  and .
+
+Did squaring both sides of the equation affect the solution sets?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Based on your results, does your answer to part (c) of the previous question need to be modified?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Consider the equation . 
+
+Verify that , , and  are each solutions to this equation. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bonzo decides to apply the action “ignore the exponents” on each side of the equation.  He gets .  In solving this equation, what does he obtain?  What seems to be the problem with his technique? 
+
+
+
+
+
+
+
+
+
+What would Bonzo obtain if he applied his “method” to the equation ?  Is it a solution to the original equation?
+
+
+
+
+
+
+
+
+
+Consider the equation .
+
+Multiply both sides of the equation by a constant, and show that the solution set did not change.
+
+
+
+
+
+
+
+
+
+
+
+Now, multiply both sides by .
+
+
+
+
+
+
+
+
+
+Show that  is still a solution to the new equation.     
+
+
+
+
+
+
+
+
+
+
+
+Show that  is also a solution to the new equation.
+
+
+
+
+
+
+
+
+
+
+
+Now, multiply both sides by the factor .  
+
+
+
+
+
+
+
+
+
+
+
+Show that  is still a solution to the new equation.     
+
+
+
+
+
+
+
+
+
+
+
+Show that  is also a solution to the new equation.
+
+
+
+
+
+
+
+
+
+
+
+Based on your results, what effect does multiplying both sides of an equation by a constant have on the solution set of the new equation?
+
+
+
+
+
+
+
+
+
+
+
+Based on your results, what effect does multiplying both sides of an equation by a variable factor have on the solution set of the new equation?
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+Assuming that there is a solution to an equation, applying the distributive, commutative, and associative properties and the properties of equality to equations will not change the solution set.  
+
+Feel free to try doing other operations to both sides of an equation, but be aware that the new solution set you get contains possible candidates for solutions.  You have to plug each one into the original equation to see if it really is a solution to your original equation.
+
+Lesson Summary
+
+Assuming that there is a solution to an equation, applying the distributive, commutative, and associative properties and the properties of equality to equations will not change the solution set.  
+
+Feel free to try doing other operations to both sides of an equation, but be aware that the new solution set you get contains possible candidates for solutions.  You have to plug each one into the original equation to see if it really is a solution to your original equation.
+
+Problem Set 
+
+
+
+Solve each equation for .  For each step, describe the operation used to convert the equation.  How do you know that the initial equation and the final equation have the same solution set?
+
+
+
+
+
+
+
+
+
+Consider the equation .
+
+Find the solution set.
+
+Multiply both sides by , and find the solution set of the new equation.
+
+Multiply both sides of the original equation by , and find the solution set of the new equation.
+
+
+
+Solve the equation  for .  Square both sides of the equation, and verify that your solution satisfies this new equation.  Show that  satisfies the new equation but not the original equation.
+
+
+
+Consider the equation .
+
+What is the solution set?
+
+Does multiplying both sides by  change the solution set?
+
+Does multiplying both sides by  change the solution set?
+
+
+
+Consider the equation .
+
+What is the solution set?
+
+Does multiplying both sides by  change the solution set?
+
+Does multiplying both sides by  change the solution set?
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M1-TE-1.3.0-07.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M1-TE-1.3.0-07.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.67
+
+S.67
+
+	Lesson 13:	Some Potential Dangers When Solving Equations
+
+	
+
+	
+
+	
+
+	Lesson 13:	Some Potential Dangers When Solving Equations

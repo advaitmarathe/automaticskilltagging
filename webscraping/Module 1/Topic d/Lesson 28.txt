@@ -1,0 +1,431 @@
+M1
+
+  
+
+M1
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+Lesson 28
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+Lesson 28
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+
+
+
+
+
+
+Lesson 28:  Federal Income Tax
+
+
+
+Classwork
+
+Important Tax Tables for this Lesson 
+
+Exemption Deductions for Tax Year 2013
+
+Exemption Class 
+
+Exemption Deduction
+
+Single
+
+
+
+Married
+
+
+
+Married with 1 child
+
+
+
+Married with 2 children
+
+
+
+Married with 3 children
+
+
+
+
+
+Standard Deductions Based Upon Filing Status for Tax Year 2013
+
+Filing Status
+
+Standard Deduction
+
+Single 
+
+
+
+Married filing jointly 
+
+
+
+
+
+Federal Income Tax for Married Filing Jointly for Tax Year 2013
+
+If taxable income is over:
+
+But not over--:
+
+The tax is:
+
+Plus the Marginal
+
+Rate
+
+Of the amount over:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Taxable income:  The U.S. government considers the income of a family (or individual) to include the sum of any money earned from a husband’s or wife’s jobs, and money made from their personal businesses or investments.  The taxes for a household (i.e., an individual or family) are not computed from the income; rather, they are computed from the household’s taxable income.  For many families, the household’s taxable income is simply the household’s income minus exemption deductions and minus standard deductions:
+
+(taxable income)  (income)  (exemption deduction)  (standard deduction)
+
+All of the problems we will model in this lesson will use this equation to find a family’s taxable income.  The only exception is if the family’s taxable income is less than zero, in which case we will say that the family’s taxable income is just .
+
+
+Use this formula and the tables above to answer the following questions about taxable income:
+
+
+Exercise 1
+
+Find the taxable income of a single person with no kids, who has an income of .
+
+
+
+
+
+
+
+
+
+
+
+Exercise 2
+
+Find the taxable income of a married couple with two children, who have a combined income of .
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercise 3
+
+Find the taxable income of a married couple with one child, who has a combined income of .
+
+
+
+
+
+
+
+
+
+
+
+Federal Income Tax and the Marginal Tax Rate:  Below is an example of how to compute the federal income tax of a household using the Federal Income Tax table above.
+
+
+Example 1
+
+Compute the Federal Income Tax for the situation described in Exercise 1 (a single person with no kids making ).
+
+From the answer in Exercise 1, the taxable income is .  Looking up  in the tax table above, we see that  corresponds to the second row because it is between  and :
+
+If taxable income is over:
+
+But not over:
+
+The tax is:
+
+Plus the Marginal
+
+Rate
+
+Of the amount over:
+
+
+
+
+
+
+
+
+
+
+
+
+
+To calculate the tax, add  plus  of the amount of  that is over .  Since 
+, and  of  is , the total federal income tax on  of taxable income is .
+
+
+
+
+
+
+
+
+
+Exercise 4
+
+Compute the Federal Income Tax for a married couple with two children making .
+
+
+
+
+
+
+
+
+
+
+
+Taxpayers sometimes misunderstand marginal tax to mean:  “If my taxable income is , and my marginal tax rate is , my federal income taxes are .”  This statement is not true—they would not owe  to the federal government.  Instead, a marginal income tax charges a progressively higher tax rate for successively greater levels of income.  Therefore, they would really owe: 
+
+ on the first , or  in taxes for the interval from  to ;   
+
+ on the next , or  in taxes for the interval from  to ;
+
+ on the last , or  in taxes for the interval from  to ;
+
+for a total of  of the  of taxable income.  Thus, their effective federal income tax rate is , not  as they claimed.  Note that the tax table above incorporates the different intervals so that only one calculation needs to be made (the answer to this problem is the same as the answer in Exercise 5).
+
+Exercise 5
+
+Create a table and a graph of federal income tax versus income for a married couple with two children between  of income and  of income. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercise 6
+
+Interpret and validate the graph you created in Exercise 5.  Does your graph provide an approximate value for the federal income tax you calculated in Exercise 4? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercise 7
+
+Use the table you created in Exercise 5 to report on the effective federal income tax rate for a married couple with two children, who makes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Problem Set
+
+
+
+Use the formula and tax tables provided in this lesson to perform all computations.
+
+Find the taxable income of a married couple with two children, who have a combined income of 0.
+
+
+
+Find the taxable income of a single person with no children, who has an income of .
+
+
+
+Find the taxable income of a married couple with three children, who have a combined income of .
+
+
+
+Find the federal income tax of a married couple with two children, who have a combined income of .
+
+
+
+Find the federal income tax of a married couple with three children, who have a combined income of .
+
+
+
+Find the effective federal income tax rate of a married couple with no children, who have a combined income of .
+
+
+
+Find the effective federal income tax rate of a married couple with one child who have a combined income of .
+
+
+
+The latest report on median household (family) income in the United States is  per year.  Compute the federal income tax and effective federal income tax rate for a married couple with three children, who have a combined income of .
+
+
+
+Extend the table you created in Exercise 6 by adding a column called, “Effective federal income tax rate.”  Compute the effective federal income tax rate to the nearest tenth for each row of the table, and create a graph that shows effective federal income tax rate versus income using the table.
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M1-TE-1.3.0-07.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M1-TE-1.3.0-07.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.150
+
+S.150
+
+	Lesson 28:	Federal Income Tax 
+
+	
+
+	
+
+	
+
+	Lesson 28:	Federal Income Tax

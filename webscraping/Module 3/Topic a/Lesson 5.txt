@@ -1,0 +1,652 @@
+Lesson 5
+
+Lesson 5
+
+M3
+
+M3
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+		
+
+		
+
+
+
+Lesson 5:  The Power of Exponential Growth
+
+
+
+Classwork 
+
+Opening Exercise
+
+Two equipment rental companies have different penalty policies for returning a piece of equipment late.
+
+Company 1:  On day , the penalty is .  On day , the penalty is .  On day , the penalty is .  On day , the penalty is , and so on, increasing by  each day the equipment is late.
+
+Company 2:  On day , the penalty is .  On day , the penalty is.  On day , the penalty is .  On day , the penalty is , and so on, doubling in amount each additional day late. 
+
+Jim rented a digger from Company 2 because he thought it had the better late return policy.  The job he was doing with the digger took longer than he expected, but it did not concern him because the late penalty seemed so reasonable.  When he returned the digger  days late, he was shocked by the penalty fee.  What did he pay, and what would he have paid if he had used Company 1 instead? 
+
+Company 1
+
+
+
+Company 2
+
+Day
+
+Penalty
+
+
+
+Day
+
+Penalty
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Which company has a greater -day late charge?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Describe how the amount of the late charge changes from any given day to the next successive day in both Companies 1 and 2.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How much would the late charge have been after  days under Company 2?  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example 1
+
+Folklore suggests that when the creator of the game of chess showed his invention to the country’s ruler, the ruler was highly impressed.  He was so impressed, he told the inventor to name a prize of his choice.  The inventor, being rather clever, said he would take a grain of rice on the first square of the chessboard, two grains of rice on the second square of the chessboard, four on the third square, eight on the fourth square, and so on, doubling the number of grains of rice for each successive square.  The ruler was surprised, even a little offended, at such a modest prize, but he ordered his treasurer to count out the rice.  
+
+Why is the ruler surprised?  What makes him think the inventor requested a modest prize?
+
+
+
+
+
+
+
+
+
+
+
+The treasurer took more than a week to count the rice in the ruler’s store, only to notify the ruler that it would take more rice than was available in the entire kingdom.  Shortly thereafter, as the story goes, the inventor became the new king.
+
+Imagine the treasurer counting the needed rice for each of the  squares.  We know that the first square is assigned a single grain of rice, and each successive square is double the number of grains of rice of the previous square.  The following table lists the first five assignments of grains of rice to squares on the board.  How can we represent the grains of rice as exponential expressions? 
+
+Square #
+
+Grains of Rice
+
+Exponential Expression
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write the exponential expression that describes how much rice is assigned to each of the last three squares of the board.
+
+Square #
+
+Exponential Expression
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example 2
+
+Let us understand the difference between  and . 
+
+Complete the tables below, and then graph the points  on a coordinate plane for each of the formulas.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Describe the change in each sequence when  increases by  unit for each sequence.
+
+
+
+
+
+
+
+
+
+Exercise 1
+
+A typical thickness of toilet paper isinch.  This seems pretty thin, right?  Let’s see what happens when we start folding toilet paper.
+
+How thick is the stack of toilet paper after  fold?  After  folds?  After  folds?
+
+
+
+
+
+
+
+Write an explicit formula for the sequence that models the thickness of the folded toilet paper after  folds.
+
+
+
+
+
+
+
+After how many folds does the stack of folded toilet paper pass the -foot mark?
+
+
+
+
+
+
+
+The moon is about  miles from Earth.  Compare the thickness of the toilet paper folded  times to the distance from Earth.
+
+
+
+
+
+
+
+Watch the following video How folding paper can get you to the moon (http://www.youtube.com/watch?v=AmFMJC45f1Q).
+
+
+
+Exercise 2
+
+A rare coin appreciates at a rate of  a year.  If the initial value of the coin is , after how many years will its value cross the  mark?  Show the formula that models the value of the coin after  years.
+
+
+
+
+
+
+
+
+
+
+Problem Set 
+
+
+
+A bucket is put under a leaking ceiling.  The amount of water in the bucket doubles every minute.  After minutes, the bucket is full.  After how many minutes is the bucket half-full?
+
+
+
+A three-bedroom house in Burbville sold for .  If housing prices are expected to increase  annually in that town, write an explicit formula that models the price of the house in  years.  Find the price of the house in years.
+
+
+
+A local college has increased its number of graduates by a factor of  over the previous year for every year since 1999.  In 1999,  students graduated.  What explicit formula models this situation?  Approximately how many students will graduate in 2014?
+
+
+
+The population growth rate of New York City has fluctuated tremendously in the last  years, the highest rate estimated at  in 1900.  In 2001, the population of the city was , up  from 2000.  If we assume that the annual population growth rate stayed at  from the year 2000 onward, in what year would we expect the population of New York City to have exceeded ten million people?  Be sure to include the explicit formula you use to arrive at your answer.
+
+
+
+In 2013, a research company found that smartphone shipments (units sold) were up  worldwide from 2012, with an expectation for the trend to continue.  If  million units were sold in 2013, how many smartphones can be expected to sell in 2018 at the same growth rate?  (Include the explicit formula for the sequence that models this growth.)  Can this trend continue?
+
+
+
+Two band mates have only days to spread the word about their next performance.  Jack thinks they can each pass out  fliers a day for days, and they will have done a good job in getting the news out.  Meg has a different strategy.  She tells  of her friends about the performance on the first day and asks each of her  friends to each tell a friend on the second day and then everyone who has heard about the concert to tell a friend on the third day, and so on, for  days.  Make an assumption that students are not telling someone who has not already been told.
+
+Over the first  days, Meg’s strategy will reach fewer people than Jack’s.  Show that this is true.
+
+If they had been given more than  days, would there be a day on which Meg’s strategy would begin to inform more people than Jack’s strategy?  If not, explain why not.  If so, on which day would this occur? 
+
+Knowing that she has only  days, how can Meg alter her strategy to reach more people than Jack does?
+
+
+
+
+On June 1, a fast-growing species of algae is accidentally introduced into a lake in a city park.  It starts to grow and cover the surface of the lake in such a way that the area it covers doubles every day.  If it continues to grow unabated, the lake will be totally covered, and the fish in the lake will suffocate.  At the rate it is growing, this will happen on June 30.
+
+When will the lake be covered halfway?
+
+On June 26, a pedestrian who walks by the lake every day warns that the lake will be completely covered soon.  Her friend just laughs.  Why might her friend be skeptical of the warning?
+
+On June 29, a cleanup crew arrives at the lake and removes almost all of the algae.  When they are done, only  of the surface is covered with algae.  How well does this solve the problem of the algae in the lake?
+
+Write an explicit formula for the sequence that models the percentage of the surface area of the lake that is covered in algae, , given the time in days, , that has passed since the algae was introduced into the lake.
+
+
+
+Mrs. Davis is making a poster of math formulas for her students.  She takes the   paper she printed the formulas on to the photocopy machine and enlarges the image so that the length and the width are both  of the original.  She enlarges the image a total of times before she is satisfied with the size of the poster.  Write an explicit formula for the sequence that models the area of the poster, , after  enlargements.  What is the area of the final image compared to the area of the original, expressed as a percent increase and rounded to the nearest percent?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M3-TE-1.3.0-08.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M3-TE-1.3.0-08.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.21
+
+S.21
+
+	Lesson 5:	The Power of Exponential Growth
+
+	
+
+	
+
+	
+
+	Lesson 5:	The Power of Exponential Growth

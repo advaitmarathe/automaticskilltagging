@@ -1,0 +1,342 @@
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 7
+
+  
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 7
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+			
+
+			
+
+
+
+Lesson 7:  Creating and Solving Quadratic Equations in One Variable
+
+
+
+Classwork 
+
+Opening Exercise
+
+The length of a rectangle is  more than twice a number.  The width is  less than the same number.  The perimeter of the rectangle is .  Sketch a diagram of this situation, and find the unknown number.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example 1
+
+The length of a rectangle is  more than twice a number.  The width is  less than the same number.  If the area of the rectangle is , find the unknown number.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example 2
+
+A picture has a height that is its width.  It is to be enlarged so that the ratio of height to width remains the same, but the area is .  What are the dimensions of the enlargement?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercises
+
+Solve the following problems.  Be sure to indicate if a solution is to be rejected based on the contextual situation.
+
+The length of a rectangle is  more than  times its width.  If the area of the rectangle is , find the width.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The ratio of length to width in a rectangle is .  Find the length of the rectangle when the area is .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+One base of a trapezoid is  more than twice the length of the second base.  The height of the trapezoid is  less than the second base.  If the area of the trapezoid is , find the dimensions of the trapezoid.  
+(Note:  The area of a trapezoid is .)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A garden measuring  by  is to have a pedestrian pathway that is  meters wide installed all the way around it, increasing the total area to .  What is the width, , of the pathway?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Karen wants to plant a garden and surround it with decorative stones.  She has enough stones to enclose a rectangular garden with a perimeter of , and she wants the garden to cover .  What is the length and width of her garden?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Find two consecutive odd integers whose product is.  (Note:  There are two different pairs of consecutive odd integers and only an algebraic solution will be accepted.) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Challenge:  You have a -foot roll of chain link fencing and a large field.  You want to fence in a rectangular playground area.  What are the dimensions of the largest such playground area you can enclose?  What is the area of the playground?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+When provided with a verbal description of a problem, represent the scenario algebraically.  Start by identifying the unknown quantities in the problem and assigning variables.  For example, write expressions that represent the length and width of an object.  
+
+Solve the equation using techniques previously learned, such as factoring and using the zero product property.  The final answer should be clearly stated and should be reasonable in terms of the context of the problem.
+
+Lesson Summary
+
+When provided with a verbal description of a problem, represent the scenario algebraically.  Start by identifying the unknown quantities in the problem and assigning variables.  For example, write expressions that represent the length and width of an object.  
+
+Solve the equation using techniques previously learned, such as factoring and using the zero product property.  The final answer should be clearly stated and should be reasonable in terms of the context of the problem.
+
+
+
+Problem Set 
+
+
+
+Solve the following problems.
+
+The length of a rectangle is  less than its width.  If the area of the rectangle is , find the width.
+
+
+
+The ratio of length to width (measured in inches) in a rectangle is .  Find the length of the rectangle if the area is known to be .
+
+
+
+One base of a trapezoid is three times the length of the second base.  The height of the trapezoid is  smaller than the second base.  If the area of the trapezoid is , find the lengths of the bases and the height of the trapezoid.
+
+
+
+A student is painting an accent wall in his room where the length of the wall is more than its width.  The wall has an area of .  What are the length and the width, in feet?
+
+
+
+Find two consecutive even integers whose product is .  (There are two pairs, and only an algebraic solution will be accepted.)
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.37
+
+S.37
+
+	Lesson 7:	Creating and Solving Quadratic Equations in One Variable
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 7:	Creating and Solving Quadratic Equations in One Variable

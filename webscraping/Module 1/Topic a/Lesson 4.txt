@@ -1,0 +1,212 @@
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+Lesson 4
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+Lesson 4
+
+  
+
+M1
+
+  
+
+M1
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+
+
+
+
+
+
+Lesson 4:  Analyzing Graphs—Water Usage During a Typical Day at School
+
+
+
+Classwork
+
+Example
+
+
+
+
+
+Exercises 1–2
+
+The bulk of water usage is due to the flushing of toilets.  Each flush uses  of water.  Samson estimates that  of the school population uses the bathroom between 10:00 a.m. and 10:01 a.m. right before homeroom.  What is a good estimate of the population of the school?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Samson then wonders this: If everyone at the school flushed a toilet at the same time, how much water would go down the drain (if the water pressure of the system allowed)?  Are we able to find an answer for Samson?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercise 3:  Estimation Exercise
+
+
+
+Make a guess as to how many toilets are at the school. 
+
+
+
+
+
+Make a guess as to how many students are in the school, and what percentage of students might be using the bathroom at break times between classes, just before the start of school, and just after the end of school.  Are there enough toilets for the count of students wishing to use them? 
+
+
+
+
+
+
+
+Using the previous two considerations, estimate the number of students using the bathroom during the peak minute of each break.
+
+
+
+
+
+Assuming each flush uses  of water, estimate the amount of water being used during the peak minute of each break.  
+
+
+
+
+
+What time of day do these breaks occur?  (If the school schedule varies, consider today’s schedule.)  
+
+
+
+
+
+Draw a graph that could represent the water consumption in a typical school day of your school.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Problem Set
+
+
+
+	The following graph shows the temperature (in degrees Fahrenheit) of La Honda, CA in the months of August and September of 2012.  Answer the questions following the graph.
+
+
+
+The graph seems to alternate between peaks and valleys.  Explain why.
+
+When do you think it should be the warmest during each day?  Circle the peak of each day to determine if the graph matches your guess. 
+
+When do you think it should be the coldest during each day?  Draw a dot at the lowest point of each day to determine if the graph matches your guess. 
+
+Does the graph do anything unexpected such as not following a pattern?  What do you notice?  Can you explain why it is happening? 
+
+
+The following graph shows the amount of precipitation (rain, snow, or hail) that accumulated over a period of time in La Honda, CA.  
+
+
+
+
+
+Tell the complete story of this graph. 
+
+The term accumulate, in the context of the graph, means to add up the amounts of precipitation over time.  The graph starts on August 24.  Why didn’t the graph start at  instead of starting at ? 
+
+
+
+The following graph shows the solar radiation over a period of time in La Honda, CA.  Solar radiation is the amount of the sun’s rays that reach the earth’s surface. 
+
+
+
+What happens in La Honda when the graph is flat?
+
+What do you think is happening when the peaks are very low? 
+
+Looking at all three graphs, what do you conclude happened on August 31, 2012 in La Honda, CA? 
+
+The following graph shows the velocity (in centimeters per second) and turbidity of the Logan River in Queensland, Australia during a flood.  Turbidity refers to the clarity of the water (higher turbidity means murkier water) and is related to the total amount of suspended solids, such as clay, silt, sand, and phytoplankton, present in the water.
+
+
+
+For recreation, Jill visited the river during the month of January and saw clean and beautiful water.  On which day do you think she visited? 
+
+What do the negative velocities (below the grey line) that appear periodically at the beginning represent? 
+
+The behavior of the river seems to follow a normal pattern at the beginning and at the very end of the time period shown.  Approximately when does the flood start?  Describe its effects on velocity and turbidity. 
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M1-TE-1.3.0-07.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M1-TE-1.3.0-07.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.17
+
+S.17
+
+	Lesson 4:	Analyzing Graphs—Water Usage During a Typical Day at School 
+
+	
+
+	
+
+	
+
+	Lesson 4:	Analyzing Graphs—Water Usage During a Typical Day at School

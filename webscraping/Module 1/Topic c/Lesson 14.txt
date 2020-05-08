@@ -1,0 +1,485 @@
+M1
+
+  
+
+M1
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+Lesson 14
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+Lesson 14
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+				
+
+				
+
+
+
+Lesson 14:  Solving Inequalities
+
+
+
+Classwork
+
+Exercise 1
+
+Consider the inequality . 
+
+Sift through some possible values to assign to  that make this inequality a true statement.  Find at least two positive values that work and at least two negative values that work.
+
+
+
+
+
+
+
+
+
+Should your four values also be solutions to the inequality ?  Explain why or why not.  Are they?
+
+
+
+
+
+
+
+
+
+Should your four values also be solutions to the inequality ?  Explain why or why not.  Are they?
+
+
+
+
+
+
+
+
+
+Should your four values also be solutions to the inequality ?  Explain why or why not.  Are they?
+
+
+
+
+
+
+
+
+
+
+
+Should your four values also be solutions to the inequality ?  Explain why or why not.  Are they?
+
+
+
+
+
+
+
+
+
+
+
+Example 1
+
+What is the solution set to the inequality ?  Express the solution set in words, in set notation, and graphically on the number line.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercises 2–3
+
+Find the solution set to each inequality.  Express the solution in set notation and graphically on the number line.
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recall the discussion on all the strange ideas for what could be done to both sides of an equation.  Let’s explore some of the same issues here but with inequalities.  Recall, in this lesson, we have established that adding (or subtracting) and multiplying through by positive quantities does not change the solution set of an inequality.  We’ve made no comment about other operations.
+
+Squaring:  Do  and  have the same solution set?  If not, give an example of a number that is in one solution set but not the other.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Multiplying through by a negative number:  Do  and   have the same solution set?  If not, give an example of a number that is in one solution set but not the other.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bonzo’s ignoring exponents:  Do  and  have the same solution set?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example 2
+
+Jojo was asked to solve , for .  She answered as follows:
+
+
+
+		Apply the distributive property.
+
+				Multiply through by .
+
+
+
+Since the final line is a false statement, she deduced that there is no solution to this inequality (that the solution set is empty).
+
+What is the solution set to ? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explain why Jojo came to an erroneous conclusion. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example 3
+
+Solve , for .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercises 4–7
+
+Find the solution set to each inequality.  Express the solution in set notation and graphically on the number line.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recall the properties of inequality:
+
+Addition property of inequality:
+
+If , then  for any real number .
+
+
+
+Multiplication property of inequality:
+
+If, then   for any positive real number .
+
+
+
+Recall the properties of inequality:
+
+Addition property of inequality:
+
+If , then  for any real number .
+
+
+
+Multiplication property of inequality:
+
+If, then   for any positive real number .
+
+
+
+
+
+Use the properties of inequality to show that each of the following is true for any real numbers  and .
+
+If , then .
+
+
+
+If , then .
+
+
+
+
+
+
+
+If , then .
+
+
+
+
+
+
+
+
+
+
+
+
+
+Based on the results from parts (a) through (c), how might we expand the multiplication property of inequality?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solve , for  in two different ways:  first without ever multiplying through by a negative number and then by first multiplying through by . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solve , for  in two different ways:  first without ever multiplying through by a negative number and then by first multiplying through by .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Problem Set 
+
+
+
+Find the solution set to each inequality.  Express the solution in set notation and graphically on the number line.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Find the mistake in the following set of steps in a student’s attempt to solve , for .  What is the correct solution set?
+
+
+
+ 	(factoring out  on the left side)
+
+		(dividing by )
+
+So, the solution set is the empty set.
+
+
+
+Solve , for  without multiplying by a negative number.  Then, solve by multiplying through by .
+
+
+
+Lisa brought half of her savings to the bakery and bought  croissants for .  The amount of money she brings home with her is more than .  Use an inequality to find how much money she had in her savings before going to the bakery.  (Write the inequality that represents the situation, and solve it.)
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M1-TE-1.3.0-07.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M1-TE-1.3.0-07.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.79
+
+S.79
+
+	Lesson 14:	Solving Inequalities
+
+	
+
+	
+
+	
+
+	Lesson 14:	Solving Inequalities

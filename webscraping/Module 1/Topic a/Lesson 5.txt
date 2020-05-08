@@ -1,0 +1,282 @@
+M1
+
+  
+
+M1
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+Lesson 5
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+Lesson 5
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+
+
+
+
+
+
+Lesson 5:  Two Graphing Stories
+
+
+
+Classwork
+
+Example 1
+
+Consider the story:
+
+Maya and Earl live at opposite ends of the hallway in their apartment building.  Their doors are  apart.  Each starts at his or her own door and walks at a steady pace toward each other and stops when they meet.
+
+What would their graphing stories look like if we put them on the same graph?  When the two people meet in the hallway, what would be happening on the graph?  Sketch a graph that shows their distance from Maya’s door.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exploratory Challenge/Exercises 1–4
+
+Watch the following graphing story.
+
+http://youtu.be/X956EvmCevI
+
+The video shows a man and a girl walking on the same stairway.
+
+Graph the man’s elevation on the stairway versus time in seconds.
+
+
+
+Add the girl’s elevation to the same graph.  How did you account for the fact that the two people did not start at the same time?
+
+
+
+
+
+
+
+Suppose the two graphs intersect at the point .  What is the meaning of this point in this situation?
+
+
+
+
+
+
+
+Is it possible for two people, walking in stairwells, to produce the same graphs you have been using and not pass each other at time ?  Explain your reasoning.
+
+
+
+
+
+
+
+Example 2/Exercises 5–7
+
+Consider the story:
+
+Duke starts at the base of a ramp and walks up it at a constant rate.  His elevation increases by  every second.  Just as Duke starts walking up the ramp, Shirley starts at the top of the same  high ramp and begins walking down the ramp at a constant rate.  Her elevation decreases  every second.
+
+Sketch two graphs on the same set of elevation-versus-time axes to represent Duke’s and Shirley’s motions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What are the coordinates of the point of intersection of the two graphs?  At what time do Duke and Shirley pass each other?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write down the equation of the line that represents Duke’s motion as he moves up the ramp and the equation of the line that represents Shirley’s motion as she moves down the ramp.  Show that the coordinates of the point you found in the question above satisfy both equations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+The intersection point of the graphs of two equations is an ordered pair that is a solution to both equations.  In the context of a distance (or elevation) story, this point represents the fact that both distances (or elevations) are equal at the given time.
+
+Graphing stories with quantities that change at a constant rate can be represented using piecewise linear equations.
+
+Lesson Summary
+
+The intersection point of the graphs of two equations is an ordered pair that is a solution to both equations.  In the context of a distance (or elevation) story, this point represents the fact that both distances (or elevations) are equal at the given time.
+
+Graphing stories with quantities that change at a constant rate can be represented using piecewise linear equations.
+
+
+
+Problem Set
+
+
+
+Reread the story about Maya and Earl from Example 1.  Suppose that Maya walks at a constant rate of  every second and Earl walks at a constant rate of  every second starting from  away.  Create equations for each person’s distance from Maya’s door and determine exactly when they meet in the hallway.  How far are they from Maya’s door at this time?
+
+
+
+Consider the story:
+
+May, June, and July were running at the track.  May started first and ran at a steady pace of  every .  June started  later than May and ran at a steady pace of  every .  July started  after June and ran at a steady pace, running the first lap  in .  She maintained this steady pace for  more laps and then slowed down to  lap every .
+
+Sketch May, June, and July’s distance-versus-time graphs on a coordinate plane.
+
+Create linear equations that represent each girl’s mileage in terms of time in minutes.  You will need two equations for July since her pace changes after  laps ().
+
+Who was the first person to run ?
+
+Did June and July pass May on the track?  If they did, when and at what mileage?
+
+Did July pass June on the track?  If she did, when and at what mileage?
+
+
+
+Suppose two cars are travelling north along a road.  Car 1 travels at a constant speed of  for two hours, then speeds up and drives at a constant speed of  for the next hour.  The car breaks down and the driver has to stop and work on it for two hours.  When he gets it running again, he continues driving recklessly at a constant speed of .  Car 2 starts at the same time that Car 1 starts, but Car 2 starts  farther north than Car 1 and travels at a constant speed of  throughout the trip.
+
+Sketch the distance-versus-time graphs for Car 1 and Car 2 on a coordinate plane.  Start with time  and measure time in hours.  
+
+Approximately when do the cars pass each other?
+
+Tell the entire story of the graph from the point of view of Car 2.  (What does the driver of Car 2 see along the way and when?)
+
+Create linear equations representing each car’s distance in terms of time (in hours).  Note that you will need four equations for Car 1 and only one for Car 2.  Use these equations to find the exact coordinates of when the cars meet.
+
+Suppose that in Problem 3 above, Car 1 travels at the constant speed of  the entire time.  Sketch the distance-versus-time graphs for the two cars on a graph below.  Do the cars ever pass each other?  What is the linear equation for Car 1 in this case?
+
+
+
+Generate six distinct random whole numbers between 2 and 9 inclusive, and fill in the blanks below with the numbers in the order in which they were generated.
+
+
+
+,    ,     
+
+
+
+,     .
+
+
+
+(Link to a random number generator http://www.mathgoodies.com/calculators/random_no_custom.html)
+
+
+On a coordinate plane, plot points , , and .  Draw line segments from point  to point , and from point  to point .  
+
+On the same coordinate plane, plot points  and  and draw a line segment from point  to point .  
+
+Write a graphing story that describes what is happening in this graph.  Include a title, - and -axis labels, and scales on your graph that correspond to your story.
+
+
+
+
+The following graph shows the revenue (or income) a company makes from designer coffee mugs and the total cost (including overhead, maintenance of machines, etc.) that the company spends to make the coffee mugs.
+
+
+
+
+
+How are revenue and total cost related to the number of units of coffee mugs produced?
+
+What is the meaning of the point  on the total cost line?
+
+What are the coordinates of the intersection point?  What is the meaning of this point in this situation?
+
+Create linear equations for revenue and total cost in terms of units produced and sold.  Verify the coordinates of the intersection point.
+
+Profit for selling  units is equal to revenue generated by selling  units minus the total cost of making  units.  What is the company’s profit if  units are produced and sold?
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M1-TE-1.3.0-07.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M1-TE-1.3.0-07.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.22
+
+S.22
+
+	Lesson 5:	Two Graphing Stories
+
+	
+
+	
+
+	Lesson 5:	Two Graphing Stories

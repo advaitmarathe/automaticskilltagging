@@ -1,0 +1,548 @@
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 3
+
+  
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 3
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+			
+
+			
+
+
+
+Lesson 3:  Advanced Factoring Strategies for Quadratic Expressions
+
+
+
+Classwork 
+
+Opening Exercise
+
+Carlos wants to build a sandbox for his little brother.  He is deciding between a square sandbox with side lengths that can be represented by  units and a rectangular sandbox with a length  unit more than the side of the square and width  unit less than the side of the square. 
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+	                      
+
+	
+
+	
+
+	Carlos thinks the areas should be the same because one unit is just moved from one side to the other. 
+
+	
+
+Do you agree that the two areas should be the same?  Why or why not?
+
+
+
+
+
+
+
+
+
+
+
+How would you write the expressions that represent the length and width of the rectangular sandbox in terms of the side length of the square?
+
+
+
+
+
+
+
+
+
+
+
+If you use the expressions for length and width represented in terms of the side length of the square, can you then write the area of the rectangle in the same terms?
+
+
+
+
+
+
+
+
+
+How can this expression be seen as the product of a sum and difference:  ? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Can you now rewrite the area expression for the rectangle as the difference of squares:  
+?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Look carefully at your answer to the last question.  What does it tell you about the areas of the two shapes?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Can you verify that our algebra is correct using a diagram or visual display? 
+
+
+
+
+Example 1
+
+In Lesson 2, we saw that factoring is the reverse process of multiplication.  We factor a polynomial by reversing the distribution process.
+
+Consider the following example of multiplication:             
+
+		                 .
+
+When we compare the numbers in the factored form with the numbers in the expanded form, we see that  is the product of the two numbers , and  is their sum .  The latter is even more obvious when we look at the expanded form before the like terms are combined. 
+
+
+
+Can you explain why that relationship exists between the numbers in the factors and the numbers in the final expanded form?
+
+
+
+
+
+
+
+
+
+Example 2
+
+Now compare the expansion of this binomial product to the one above: 
+
+		                  .	
+
+In the expression lying between the two arrows (before the like terms are combined), we can see the coefficients of the “split” linear terms .  Also notice that for this example, we have coefficients on both -terms in the factors and that one of the coefficients is not .  We have  and  as the factors of the leading coefficient in the expanded form and  and  as the factors of the constant term.  Get ready for quadratic expressions in factored form where neither of the -term coefficients are .
+
+How is this product different from the first example?  How is it similar?
+
+
+
+
+
+
+
+
+
+
+
+Why are the “split” linear terms different in the two examples? 
+
+
+
+
+
+
+
+
+
+
+
+Now that we have four different numbers (coefficients) in each form of the expression, how can we use the numbers in the expanded form of the quadratic expression on the right to find the numbers in the factors on the left?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now we need to place those numbers into the parentheses for the factors so that the product matches the expanded form of the quadratic expression.  Here is a template for finding the factors using what we call the product-sum method:
+
+		(___   __)(___  ___) 	[We have four number places to fill in this factor template.] 
+
+	
+
+		(___ )(___ )  	[We know that the  and  are the correct factors for , so we start there.]
+
+	
+
+	(  )(  )  		[We know that  and  are the only factors of , with the  opposite the  so that    the distribution process gives us  for one product.]
+
+	
+
+	(  )(  )  	[Finally, we know, at least for this example, that all the numbers are positive.]	
+
+
+
+Example 3
+
+Now try factoring a quadratic expression with some negative coefficients:  . 
+
+	(___  ___)(___  ___)  	[We have four number places to fill in this factor template.] 
+
+	
+
+	(___ )(___ )  	[We know that  and  or  and  are the only possible factors for the constant term, , so we start there.  Try and  to start, and if that does not work, go back and try  and .  We know that only one of the numbers can be negative to make the product negative.]
+
+	
+
+	(  )(   )  	[We know that and  are the only factors of .  We also know that both of these are positive (or both negative).  But we do not know which positions they should take, so we will try both ways to see which will give a sum of .]
+
+	
+
+	(  )(  )  	[Finally, we determine the two signs needed to make the final product .]
+
+Exercises
+
+For Exercises 1–6, factor the expanded form of these quadratic expressions.  Pay particular attention to the negative and positive signs. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	  	[Notice that there is a  as a coefficient in this one.]
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	  	[This might be a challenge.  If it takes too long, try the next one.]	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	  	[This one has a negative on the leading coefficient.] 
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	  	[We need to try one with fractions, too.]
+
+
+
+
+
+
+
+
+
+
+
+For Exercises 7–10, use the structure of these expressions to factor completely.
+
+63
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+Quadratic expression:  A polynomial expression of degree 2 is often referred to as a quadratic expression.  
+
+Some quadratic expressions are not easily factored.  The following hints will make the job easier:  
+
+In the difference of squares , either of these terms  or  could be a binomial itself.  
+
+The product-sum method is useful but can be tricky when the leading coefficient is not .  
+
+Trial and error is a viable strategy for finding factors.  
+
+Check your answers by multiplying the factors to ensure you get back the original quadratic expression.
+
+
+
+Lesson Summary
+
+Quadratic expression:  A polynomial expression of degree 2 is often referred to as a quadratic expression.  
+
+Some quadratic expressions are not easily factored.  The following hints will make the job easier:  
+
+In the difference of squares , either of these terms  or  could be a binomial itself.  
+
+The product-sum method is useful but can be tricky when the leading coefficient is not .  
+
+Trial and error is a viable strategy for finding factors.  
+
+Check your answers by multiplying the factors to ensure you get back the original quadratic expression.
+
+
+
+
+
+Problem Set 
+
+
+
+Factor the following quadratic expressions. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+	
+
+	
+
+	  	[This one is tricky, but look for a special pattern.]
+
+
+
+
+
+
+
+
+
+
+
+Factor each expression completely.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.14
+
+S.14
+
+	Lesson 3:	Advanced Factoring Strategies for Quadratic Expressions
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 3:	Advanced Factoring Strategies for Quadratic Expressions

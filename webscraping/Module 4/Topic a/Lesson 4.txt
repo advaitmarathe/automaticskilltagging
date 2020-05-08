@@ -1,0 +1,242 @@
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 4
+
+  
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 4
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+			
+
+			
+
+
+
+Lesson 4:  Advanced Factoring Strategies for Quadratic Expressions
+
+
+
+Classwork 
+
+Opening Exercise
+
+Factor the following quadratic expressions.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example:  Splitting the Linear Term
+
+How might we find the factors of ?  
+
+Consider the product :  .
+
+Discuss the possibility that  and  are also multiplied when the leading coefficient is .
+
+List all possible factor pairs of :  , , , , , , , , and . 
+
+Find the pair that satisfies the requirements of the product-sum method (i.e., a pair of numbers whose product equals  and whose sum is ):  .
+
+Rewrite the expression with the same first and last term but with an expanded  term using that pair of factors as coefficients:  . 
+
+We now have four terms that can be entered into a tabular model or factored by grouping. 
+
+Factoring by grouping:  Take the four terms above and pair the first two and the last two; this makes two groups.
+
+ 		[Form two groups by pairing the first two and the last two.]
+
+ 		[Factor out the GCF from each pair.]
+
+The common binomial factor is now visible as a common factor of each group.  Now rewrite by carefully factoring out the common factor, , from each group:  .
+
+Note that we can factor difficult quadratic expressions, such as , using a tabular model or by splitting the linear term algebraically.  Try both ways to see which one works best for you.
+
+Exercise
+
+Factor the following expressions using your method of choice.  After factoring each expression completely, check your answers using the distributive property.  Remember to always look for a GCF prior to trying any other strategies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The area of a particular triangle can be represented by .  What are its base and height in terms of ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+While there are several steps involved in splitting the linear term, it is a relatively more efficient and reliable method for factoring trinomials in comparison to simple guess-and-check.  
+
+Lesson Summary
+
+While there are several steps involved in splitting the linear term, it is a relatively more efficient and reliable method for factoring trinomials in comparison to simple guess-and-check.  
+
+
+
+Problem Set 
+
+
+
+Factor completely.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	  	[Hint:  Look for a GCF first.]
+
+
+
+The area of the rectangle below is represented by the expression  square units.  Write two expressions to represent the dimensions, if the length is known to be twice the width.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Two mathematicians are neighbors.  Each owns a separate rectangular plot of land that shares a boundary and has the same dimensions.  They agree that each has an area of   square units.  One mathematician sells his plot to the other.  The other wants to put a fence around the perimeter of his new combined plot of land.  How many linear units of fencing does he need?  Write your answer as an expression in .
+
+Note:  This question has two correct approaches and two different correct solutions.  Can you find them both?
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.22
+
+S.22
+
+	Lesson 4:	Advanced Factoring Strategies for Quadratic Expressions
+
+	
+
+	
+
+	
+
+	Lesson 4:	Advanced Factoring Strategies for Quadratic Expressions
