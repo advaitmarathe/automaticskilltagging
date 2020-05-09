@@ -1,0 +1,616 @@
+Lesson 10
+
+Lesson 10
+
+M3
+
+M3
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+				
+
+				
+
+
+
+Lesson 10:  Representing, Naming, and Evaluating Functions
+
+
+
+Classwork
+
+Opening Exercise
+
+Study the  representations of a function below.  How are these representations alike?  How are they different?
+
+
+
+TABLE:
+
+Input
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+
+
+1
+
+2
+
+4
+
+8
+
+16
+
+32
+
+
+
+
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+
+
+1
+
+2
+
+4
+
+8
+
+16
+
+32
+
+
+
+FUNCTION:								DIAGRAM:
+
+Let  such that .
+
+
+
+SEQUENCE:
+
+Let  for  where  is an integer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercise 1
+
+Let .  Complete the following table using the definition of . 
+
+
+
+Assign each  in  to the expression .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What are , , , , , and ?
+
+
+
+
+
+
+
+
+
+What is the range of ? 
+
+
+
+
+
+
+
+
+
+Exercise 2
+
+The squaring function is defined as follows:
+
+Let  be the function such that , where  is the set of all real numbers.
+
+What are , , , , , , , and ?
+
+
+
+
+
+
+
+
+
+What is the range of ?
+
+
+
+
+
+
+
+
+
+What subset of the real numbers could be used as the domain of the squaring function to create a range with the same output values as the sequence of square numbers  from Lesson 9?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercise 3
+
+Recall that an equation can either be true or false.  Using the function defined by  such that , determine whether the equation  is true or false for each in the domain of .
+
+
+
+Is the equation 
+
+true or false?
+
+Justification
+
+
+
+True
+
+Substitute 0 into the equation.
+
+
+
+
+
+The  on the left side comes from the definition of , and the value of  is also 1, so the equation is true.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If the domain of  were extended to all real numbers, would the equation still be true for each  in the domain of ?  Explain your thinking.
+
+
+
+
+
+
+
+
+
+
+
+Exercise 4 
+
+Write three different polynomial functions such that .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercise 5
+
+The domain and range of this function are not specified.  Evaluate the function for several values of .  What subset of the real numbers would represent the domain of this function?  What subset of the real numbers would represent its range?
+
+Let 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+Algebraic Function:  Given an algebraic expression in one variable, an algebraic function is a function  such that for each real number  in the domain ,  is the value found by substituting the number  into all instances of the variable symbol in the algebraic expression and evaluating.  
+
+
+
+The following notation will be used to define functions going forward.  If a domain is not specified, it is assumed to be the set of all real numbers.
+
+For the squaring function, we say			Let .
+
+For the exponential function with base , we say  	Let .
+
+
+
+When the domain is limited by the expression or the situation to be a subset of the real numbers, it must be specified when the function is defined.
+
+For the square root function, we say		Let  for .
+
+To define the first  triangular numbers, we say	Let  for  where  is an integer.
+
+Depending on the context, one either views the statement “ ” as part of defining the function  or as an equation that is true for all  in the domain of  or as a formula.
+
+
+
+Lesson Summary
+
+Algebraic Function:  Given an algebraic expression in one variable, an algebraic function is a function  such that for each real number  in the domain ,  is the value found by substituting the number  into all instances of the variable symbol in the algebraic expression and evaluating.  
+
+
+
+The following notation will be used to define functions going forward.  If a domain is not specified, it is assumed to be the set of all real numbers.
+
+For the squaring function, we say			Let .
+
+For the exponential function with base , we say  	Let .
+
+
+
+When the domain is limited by the expression or the situation to be a subset of the real numbers, it must be specified when the function is defined.
+
+For the square root function, we say		Let  for .
+
+To define the first  triangular numbers, we say	Let  for  where  is an integer.
+
+Depending on the context, one either views the statement “ ” as part of defining the function  or as an equation that is true for all  in the domain of  or as a formula.
+
+
+
+
+
+Problem Set 
+
+
+
+Let , and let .  Find the value of each function for the given input.
+
+			j.				
+
+			k.			
+
+			l.			
+
+			m.			
+
+			n.			 
+
+			o.			
+
+			p.			
+
+			q.			   
+
+			r.			
+
+
+
+
+
+Since a variable is a placeholder, we can substitute letters that stand for numbers in for .  Let , and let , and suppose ,,, and  are real numbers.  Find the value of each function for the given input. 
+
+			h.			
+
+			i.			
+
+			j.	  		
+
+			k.			
+
+			l.			
+
+			m.		
+
+			
+
+
+
+What is the range of each function given below? 
+
+Let .
+
+Let .
+
+Let .
+
+Let .
+
+Let  such that  is a positive integer.
+
+Let  for .
+
+
+
+Provide a suitable domain and range to complete the definition of each function.
+
+Let .
+
+Let .
+
+Let , where  is the number of calories in a sandwich containing  grams of fat.
+
+Let , where  is the number of bacteria at time  hours over the course of one day.
+
+
+
+Let , where  and  are the set of all real numbers, and and  are real numbers.
+
+Find a function  such that the equation  is not true for all values of  and .  
+Justify your reasoning.
+
+Find a function  such that equation  is true for all values of  and .  
+Justify your reasoning.
+
+Let   Find a value for and a value for  that makes a true number sentence.
+
+
+
+
+
+
+
+
+
+Given the function  whose domain is the set of real numbers, let  if  is a rational number, and let 
+ if  is an irrational number.
+
+Explain why  is a function.
+
+What is the range of ?
+
+Evaluate  for each domain value shown below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+List three possible solutions to the equation .
+
+
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M3-TE-1.3.0-08.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M3-TE-1.3.0-08.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.54
+
+S.54
+
+	Lesson 10:	Representing, Naming, and Evaluating Functions
+
+	
+
+	
+
+	
+
+	Lesson 10:	Representing, Naming, and Evaluating Functions

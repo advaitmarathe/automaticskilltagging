@@ -1,0 +1,423 @@
+Lesson 6
+
+
+
+Lesson #
+
+Lesson 6
+
+
+
+Lesson #
+
+M2
+
+
+
+MX
+
+M2
+
+
+
+MX
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+
+  
+
+
+
+  
+
+
+
+ALGEBRA I
+
+
+
+COURSE NAME
+
+ALGEBRA I
+
+
+
+COURSE NAME
+
+
+
+
+
+
+
+Lesson 6:  Interpreting the Standard Deviation
+
+
+
+Classwork
+
+Example 1
+
+Your teacher will show you how to use a calculator to find the mean and standard deviation for the following set of data.  
+
+A set of eight men have heights (in inches) as shown below. 
+
+
+
+
+
+Indicate the mean and standard deviation you obtained from your calculator to the nearest hundredth.
+
+
+
+Mean:                                     
+
+
+
+Standard Deviation:                                     
+
+
+
+
+
+
+
+
+
+Exercise 1
+
+The heights (in inches) of nine women are as shown below.
+
+
+
+
+
+Use the statistical features of your calculator or computer software to find the mean and the standard deviation of these heights to the nearest hundredth.
+
+
+
+Mean:                                    
+
+
+
+Standard Deviation:                                     
+
+
+
+
+
+
+
+
+
+Exploratory Challenge/Exercises 2–5 
+
+A group of people attended a talk at a conference.  At the end of the talk, ten of the attendees were given a questionnaire that consisted of four questions.  The questions were optional, so it was possible that some attendees might answer none of the questions, while others might answer ,,,or all of the questions (so, the possible numbers of questions answered are ,,, , and ).
+
+Suppose that the numbers of questions answered by each of the ten people were as shown in the dot plot below.
+
+
+
+
+
+
+
+
+
+
+
+Use the statistical features of your calculator to find the mean and the standard deviation of the data set.
+
+
+
+Mean:                                     
+
+
+
+Standard Deviation:                                      
+
+
+
+
+
+Suppose the dot plot looked like this:
+
+
+
+
+
+
+
+
+
+Use your calculator to find the mean and the standard deviation of this distribution.
+
+
+
+
+
+
+
+Remember that the size of the standard deviation is related to the size of the deviations from the mean.  Explain why the standard deviation of this distribution is greater than the standard deviation in Exercise 2. 
+
+
+
+
+
+
+
+
+
+
+
+Suppose that all ten people questioned answered all four questions on the questionnaire.
+
+What would the dot plot look like?
+
+
+
+
+
+
+
+
+
+What is the mean number of questions answered?  (You should be able to answer without doing any calculations!)
+
+
+
+
+
+What is the standard deviation?  (Again, don’t do any calculations!)
+
+
+
+
+
+
+
+Continue to think about the situation previously described where the numbers of questions answered by each of ten people was recorded.  
+
+Draw the dot plot of the distribution of possible data values that has the largest possible standard deviation.  (There were ten people at the talk, so there should be ten dots in your dot plot.)  Use the scale given below.
+
+
+
+
+
+
+
+Explain why the distribution you have drawn has a larger standard deviation than the distribution in Exercise 4.
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+The mean and the standard deviation of a data set can be found directly using the statistical features of a calculator.
+
+The size of the standard deviation is related to the sizes of the deviations from the mean.  Therefore, the standard deviation is minimized when all the numbers in the data set are the same and is maximized when the deviations from the mean are made as large as possible. 
+
+
+
+Lesson Summary
+
+The mean and the standard deviation of a data set can be found directly using the statistical features of a calculator.
+
+The size of the standard deviation is related to the sizes of the deviations from the mean.  Therefore, the standard deviation is minimized when all the numbers in the data set are the same and is maximized when the deviations from the mean are made as large as possible. 
+
+
+
+
+
+Problem Set
+
+
+
+At a track meet, there are three men’s  races.  The times for eight of the sprinters are recorded to the nearest  of a second.  The results of the three races for these eight sprinters are shown in the dot plots below.
+
+
+
+Race 1
+
+
+
+
+
+
+
+
+
+Race 2
+
+
+
+
+
+
+
+
+
+Race 3
+
+
+
+
+
+
+
+
+
+
+
+Remember that the size of the standard deviation is related to the sizes of the deviations from the mean.  Without doing any calculations, indicate which of the three races has the smallest standard deviation of times.  Justify your answer.
+
+Which race had the largest standard deviation of times?  (Again, don’t do any calculations!)  Justify your answer.
+
+Roughly what would be the standard deviation in Race 1?  (Remember that the standard deviation is a typical deviation from the mean.  So, here you are looking for a typical deviation from the mean, in seconds, for 
+Race 1.)
+
+Use your calculator to find the mean and the standard deviation for each of the three races.  Write your answers in the table below to the nearest thousandth.
+
+
+
+Mean
+
+Standard Deviation
+
+Race 1
+
+
+
+
+
+Race 2
+
+
+
+
+
+Race 3
+
+
+
+
+
+
+
+How close were your answers for parts (a)–(c) to the actual values?  
+
+
+
+A large city, which we will call City A, holds a marathon.  Suppose that the ages of the participants in the marathon that took place in City A were summarized in the histogram below. 
+
+
+
+
+
+Make an estimate of the mean age of the participants in the City A marathon.
+
+Make an estimate of the standard deviation of the ages of the participants in the City A marathon.
+
+
+
+
+
+
+A smaller city, City B, also held a marathon.  However, City B restricts the number of people of each age category who can take part to .  The ages of the participants are summarized in the histogram below. 
+
+
+
+
+
+Approximately what was the mean age of the participants in the City B marathon?  Approximately what was the standard deviation of the ages?
+
+Explain why the standard deviation of the ages in the City B marathon is greater than the standard deviation of the ages for the City A marathon.
+
+
+
+
+
+
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M2-TE-1.3.0-08.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M2-TE-1.3.0-08.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.36
+
+S.36
+
+	Lesson 6:	Interpreting the Standard Deviation
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 6:	Interpreting the Standard Deviation

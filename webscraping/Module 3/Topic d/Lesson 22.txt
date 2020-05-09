@@ -1,0 +1,310 @@
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M3
+
+Lesson 22
+
+  
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M3
+
+Lesson 22
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+				
+
+				
+
+
+
+Lesson 22:  Modeling an Invasive Species Population
+
+ 
+
+Classwork
+
+Mathematical Modeling Exercise
+
+The lionfish is a fish that is native to the western Pacific Ocean.  The lionfish began appearing in the western Atlantic Ocean in 1985.  This is probably because people bought them as pets and then dumped them in waterways leading to the ocean.  Because it has no natural predators in this area, the number of lionfish grew very quickly and now has large populations throughout the Caribbean as well as along the eastern coastline of the United States and the Gulf of Mexico.  Lionfish have recently been spotted as far north as New York and Rhode Island.
+
+The table below shows the number of new sightings by year reported to NAS (Nonindigenous Aquatic Species), which is a branch of the U.S. Geological Survey Department.  
+
+Year
+
+Number of New Sightings
+
+Total Number of Sightings
+
+1985
+
+
+
+
+
+1992
+
+
+
+
+
+1995
+
+
+
+
+
+1996
+
+
+
+
+
+2000
+
+
+
+
+
+2001
+
+
+
+
+
+2002
+
+
+
+
+
+2003
+
+
+
+
+
+2004
+
+
+
+
+
+2005
+
+
+
+
+
+2006
+
+
+
+
+
+2007
+
+
+
+
+
+2008
+
+
+
+
+
+2009
+
+
+
+
+
+2010
+
+
+
+
+
+
+
+Complete the table by recording the total number of sightings for each year.
+
+
+
+
+
+
+Examine the total number of sightings data.  Which model appears to be a better fit for the data—linear or exponential?  Explain your reasoning.
+
+
+
+
+
+
+
+
+
+
+
+Make a scatter plot of the year versus the total number of sightings.
+
+
+
+
+
+
+
+Based on the scatter plot, either revise your answer from Exercise 2 or explain how the scatter plot supports your answer from Exercise 2.
+
+
+
+
+
+
+
+
+
+
+
+On the scatter plot, draw a smooth curve that best fits the data.
+
+
+
+
+
+
+From your table, calculate the average rate of change in the total number of sightings for each of the following time intervals.
+
+1995–2000
+
+2000–2005
+
+2005–2010
+
+
+
+
+
+
+
+
+
+
+
+
+
+How do the average rates of change help to support your argument of whether a linear or an exponential model is better suited for the data?
+
+
+
+
+
+
+
+
+
+
+
+Use the regression feature of a graphing calculator to find an equation that models the number of lionfish sightings each year.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Use your model to predict the total number of lionfish sightings by the end of 2013.
+
+
+
+
+
+
+
+
+
+
+
+
+
+The actual number of sightings as of July 2013 was .  Does it seem that your model produced an accurate prediction?  Explain.
+
+
+
+
+
+
+
+
+
+
+
+
+Problem Set
+
+
+
+Another Invasive Species Problem:  Kudzu
+
+Kudzu, a perennial vine native to Southeast Asia, now covers a large area of the southern United States.  Kudzu was promoted as a forage crop and an ornamental plant when it was introduced to the U.S. at the Philadelphia Centennial Exposition in 1876.  Many southern farmers were encouraged to plant kudzu for erosion control from the mid-1930s to the mid-1950s.  In 1953, kudzu was removed from the U.S. Department of Agriculture’s list of permissible cover plants due to its recognition as an invasive species. 
+
+Look up information about kudzu in the U.S. on Wikipedia, and write a short (1- to 2-page) report on the growth of kudzu since its introduction.  In your report, choose a function (linear or exponential) to model and graph the growth of kudzu (in hectares) in the U.S. per year over the past half century or so.  Remember to cite your sources!
+
+
+
+
+
+
+
+
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M3-TE-1.3.0-08.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M3-TE-1.3.0-08.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.149
+
+S.149
+
+	Lesson 22:	Modeling an Invasive Species Population
+
+	
+
+	
+
+	
+
+	Lesson 22:	Modeling an Invasive Species Population

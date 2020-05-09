@@ -1,0 +1,588 @@
+Lesson 15
+
+Lesson 15
+
+M3
+
+M3
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+				
+
+				
+
+
+
+Lesson 15:  Piecewise Functions
+
+
+
+Classwork 
+
+Opening Exercise
+
+For each real number , the absolute value of  is the distance between  and  on the number line and is denoted . 
+
+Solve each one variable equation.
+
+	
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+Determine at least five solutions for each two-variable equation.  Make sure some of the solutions include negative values for either  or .
+
+			
+
+
+
+
+
+		
+
+
+
+
+
+		
+
+
+
+
+
+Exploratory Challenge 1
+
+For parts (a)–(c) create graphs of the solution set of each two-variable equation from Opening Exercise 2.
+
+
+
+			b.											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write a brief summary comparing and contrasting the three solution sets and their graphs.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+For parts (e)–(j), consider the function , where  can be any real number.
+
+Explain the meaning of the function  in your own words.
+
+
+
+
+
+
+
+
+
+State the domain and range of this function.
+
+
+
+
+
+
+
+
+
+Create a graph of the function .  You might start by listing several ordered pairs that represent the corresponding domain and range elements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How does the graph of the absolute value function compare to the graph of ?
+
+
+
+
+
+
+
+
+
+
+
+Define a function whose graph would be identical to the graph of .
+
+
+
+
+
+
+
+
+
+
+
+Could you define a function whose graph would be identical to the graph of ?  Explain your reasoning.
+
+
+
+
+
+
+
+
+
+Let  for , and let  for  .  Graph the functions  and  on the same Cartesian plane.  How does the graph of these two functions compare to the graph in part (g)?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition:  
+
+The absolute value function  is defined by setting  for all real numbers.  Another way to write  is as a piecewise linear function:
+
+
+
+Example 1
+
+Let .  The graph of  is the same as the graph of the equation  you drew in Exploratory Challenge 1, part (b).  Use the redrawn graph below to rewrite the function  as a piecewise function.
+
+
+
+Label the graph of the linear function with negative slope by  and the graph of the linear function with positive slope by , as in the picture above. 
+
+Function :  The slope of  is  (why?), and the -intercept is ; therefore, .
+
+Function :  The slope of  is  (why?), and the -intercept is  (why?); therefore, .
+
+Writing  as a piecewise function is just a matter of collecting all of the different “pieces” and the intervals upon which they are defined:
+
+.
+
+
+
+Exploratory Challenge 2
+
+The floor of a real number , denoted by , is the largest integer not greater than .  The ceiling of a real number , denoted by , is the smallest integer not less than .  The sawtooth number of a positive number is the fractional part of the number that is to the right of its floor on the number line.  In general, for a real number , the sawtooth number of  is the value of the expression .  Each of these expressions can be thought of as functions with the domain being the set of real numbers.
+
+
+
+
+
+
+
+
+
+
+
+Complete the following table to help you understand how these functions assign elements of the domain to elements of the range.  The first and second rows have been done for you.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create a graph of each function.
+
+
+
+
+
+
+
+
+
+            	     
+
+
+
+For the floor, ceiling, and sawtooth functions, what would be the range values for all real numbers  on the interval ?  The interval ?  The interval ?  The interval ?  
+
+ 
+
+
+
+
+
+
+
+
+
+
+Relevant Vocabulary
+
+Piecewise linear function:  Given a number of nonoverlapping intervals on the real number line, a (real) piecewise linear function is a function from the union of the intervals to the set of real numbers such that the function is defined by (possibly different) linear functions on each interval. 
+
+Absolute value function:  The absolute value of a number , denoted by , is the distance between 0 and  on the number line.  The absolute value function is the piecewise linear function such that for each real number , the value of the function is .  
+
+We often name the absolute value function by saying, “Let  for all real numbers .”   
+
+Floor function:  The floor of a real number , denoted by , is the largest integer not greater than .  The floor function is the piecewise linear function such that for each real number , the value of the function is .  
+
+We often name the floor function by saying, “Let  for all real numbers .”    
+
+Ceiling function:  The ceiling of a real number , denoted by , is the smallest integer not less than .  The ceiling function is the piecewise linear function such that for each real number , the value of the function is .  
+
+We often name the ceiling function by saying, “Let  for all real numbers .”
+
+Sawtooth function:  The sawtooth function is the piecewise linear function such that for each real number , the value of the function is given by the expression . 
+
+		The sawtooth function assigns to each positive number the part of the number (the non-integer part) that is to the right of the floor of the number on the number line.  That is, if we let  for all real numbers , then 
+
+		, , , etc.
+
+		
+
+
+
+
+Problem Set 
+
+
+
+Explain why the sawtooth function,  for all real numbers , takes only the fractional part of a number when the number is positive.
+
+
+
+Let , where  can be any real number.  In otherwords,  is the difference between the ceiling and floor functions.  Express  as a piecewise function.
+
+
+
+The Heaviside function is defined using the formula below.
+
+
+
+Graph this function, and state its domain and range.
+
+
+
+The following piecewise function is an example of a step function.
+
+
+
+Graph this function, and state the domain and range. 
+
+Why is this type of function called a step function?
+
+
+
+Let , where can be any real number except .
+
+Why is the number  excluded from the domain of ?
+
+What is the range of f?   
+
+Create a graph of .
+
+Express  as a piecewise function.
+
+What is the difference between this function and the Heaviside function?
+
+
+
+Graph the following piecewise functions for the specified domain.
+
+ for  
+
+ for  
+
+ for 
+
+ for   
+
+ for  
+
+  
+
+      
+
+
+
+Write a piecewise function for each graph below.  
+
+
+
+	  	b.
+
+
+
+	
+
+	
+
+	
+
+	
+
+1
+
+1
+
+	
+
+1
+
+1
+
+	
+
+	
+
+	
+
+
+
+
+
+
+
+		Graph of 
+
+
+
+
+
+
+
+	 	d.						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M3-TE-1.3.0-08.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M3-TE-1.3.0-08.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.95
+
+S.95
+
+	Lesson 15:	Piecewise Functions
+
+	
+
+	
+
+	
+
+	Lesson 15:	Piecewise Functions

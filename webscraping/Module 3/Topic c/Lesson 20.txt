@@ -1,0 +1,493 @@
+Lesson 20
+
+Lesson 20
+
+M3
+
+M3
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+				
+
+				
+
+
+
+Lesson 20:  Four Interesting Transformations of Functions
+
+
+
+Classwork 
+
+Opening Exercise
+
+Fill in the blanks of the table with the appropriate heading or descriptive information.
+
+Graph of 
+
+
+Vertical
+
+Horizontal
+
+Translate
+
+
+
+
+
+Translate up by  units
+
+
+
+
+
+Translate right by  units
+
+
+
+
+
+
+
+Translate down by  units
+
+
+
+
+
+
+
+Scale by scale factor 
+
+
+
+
+
+
+
+
+
+
+
+Horizontal stretch by a factor of 
+
+
+
+
+
+
+
+Vertical shrink by a factor of 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vertical shrink by a factor of  and reflection over -axis
+
+
+
+
+
+Horizontal shrink by a factor of  and reflection across -axis
+
+
+
+
+
+
+
+
+
+
+
+
+
+Horizontal stretch by a factor of  and reflection over -axis
+
+
+
+Exploratory Challenge 1
+
+A transformation of the absolute value function  is rewritten here as a piecewise function.  Describe in words how to graph this piecewise function.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercises 1–2  
+
+Describe how to graph the following piecewise function.  Then, graph  below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Using the graph of  below, write a formula for  as a piecewise function.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exploratory Challenge 2
+
+The graph  of a piecewise function  is shown.  The domain of  is , and the range is .
+
+Mark and identify four strategic points helpful in sketching the graph of . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sketch the graph of , and state the domain and range of the transformed function.  How can you use part (a) to help sketch the graph of  ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A horizontal scaling with scale factor    of the graph of  is the graph of .  Sketch the graph of , and state the domain and range.  How can you use the points identified in part (a) to help sketch ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercises 3–4 
+
+How does the range of  in Exploratory Challenge 2 compare to the range of a transformed function , where , when ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How does the domain of  in Exploratory Challenge 2 compare to the domain of a transformed function , where 
+, when ?  (Hint:  How does a graph shrink when it is horizontally scaled by a factor ?)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Problem Set 
+
+
+
+Suppose the graph of  is given.  Write an equation for each of the following graphs after the graph of  has been transformed as described.  Note that the transformations are not cumulative.
+
+Translate  units upward.
+
+Translate  units downward.
+
+Translate  units right.
+
+Translate  units left.
+
+Reflect about the -axis.
+
+Reflect about the -axis.
+
+Stretch vertically by a factor of .
+
+Shrink vertically by a factor of  .
+
+Shrink horizontally by a factor of  .
+
+Stretch horizontally by a factor of .
+
+
+
+Explain how the graphs of the equations below are related to the graph of .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The graph of the equation  is provided below.  For each of the following transformations of the graph, write a formula (in terms of  for the function that is represented by the transformation of the graph of .  Then, draw the transformed graph of the function on the same set of axes as the graph of .
+
+A translation  units left and  units up
+
+A vertical stretch by a scale factor of 
+
+A horizontal shrink by a scale factor of  
+
+
+
+Reexamine your work on Exploratory Challenge 2 and Exercises 3 and 4 from this lesson.  Parts (b) and (c) of Exploratory Challenge 2 asked how the equations  and  could be graphed with the help of the strategic points found in part (a).  In this problem, we investigate whether it is possible to determine the graphs of 
+ and  by working with the piecewise linear function  directly.
+
+Write the function  in Exploratory Challenge 2 as a piecewise linear function.
+
+Let .  Use the graph you sketched in Exploratory Challenge 2, part (b) of  to write the formula for the function  as a piecewise linear function.
+
+Let .  Use the graph you sketched in Exploratory Challenge 2, part (c) of  to write the formula for the function  as a piecewise linear function.
+
+Compare the piecewise linear functions  and  to the piecewise linear function .  Did the expressions defining each piece change?  If so, how?  Did the domains of each piece change?  If so how?
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M3-TE-1.3.0-08.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M3-TE-1.3.0-08.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.134
+
+S.134
+
+	Lesson 20:	Four Interesting Transformations of Functions
+
+	
+
+	
+
+	
+
+	Lesson 20:	Four Interesting Transformations of Functions

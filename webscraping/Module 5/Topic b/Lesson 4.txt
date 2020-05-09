@@ -1,0 +1,555 @@
+Lesson 4
+
+Lesson 4
+
+M5
+
+M5
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+
+
+
+
+
+
+Lesson 4:  Modeling a Context from a Graph 
+
+
+
+Classwork 
+
+Example 1
+
+Read the problem below.  Your teacher will walk you through the process of using the steps in the modeling cycle to guide your solution.
+
+The relationship between the length of one of the legs, in feet, of an animal and its walking speed, in feet per second, can be modeled by the graph below.  Note:  This function applies to walking not running speed.  Obviously, a cheetah has shorter legs than a giraffe but can run much faster.  However, in a walking race, the giraffe has the advantage.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A T-Rex’s leg length was  ft.  What was the T-Rex’s speed in ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercises
+
+Now practice using the modeling cycle with these problems: 
+
+Eduardo has a summer job that pays him a certain rate for the first  hours per week and time and a half for any overtime.  The graph below is a representation of how much money he earns as a function of the hours he works in one week.  
+
+	
+
+Eduardo’s employers want to make him a salaried employee, which means he does not get overtime.  If they want to pay him  per week but have him commit to  hours a week, should he agree to the salary change?  Justify your answer mathematically.
+
+Formulate (recall this step from Lesson 1).
+
+What type of function can be represented by a graph like this (e.g., quadratic, linear, exponential, piecewise, square root, or cube root)?
+
+
+
+
+
+
+
+How would you describe the end behavior of the graph in the context of this problem? 
+
+
+
+
+
+
+
+How does this affect the equation of our function?
+
+
+
+
+
+
+
+Compute
+
+What strategy do you plan to use to come up with the model for this context?
+
+
+
+
+
+
+
+
+
+Find the function of this graph.  Show all your work.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interpret
+
+How much does Eduardo make an hour? 
+
+
+
+
+
+
+
+By looking only at the graphs, which interval has a greater average rate of change:  or ?  Justify your answer by making connections to the graph and its verbal description.
+
+
+
+
+
+
+
+
+
+Eduardo’s employers want to make Eduardo a salaried employee, which means he does not get overtime.  If they want to pay him  per week but have him commit to  hours a week, should he agree to the salary change?  Justify your answer mathematically.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validate
+
+How can you check to make sure your function models the graph accurately?
+
+
+
+
+
+
+
+
+
+The cross-section view of a deep river gorge is modeled by the graph shown below where both height and distance are measured in miles.  How long is a bridge that spans the gorge from the point labeled  to the other side?  How high above the bottom of the gorge is the bridge?
+
+	
+
+Formulate
+
+What type of function can be represented by a graph like this (e.g., quadratic, linear, exponential, piecewise, square root, or cube root)?
+
+
+
+
+
+What are the quantities in this problem?
+
+
+
+
+
+
+
+
+
+
+
+How would you describe the end behavior of the graph? 
+
+
+
+
+
+
+
+
+
+
+
+What is a general form for this function type?
+
+
+
+
+
+
+
+
+
+
+
+How does knowing the function type and end behavior affect the equation of the function for this graph?
+
+
+
+
+
+
+
+
+
+
+
+What is the equation we would use to model this graph? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compute
+
+What are the key features of the graph that can be used to determine the equation?
+
+
+
+
+
+
+
+
+
+Which key features of the function must be determined?
+
+
+
+
+
+
+
+
+
+Calculate the missing key features and check for accuracy with your graph.
+
+
+
+
+
+
+
+
+
+
+
+Interpret
+
+What domain makes sense for this context?  Explain.
+
+
+
+
+
+
+
+
+
+
+
+
+
+How wide is the bridge with one side located at ?
+
+
+
+
+
+
+
+
+
+
+
+How high is the bridge above the bottom of the gorge?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Suppose the gorge is exactly  miles wide from its two highest points.  Find the average rate of change for the interval from  to .  Explain this phenomenon.  Are there other intervals that will behave similarly?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validate
+
+How can you check to make sure that your function models the graph accurately?
+
+
+
+
+
+
+
+
+
+
+
+Now compare four representations that may be involved in the modeling process.  How is each useful for each phase of the modeling cycle?  Explain the advantages and disadvantages of each.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+When modeling from a graph use the full modeling cycle:
+
+Formulate:   Identify the variables involved, classify the type of graph presented, point out the visible key features, and create a different representation of the relationship if needed.
+
+Compute:  Decontextualize the graph from the application and analyze it.  You might have to find a symbolic or tabular representation of the graph to further analyze it.
+
+Interpret:   Contextualize the features of the function and your results and make sense of them in the context provided. 
+
+Validate:  Check your results with the context.  Do your answers make sense?  Are the calculations accurate?  Are there possibilities for error? 
+
+Report:   Clearly write your results.
+
+
+
+Lesson Summary
+
+When modeling from a graph use the full modeling cycle:
+
+Formulate:   Identify the variables involved, classify the type of graph presented, point out the visible key features, and create a different representation of the relationship if needed.
+
+Compute:  Decontextualize the graph from the application and analyze it.  You might have to find a symbolic or tabular representation of the graph to further analyze it.
+
+Interpret:   Contextualize the features of the function and your results and make sense of them in the context provided. 
+
+Validate:  Check your results with the context.  Do your answers make sense?  Are the calculations accurate?  Are there possibilities for error? 
+
+Report:   Clearly write your results.
+
+
+
+
+
+Problem Set 
+
+
+
+During tryouts for the track team, Bob is running-foot wind sprints by running from a starting line to the far wall of the gym and back.  At time, he is at the starting line and ready to accelerate toward the opposite wall.  Asapproaches seconds, he must slow down, stop for just an instant to touch the wall, then turn around, and sprint back to the starting line.  His distance, in feet, from the starting line with respect to the number of seconds that has passed for one repetition is modeled by the graph below.  
+
+
+
+(Note:  You may refer to Lesson 1, Problem Set #1 to help answer this question.)
+
+How far was Bob from the starting line at  seconds?   seconds?  (Distances, in feet, should be represented to the nearest tenth.) 
+
+Kyle and Abed each threw a baseball across a field.  The height of the balls (in feet) is described by functions  and , where  is the number of seconds the baseball is in the air.   models the height of Kyle’s baseball (equation below), and  models the height of Abed’s baseball (graph below).
+
+			
+
+
+
+
+
+
+
+
+
+Which ball was in the air for a longer period of time?
+
+Whose ball goes higher?
+
+How high was Abed’s ball when he threw it?
+
+
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M5-TE-1.3.0-10.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M5-TE-1.3.0-10.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.20
+
+S.20
+
+	Lesson 4:	Modeling a Context from a Graph 
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 4:	Modeling a Context from a Graph

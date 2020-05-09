@@ -1,0 +1,380 @@
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 18
+
+  
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 18
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+			
+
+			
+
+
+
+Lesson 18:  Graphing Cubic, Square Root, and Cube Root Functions
+
+
+
+Classwork
+
+Opening Exercise
+
+Evaluate  when .
+
+
+
+
+
+
+
+Evaluate  when .
+
+
+
+
+
+
+
+Evaluate  when .
+
+
+
+
+
+
+
+Evaluate  when .
+
+
+
+
+
+
+
+Exploratory Challenge 1
+
+Use your graphing calculator to create a data table for the functions  and  for a variety of -values.  Use both negative and positive numbers, and round decimal answers to the nearest hundredth.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exploratory Challenge 2
+
+Create the graphs of  and  on the same set of axes.
+
+
+
+
+
+Exploratory Challenge 3
+
+Create a data table for  and , and graph both functions on the same set of axes.  Round decimal answers to the nearest hundredth.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+The square root parent function is a reflection of the quadratic parent function across the line , when  is non-negative.
+
+The domain of quadratic, cubic, and cube root parent functions is all real numbers.  The domain of the square root parent function is .
+
+The range of quadratic and square root parent functions is .  The range of the cubic and cube root parent functions is all real numbers.
+
+The cube root and cubic parent functions are symmetrical about the origin and are reflections of each other across the line ; the two operations reverse each other. 
+
+
+
+Lesson Summary
+
+The square root parent function is a reflection of the quadratic parent function across the line , when  is non-negative.
+
+The domain of quadratic, cubic, and cube root parent functions is all real numbers.  The domain of the square root parent function is .
+
+The range of quadratic and square root parent functions is .  The range of the cubic and cube root parent functions is all real numbers.
+
+The cube root and cubic parent functions are symmetrical about the origin and are reflections of each other across the line ; the two operations reverse each other. 
+
+
+
+
+
+Problem Set
+
+
+
+Create the graphs of the functions  and  using the given values.  Use a calculator to help with decimal approximations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What can be said about the first three values for  in the table?
+
+
+
+Describe the relationship between the graphs given by the equations  and .  How are they alike?  How are they different?
+
+
+
+Refer to your class notes for the graphs of  and .  How are the graphs of  and  transformed to generate the graphs of  and ?
+
+
+
+
+
+
+
+
+Create the graphs of  and  using the given values for .  Use a calculator to help with decimal approximations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For the table in Problem 5, explain why there were no function values that resulted in an error.  
+
+
+
+Describe the relationship between the domains and ranges of the functions  and .  Describe the relationship between their graphs.
+
+
+
+Refer to your class notes for the graphs of  and .  How are the graphs of  and  transformed to generate the graphs of  and ?
+
+
+
+Using your responses to Problems 4 and 8, how do the functions given in Problems 1 and 5 differ from their parent functions?  What effect does that difference seem to have on the graphs of those functions?
+
+
+
+Create your own functions using   and  by filling in the box with a positive or negative number.  Predict how the graphs of your functions will compare to the graphs of their parent functions based on the number that you put in the blank boxes.  Generate a table of solutions for your functions, and graph the solutions.
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.100
+
+S.100
+
+	Lesson 18:	Graphing Cubic, Square Root, and Cube Root Functions
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 18:	Graphing Cubic, Square Root, and Cube Root Functions

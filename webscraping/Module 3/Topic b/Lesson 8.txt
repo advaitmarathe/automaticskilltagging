@@ -1,0 +1,413 @@
+Lesson 8
+
+Lesson 8
+
+M3
+
+M3
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+				
+
+				
+
+
+
+Lesson 8:  Why Stay with Whole Numbers?
+
+
+
+Classwork
+
+Opening Exercise
+
+The sequence of perfect squares  earned its name because the ancient Greeks realized these quantities could be arranged to form square shapes.
+
+
+
+If  denotes the th square number, what is a formula for ?
+
+
+
+
+
+
+
+Exercises 
+
+Prove whether or not  is a perfect square.
+
+
+
+
+
+
+
+
+
+
+
+Prove whether or not  is a perfect square.
+
+
+
+
+
+
+
+
+
+
+
+If , then what is ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Which term is the number  in the sequence of perfect squares?  How do you know?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instead of arranging dots into squares, suppose we extend our thinking to consider squares of side length .
+
+
+
+Create a formula for the area  of a square of side length :   ___________.
+
+
+
+
+
+
+
+
+
+
+
+Use the formula to determine the area of squares with side lengths of , , and .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What does  mean?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What does  and  mean?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The triangular numbers are the numbers that arise from arranging dots into triangular figures as shown:
+
+
+
+
+
+What is theth triangular number?
+
+
+
+
+
+
+
+
+
+
+
+Find a formula for, the th triangular number (starting with ).
+
+
+
+
+
+
+
+
+
+
+
+How can you be sure your formula works?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create a graph of the sequence of triangular numbers  , where  is a positive integer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create a graph of the triangle area formula , where  is any positive real number. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How are your two graphs alike?  How are they different?
+
+
+
+
+
+
+
+
+Problem Set 
+
+
+
+The first four terms of two different sequences are shown below.  Sequence  is given in the table, and sequence  is graphed as a set of ordered pairs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create an explicit formula for each sequence.
+
+Which sequence will be the first to exceed ?  How do you know?
+
+
+
+A tile pattern is shown below.
+
+
+
+    Figure 1			Figure 2			Figure 3			      Figure 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+How is this pattern growing? 
+
+Create an explicit formula that could be used to determine the number of squares in the th figure.
+
+Evaluate your formula for , and .  Draw Figure 0 and Figure 2.5, and explain how you decided to create your drawings.
+
+
+The first four terms of a geometric sequence are graphed as a set of ordered pairs.
+
+
+
+What is an explicit formula for this sequence?
+
+Explain the meaning of the ordered pair .
+
+As of July 2013, Justin Bieber had over  Twitter followers.  Suppose the sequence represents the number of people that follow your new Twitter account each week since you started tweeting.  If your followers keep growing in the same manner, when will you exceed  followers? 
+
+
+
+
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M3-TE-1.3.0-08.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M3-TE-1.3.0-08.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.43
+
+S.43
+
+	Lesson 8:	Why Stay With Whole Numbers?
+
+	
+
+	
+
+	
+
+	Lesson 8:	Why Stay With Whole Numbers?

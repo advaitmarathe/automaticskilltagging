@@ -1,0 +1,467 @@
+Lesson 13
+
+Lesson 13
+
+M2
+
+M2
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+
+
+
+
+
+
+Lesson 13:  Relationships Between Two Numerical Variables
+
+
+
+Classwork
+
+Not all relationships between two numerical variables are linear.  There are many situations where the pattern in the scatter plot would best be described by a curve. Two types of functions often used in modeling nonlinear relationships are quadratic and exponential functions.
+
+
+
+Example 1:  Modeling Relationships
+
+Sometimes the pattern in a scatter plot looks like the graph of a quadratic function (with the points falling roughly in the shape of a U that opens up or down), as in the graph below.
+
+
+
+In other situations, the pattern in the scatter plot might look like the graphs of exponential functions that either are upward sloping (Graph 1) or downward sloping (Graph 2).
+
+Graph 1:  Exponential—upward sloping
+
+
+
+c
+
+Graph 2:  Exponential—downward sloping
+
+
+
+Exercises 1–6
+
+Consider again the five scatter plots discussed in the previous lesson.
+
+Scatter Plot 1
+
+
+
+
+
+Scatter Plot 2
+
+
+
+
+
+Scatter Plot 3
+
+
+
+Scatter Plot 4
+
+
+
+
+
+Scatter Plot 5
+
+
+
+
+
+
+
+Which of the five scatter plots from Lesson 12 shows a pattern that could be reasonably described by a quadratic curve?
+
+
+
+
+
+
+
+
+Which of the five scatter plots shows a pattern that could be reasonably described by an exponential curve?
+
+
+
+
+
+
+
+
+
+Let’s revisit the data on elevation (in feet above sea level) and mean number of clear days per year.  The scatter plot of this data is shown below.  The plot also shows a straight line that can be used to model the relationship between elevation and mean number of clear days.  (In Grade 8, you informally fit a straight line to model the relationship between two variables.  The next lesson shows a more formal way to fit a straight line.)  The equation of this line is 
+.
+
+
+
+Assuming that the  cities used in this scatter plot are representative of cities across the United States, should you see more clear days per year in Los Angeles, which is near sea level, or in Denver, which is known as the mile-high city?  Justify your choice with a line showing the relationship between elevation and mean number of clear days.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+One of the cities in the data set was Albany, New York, which has an elevation of   If you did not know the mean number of clear days for Albany, what would you predict this number to be based on the line that describes the relationship between elevation and mean number of clear days?
+
+
+
+
+
+
+
+
+
+Another city in the data set was Albuquerque, New Mexico.  Albuquerque has an elevation of   If you did not know the mean number of clear days for Albuquerque, what would you predict this number to be based on the line that describes the relationship between elevation and mean number of clear days?
+
+
+
+
+
+
+
+
+
+Was the prediction of the mean number of clear days based on the line closer to the actual value for Albany with 
+ clear days or for Albuquerque with  clear days?  How could you tell this from looking at the scatter plot with the line shown above?
+
+
+
+
+
+
+
+Example 2:  A Quadratic Model
+
+Farmers sometimes use fertilizers to increase crop yield but often wonder just how much fertilizer they should use.  
+The data shown in the scatter plot below are from a study of the effect of fertilizer on the yield of corn.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data Source:  M.E. Cerrato and A.M. Blackmer, “Comparison of Models for Describing Corn Yield Response to Nitrogen Fertilizer” Agronomy Journal, 82 (1990): 138.
+
+Exercises 7–9
+
+The researchers who conducted this study decided to use a quadratic curve to describe the relationship between yield and amount of fertilizer.  Explain why they made this choice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+The model that the researchers used to describe the relationship was , where  represents the amount of fertilizer ( per ) and represents corn yield ( per ).  
+Use this quadratic model to complete the following table.  Then sketch the graph of this quadratic equation on the scatter plot.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Based on this quadratic model, how much fertilizer per  would you recommend that a farmer use on his cornfields in order to maximize crop yield?  Justify your choice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example 3:  An Exponential Model
+
+How do you tell how old a lobster is?  This question is important to biologists and to those who regulate lobster trapping.  To answer this question, researchers recorded data on the shell length of  lobsters that were raised in a laboratory and whose ages were known. 
+
+
+
+Data Source:  Kerry E. Maxwell, Thomas R. Matthews, Matt R.J. Sheehy, Rodney D. Bertelsen, and Charles D. Derby, “Neurolipofuscin is a Measure of Age in Panulirus argus, the Caribbean Spiny Lobster, in Florida” Biological Bulletin, 213 (2007): 55.
+
+
+
+Exercises 10–13
+
+The researchers who conducted this study decided to use an exponential curve to describe the relationship between age and exterior shell length.  Explain why they made this choice.
+
+
+
+
+
+
+
+
+
+
+
+
+The model that the researchers used to describe the relationship is , where  represents the exterior shell length (mm), and  represents the age of the lobster (in years).  The exponential curve is shown on the scatter plot below.  Does this model provide a good description of the relationship between age and exterior shell length?  Explain why or why not.
+
+
+
+
+
+
+
+
+
+
+
+
+Based on this exponential model, what age is a lobster with an exterior shell length of ?  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Suppose that trapping regulations require that any lobster with an exterior shell length less than  or more than  must be released.  Based on the exponential model, what are the ages of lobsters with exterior shell lengths less than ?  What are the ages of lobsters with exterior shell lengths greater than ?  Explain how you arrived at your answer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+A scatter plot can be used to investigate whether or not there is a relationship between two numerical variables.
+
+Linear, quadratic, and exponential functions are common models that can be used to describe the relationship between variables.
+
+Models can be used to answer questions about how two variables are related.
+
+
+
+Lesson Summary
+
+A scatter plot can be used to investigate whether or not there is a relationship between two numerical variables.
+
+Linear, quadratic, and exponential functions are common models that can be used to describe the relationship between variables.
+
+Models can be used to answer questions about how two variables are related.
+
+
+
+Problem Set
+
+
+
+Biologists conducted a study of the nesting behavior of a type of bird called a flycatcher.  They examined a large number of nests and recorded the latitude for the location of the nest and the number of chicks in the nest.
+
+
+
+Data Source:  Juan José Sanz, “Geographic variation in breeding parameters of the pied flycatcher Ficedula hypoleuca” Ibis, 139 (1997): 107.
+
+
+
+What type of model (linear, quadratic, or exponential) would best describe the relationship between latitude and mean number of chicks?
+
+
+
+
+One model that could be used to describe the relationship between mean number of chicks and latitude is
+, where  represents the latitude of the location of the nest and represents the number of chicks in the nest.  Use the quadratic model to complete the following table.  Then sketch a graph of the quadratic curve on the scatter plot provided at the beginning of the Problem Set.
+
+
+
+(degrees)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Based on this quadratic model, what is the best latitude for hatching the most flycatcher chicks?  Justify your choice.
+
+
+
+Suppose that social scientists conducted a study of senior citizens to see how the time (in minutes) required to solve a word puzzle changes with age.  The scatter plot below displays data from this study.
+
+Let  equal the age of the citizen and  equal the time (in minutes) required to solve a word puzzle for the seven study participants.
+
+
+
+What type of model (linear, quadratic, or exponential) would you use to describe the relationship between age and time required to complete the word puzzle?
+
+
+
+
+
+
+
+
+One model that could describe the relationship between age and time to complete the word puzzle is 
+.  This exponential curve is shown on the scatter plot below.  Does this model do a good job of describing the relationship between age and time to complete the word puzzle?  Explain why or why not. 
+
+
+
+Based on this exponential model, what time would you predict for a person who is  years old? 
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M2-TE-1.3.0-08.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M2-TE-1.3.0-08.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.84
+
+S.84
+
+	Lesson 13:	Relationships Between Two Numerical Variables 
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 13:	Relationships Between Two Numerical Variables

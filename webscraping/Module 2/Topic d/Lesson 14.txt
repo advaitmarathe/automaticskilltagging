@@ -1,0 +1,790 @@
+Lesson 14
+
+
+
+Lesson #
+
+Lesson 14
+
+
+
+Lesson #
+
+M2
+
+
+
+MX
+
+M2
+
+
+
+MX
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+
+  
+
+
+
+  
+
+
+
+ALGEBRA I
+
+
+
+COURSE NAME
+
+ALGEBRA I
+
+
+
+COURSE NAME
+
+
+
+
+
+
+
+Lesson 14:  Modeling Relationships with a Line
+
+
+
+Classwork
+
+Example 1:  Using a Line to Describe a Relationship
+
+Kendra likes to watch crime scene investigation shows on television.  She watched a show where investigators used a shoe print to help identify a suspect in a case.  She questioned how possible it is to predict someone’s height from his shoe print.
+
+To investigate, she collected data on shoe length (in inches) and height (in inches) from  adult men.  Her data appear in the table and scatter plot below. 
+
+ (Shoe Length)
+
+ (Height)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercises 1–2
+
+Is there a relationship between shoe length and height?
+
+
+
+
+
+
+
+
+
+How would you describe the relationship?  Do the men with longer shoe lengths tend be taller?
+
+
+
+
+
+
+
+Example 2:  Using Models to Make Predictions
+
+When two variables  and  are linearly related, you can use a line to describe their relationship.  You can also use the equation of the line to predict the value of the -variable based on the value of the -variable.  
+
+For example, the line  might be used to describe the relationship between shoe length and height, where  represents shoe length and  represents height.  To predict the height of a man with a shoe length of , you would substitute  for  in the equation of the line and then calculate the value of .  
+
+
+
+You would predict a height of  for a man with a shoe length of .
+
+
+
+Exercises 3–7
+
+Below is a scatter plot of the data with two linear models,  and .  Which of these two models does a better job of describing how shoe length () and height () are related?  Explain your choice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+One of the men in the sample has a shoe length of  and a height of .  Circle the point in the scatter plot in Exercise 3 that represents this man.
+
+
+
+
+
+
+Suppose that you do not know this man’s height but do know that his shoe length is   If you use the model , what would you predict his height to be?  If you use the model , what would you predict his height to be?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Which model was closer to the actual height of ?  Is that model a better fit to the data?  Explain your answer.
+
+
+
+
+
+
+
+
+
+Is there a better way to decide which of two lines provides a better description of a relationship (rather than just comparing the predicted value to the actual value for one data point in the sample)?
+
+
+
+
+
+
+
+
+
+
+
+Example 3:  Residuals
+
+One way to think about how useful a line is for describing a relationship between two variables is to use the line to predict the-values for the points in the scatter plot.  These predicted values could then be compared to the actual 
+-values.
+
+For example, the first data point in the table represents a man with a shoe length of  and height of   If you use the line  to predict this man’s height, you would get:
+
+
+
+
+
+His predicted height is   Because his actual height was , you can calculate the prediction error by subtracting the predicted value from the actual value.  This prediction error is called a residual.  For the first data point, the residual is calculated as follows:
+
+
+
+
+
+Exercises 8–10
+
+For the line , calculate the missing values, and add them to complete the table. 
+
+ (Shoe Length)
+
+ (Height)
+
+Predicted -value
+
+Residual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+Why is the residual in the table’s first row positive and the residual in the second row negative?
+
+
+
+
+
+
+
+
+
+
+
+
+What is the sum of the residuals?  Why did you get a number close to zero for this sum?  Does this mean that all of the residuals were close to ?
+
+
+
+
+
+
+
+
+
+Exercises 11–13
+
+When you use a line to describe the relationship between two numerical variables, the best line is the line that makes the residuals as small as possible overall.
+
+If the residuals tend to be small, what does that say about the fit of the line to the data?
+
+
+
+
+
+The most common choice for the best line is the line that makes the sum of the squared residuals as small as possible.  Add a column on the right of the table in Exercise 8.  Calculate the square of each residual and place the answer in the column.
+
+Why do we use the sum of the squared residuals instead of just the sum of the residuals (without squaring)?  
+Hint:  Think about whether the sum of the residuals for a line can be small even if the prediction errors are large.  Can this happen for squared residuals?
+
+
+
+
+
+
+
+
+
+
+
+
+What is the sum of the squared residuals for the line  and the data of Exercise 11?
+
+
+
+
+
+
+
+
+
+
+
+Example 4:  The Least Squares Line (Best-Fit Line)
+
+The line that has a smaller sum of squared residuals for this data set than any other line is called the least squares line.  This line can also be called the best-fit line or the line of best fit (or regression line).
+
+For the shoe-length and height data for the sample of  men, the line  is the least squares line.  
+No other line would have a smaller sum of squared residuals for this data set than this line.
+
+There are equations that can be used to calculate the value for the slope and the intercept of the least squares line, but these formulas require a lot of tedious calculations.  Fortunately, a graphing calculator can be used to find the equation of the least squares line.
+
+Your teacher will show you how to enter data and obtain the equation of the least squares line using your graphing calculator or other statistics program.
+
+
+
+Exercises 14–17
+
+Enter the shoe-length and height data, and then use your calculator to find the equation of the least squares line.  Did you get ?  (The slope and -intercept here have been rounded to the nearest hundredth.)
+
+
+
+
+
+
+
+
+
+
+
+Assuming that the  men in the sample are representative of adult men in general, what height would you predict for a man whose shoe length is ?  What height would you predict for a man whose shoe length is ?
+
+
+
+
+
+
+
+
+
+Once you have found the equation of the least squares line, the values of the slope and -intercept of the line often reveal something interesting about the relationship you are modeling. 
+
+The slope of the least squares line is the change in the predicted value of the -variable associated with an increase of one in the value of the -variable. 
+
+Give an interpretation of the slope of the least squares line  for predicting height from shoe size for adult men.
+
+
+
+
+
+
+
+
+
+
+
+The -intercept of a line is the predicted value of  when  equals zero.  When using a line as a model for the relationship between two numerical variables, it often does not make sense to interpret the -intercept because a 
+-value of zero may not make any sense.
+
+Explain why it does not make sense to interpret the -intercept of  as the predicted height for an adult male whose shoe length is zero.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+When the relationship between two numerical variables  and  is linear, a straight line can be used to describe the relationship.  Such a line can then be used to predict the value of  based on the value of .  When a prediction is made, the prediction error is the difference between the actual -value and the predicted -value.  The prediction error is called a residual, and the residual is calculated as residual  actual -value  predicted -value.  The least squares line is the line that is used to model a linear relationship.  The least squares line is the best line in that it has a smaller sum of squared residuals than any other line.
+
+Lesson Summary
+
+When the relationship between two numerical variables  and  is linear, a straight line can be used to describe the relationship.  Such a line can then be used to predict the value of  based on the value of .  When a prediction is made, the prediction error is the difference between the actual -value and the predicted -value.  The prediction error is called a residual, and the residual is calculated as residual  actual -value  predicted -value.  The least squares line is the line that is used to model a linear relationship.  The least squares line is the best line in that it has a smaller sum of squared residuals than any other line.
+
+
+
+Problem Set 
+
+
+
+Kendra wondered if the relationship between shoe length and height might be different for men and women.  
+To investigate, she also collected data on shoe length (in inches) and height (in inches) for  women.
+
+ (Shoe Length of Women)
+
+ (Height of Women)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Construct a scatter plot of these data.
+
+
+
+Is there a relationship between shoe length and height for these  women?
+
+
+
+Find the equation of the least squares line.  (Round values to the nearest hundredth.)
+
+
+
+Suppose that these  women are representative of adult women in general.  Based on the least squares line, what would you predict for the height of a woman whose shoe length is ?  What would you predict for the height of a woman whose shoe length is ?
+
+
+One of the women in the sample had a shoe length of .  Based on the regression line, what would you predict for her height?
+
+
+What is the value of the residual associated with the observation for the woman with the shoe length of ?
+
+
+Add the predicted value and the residual you just calculated to the table below.  Then, calculate the sum of the squared residuals.
+
+ (Shoe Length of Women)
+
+ (Height of Women)
+
+Predicted Height (in.)
+
+Residual (in.)
+
+Squared Residual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Provide an interpretation of the slope of the least squares line.
+
+
+
+Does it make sense to interpret the -intercept of the least squares line in this context?  Explain why or why not.
+
+
+
+Would the sum of the squared residuals for the line  be greater than, about the same as, or less than the sum you computed in Problem 7?  Explain how you know this.  You should be able to answer this question without calculating the sum of squared residuals for this new line.
+
+
+
+For the men, the least squares line that describes the relationship between , which represents shoe length 
+(in inches), and , which represents height (in inches), was .  How does this compare to the equation of the least squares line for women?  Would you use  to predict the height of a woman based on her shoe length?  Explain why or why not.
+
+
+
+
+Below are dot plots of the shoe lengths for women and the shoe lengths for men.  Suppose that you found a shoe print and that when you measured the shoe length, you got .  Do you think that a man or a woman left this shoe print?  Explain your choice.
+
+
+
+
+
+Suppose that you find a shoe print and the shoe length for this print is .  What would you predict for the height of the person who left this print?  Explain how you arrived at this answer.
+
+
+
+
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M2-TE-1.3.0-08.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M2-TE-1.3.0-08.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.94
+
+S.94
+
+	Lesson 14:	Modeling Relationships with a Line 
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 14:	Modeling Relationships with a Line

@@ -1,0 +1,275 @@
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M3
+
+Lesson 23
+
+  
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M3
+
+Lesson 23
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+				
+
+				
+
+
+
+Lesson 23:  Newton’s Law of Cooling
+
+ 
+
+Classwork
+
+Opening Exercise
+
+A detective is called to the scene of a crime where a dead body has just been found.  He arrives at the scene and measures the temperature of the dead body at 9:30 p.m.  After investigating the scene, he declares that the person died  hours prior, at approximately 11:30 a.m.  A crime scene investigator arrives a little later and declares that the detective is wrong.  She says that the person died at approximately 6:00 a.m.,  hours prior to the measurement of the body temperature.  She claims she can prove it by using Newton’s law of cooling:
+
+
+
+
+
+
+
+where:
+
+ is the temperature of the object after a time of  hours has elapsed,
+
+ is the ambient temperature (the temperature of the surroundings), assumed to be constant, not impacted by the cooling process,
+
+ is the initial temperature of the object, and
+
+ is the decay constant.
+
+
+
+Using the data collected at the scene, decide who is correct:  the detective or the crime scene investigator.
+
+ (the temperature of the room)
+
+ (the initial temperature of the body)
+
+ ( per hour―calculated by the investigator from the data collected)
+
+The temperature of the body at 9:30 p.m. is .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematical Modeling Exercise
+
+Two cups of coffee are poured from the same pot.  The initial temperature of the coffee is , and  is  (for time in minutes).  
+
+Suppose both cups are poured at the same time.  Cup 1 is left sitting in the room that is , and Cup 2 is taken outside where it is .
+
+Use Newton’s law of cooling to write equations for the temperature of each cup of coffee after  minutes has elapsed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Graph and label both on the same coordinate plane, and compare and contrast the two graphs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coffee is safe to drink when its temperature is below .  Estimate how much time elapses before each cup is safe to drink.
+
+
+
+
+
+
+
+
+
+
+
+Suppose both cups are poured at the same time, and both are left sitting in the room that is .  But this time, milk is immediately poured into Cup 2, cooling it to an initial temperature of .
+
+Use Newton’s law of cooling to write equations for the temperature of each cup of coffee after  minutes has elapsed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Graph and label both on the same coordinate plane, and compare and contrast the two graphs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coffee is safe to drink when its temperature is below .  How much time elapses before each cup is safe to drink?
+
+
+
+
+
+
+
+
+
+
+
+Suppose Cup 2 is poured  minutes after Cup 1 (the pot of coffee is maintained at  over the  minutes).  Both are left sitting in the room that is .
+
+Use the equation for Cup 1 found in Exercise 1, part (a) to write an equation for Cup 2.
+
+
+
+
+
+
+
+
+
+
+
+Graph and label both on the same coordinate plane, and describe how to obtain the graph of Cup 2 from the graph of Cup 1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Problem Set 
+
+
+
+Use the Coffee Cooling demonstration on Wolfram Alpha to write a short report on the questions that follow.  http://demonstrations.wolfram.com/TheCoffeeCoolingProblem/
+
+(Note that Wolfram’s free CDF player needs to be downloaded ahead of time in order to be able to run the demonstration.)
+
+If you want your coffee to become drinkable as quickly as possible, should you add cream immediately after pouring the coffee or wait?  Use results from the demonstration to support your claim.
+
+
+
+If you want your coffee to stay warm longer, should you add cream immediately after pouring the coffee or wait?  Use results from the demonstration to support your claim.
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M3-TE-1.3.0-08.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M3-TE-1.3.0-08.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.153
+
+S.153
+
+	Lesson 23:	Newton’s Law of Cooling
+
+	
+
+	
+
+	Lesson 23:	Newton’s Law of Cooling

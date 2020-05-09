@@ -1,0 +1,355 @@
+Lesson 17
+
+
+
+Lesson #
+
+Lesson 17
+
+
+
+Lesson #
+
+M2
+
+
+
+MX
+
+M2
+
+
+
+MX
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+
+  
+
+
+
+  
+
+
+
+ALGEBRA I
+
+
+
+COURSE NAME
+
+ALGEBRA I
+
+
+
+COURSE NAME
+
+
+
+
+
+
+
+Lesson 17:  Analyzing Residuals
+
+
+
+Classwork
+
+Example 1:  Predicting the Pattern in the Residual Plot
+
+Suppose you are given a scatter plot and least squares line that looks like this:
+
+Describe what you think the residual plot would look like.
+
+
+
+
+
+The residual plot has an arch shape like this:
+
+
+
+Why is looking at the pattern in the residual plot important?
+
+
+
+
+
+
+
+Example 2:  The Meaning of Residuals
+
+Suppose that you have a scatter plot and that you have drawn the least squares line on your plot.  Remember that the residual for a point in the scatter plot is the vertical distance of that point from the least squares line.
+
+In the previous lesson, you looked at a scatter plot showing how fuel efficiency was related to curb weight for five compact cars.  The scatter plot and least squares line are shown below.
+
+
+
+
+
+Consider the following questions:
+
+What kind of residual does Point A have?
+
+
+
+
+
+
+
+What kind of residual does Point B have? 
+
+
+
+
+
+ 
+
+What kind of residual does Point C have?  
+
+
+
+
+
+
+
+
+
+
+
+
+
+You also looked at the residual plot for this data set:
+
+
+
+Your teacher will now show how to use a graphing calculator or graphing program to construct a scatter plot and a residual plot.  Consider the following example.
+
+
+
+Example 3:  Using a Graphing Calculator to Construct a Residual Plot
+
+In an earlier lesson, you looked at a data set giving the shoe lengths and heights of  adult women.  This data set is shown in the table below.
+
+ (Shoe Length)
+
+ (Height)
+
+inches
+
+inches
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Use a calculator to construct the scatter plot (with least squares line) and the residual plot for this data set.
+
+
+
+Lesson Summary
+
+After fitting a line, the residual plot can be constructed using a graphing calculator.
+
+A pattern in the residual plot indicates that the relationship in the original data set is not linear.
+
+
+
+Lesson Summary
+
+After fitting a line, the residual plot can be constructed using a graphing calculator.
+
+A pattern in the residual plot indicates that the relationship in the original data set is not linear.
+
+
+
+
+Problem Set
+
+
+
+Consider again a data set giving the shoe lengths and heights of  adult men.  This data set is shown in the table below.
+
+ (Shoe Length
+
+ (Height
+
+inches
+
+inches
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Use your calculator or graphing program to construct the scatter plot of this data set.  Include the least squares line on your graph.  Explain what the slope of the least squares line indicates about shoe length and height.
+
+
+
+Use your calculator to construct the residual plot for this data set.
+
+
+
+Make a sketch of the residual plot on the axes given below.  Does the scatter of points in the residual plot indicate a linear relationship in the original data set?  Explain your answer.
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M2-TE-1.3.0-08.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M2-TE-1.3.0-08.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.117
+
+S.117
+
+	Lesson 17:	Analyzing Residuals 
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 17:	Analyzing Residuals

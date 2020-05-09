@@ -1,0 +1,237 @@
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 16
+
+  
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 16
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+			
+
+			
+
+
+
+Lesson 16:  Graphing Quadratic Equations from the Vertex Form, 		
+
+Classwork
+
+Opening Exercise
+
+Graph the equations , , and on the interval .  
+
+
+
+Exercises
+
+Without graphing, state the vertex for each of the following quadratic equations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write a quadratic equation whose graph will have the given vertex.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Exploratory Challenge
+
+Caitlin has  feet of material that can be used to make a fence.  Using this material, she wants to create a rectangular pen for her dogs to play in.  What dimensions will maximize the area of the pen?
+
+	Let  be the width of the rectangular pen in feet.  Write an expression that represents the length when the width is  feet.
+
+	
+
+	
+
+	
+
+	
+
+	Define a function that describes the area,, in terms of the width,. 
+
+	
+
+	
+
+	
+
+	
+
+	Rewrite  in vertex form. 
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	What are the coordinates of the vertex?  Interpret the vertex in terms of the problem.
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	What dimensions maximize the area of the pen?  Do you think this is a surprising answer?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+When graphing a quadratic equation in vertex form, ,  are the coordinates of the vertex.  
+
+
+
+Lesson Summary
+
+When graphing a quadratic equation in vertex form, ,  are the coordinates of the vertex.  
+
+Problem Set 
+
+
+
+Find the vertex of the graphs of the following quadratic equations.
+
+
+
+
+
+
+
+Write a quadratic equation to represent a function with the following vertex.  Use a leading coefficient other than .
+
+
+
+ 
+
+
+
+Use vocabulary from this lesson (i.e., stretch, shrink, opens up, and opens down) to compare and contrast the graphs of the quadratic equations  and .
+
+
+
+
+
+
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.88
+
+S.88
+
+	Lesson 16:	Graphing Quadratic Equations from the Vertex Form, 
+
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 16:	Graphing Quadratic Equations from the Vertex Form,

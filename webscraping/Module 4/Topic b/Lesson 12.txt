@@ -1,0 +1,419 @@
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 12
+
+  
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 12
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+			
+
+			
+
+
+
+Lesson 12:  Completing the Square
+
+
+
+Classwork 
+
+Opening Exercise
+
+Rewrite each expression by completing the square.  
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example 1
+
+Now complete the square for.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example 2
+
+Business Application Vocabulary
+
+Unit price (price per unit):  The price per item a business sets to sell its product, which is sometimes represented as a linear expression.
+
+Quantity:  The number of items sold, sometimes represented as a linear expression.
+
+Revenue:  The total income based on sales (but without considering the cost of doing business).
+
+Unit cost (cost per unit) or production cost:  The cost of producing one item, sometimes represented as a linear expression.
+
+Profit:  The amount of money a business makes on the sale of its product.  Profit is determined by taking the total revenue (the quantity sold multiplied by the price per unit) and subtracting the total cost to produce the items (the quantity sold multiplied by the production cost per unit):  .  
+
+
+
+The following business formulas are used in this and the remaining lessons in the module:
+
+
+
+
+
+
+
+
+
+Now solve the following problem:  
+
+
+
+Selling Price ()
+
+Quantity Sold ()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Selling Price ()
+
+Quantity Sold ()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A certain business is marketing its product and has collected data on sales and prices for the past few years.  The company determined that when it raised the selling price of the product, the number of sales went down.  The cost of producing a single item is .  
+
+	Using the data the company collected in this table, determine a linear expression to represent the quantity sold, .  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Now find an expression to represent the profit function, .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercises
+
+For Exercises 1–5, rewrite each expression by completing the square.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A fast food restaurant has determined that its price function is , where  represents the number of hamburgers sold. 
+
+	The cost of producing  hamburgers is determined by the expression .  Write an expression representing the profit for selling  hamburgers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Complete the square for your expression in part (a) to determine the number of hamburgers that need to be sold to maximize the profit, given this price function.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+Here is an example of completing the square of a quadratic expression of the form 
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+Here is an example of completing the square of a quadratic expression of the form 
+
+
+
+
+
+
+
+Problem Set 
+
+
+
+Rewrite each expression by completing the square.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.69
+
+S.69
+
+	Lesson 12:	Completing the Square
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 12:	Completing the Square

@@ -1,0 +1,494 @@
+Lesson 8
+
+Lesson 8
+
+M5
+
+M5
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+
+
+
+
+
+
+Lesson 8:  Modeling a Context from a Verbal Description 
+
+
+
+Classwork 
+
+Example 1
+
+Christine has  to deposit in a savings account, and she is trying to decide between two banks.  Bank A offers  annual interest compounded quarterly.  Rather than compounding interest for smaller accounts, Bank B offers to add quarterly to any account with a balance of less than  for every quarter, as long as there are no withdrawals.  Christine has decided that she will neither withdraw, nor make a deposit for a number of years.
+
+Develop a model that will help Christine decide which bank to use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example 2
+
+Alex designed a new snowboard.  He wants to market it and make a profit.  The total initial cost for manufacturing set-up, advertising, etc. is , and the materials to make the snowboards cost per board.
+
+The demand function for selling a similar snowboard is , where  represents the selling price (in dollars) of each snowboard.
+
+Write an expression for each of the following in terms of .  
+
+Demand Function (number of units that will sell)
+
+
+
+
+
+
+
+Revenue [(number of units that will sell)(price per unit, )]
+
+
+
+
+
+
+
+Total Cost (cost for producing the snowboards)
+
+
+
+
+
+Write an expression to represent the profit.
+
+
+
+
+
+
+
+
+
+
+
+What is the selling price of the snowboard that will give the maximum profit?
+
+
+
+
+
+
+
+
+
+
+
+What is the maximum profit Alex can make?
+
+
+
+
+
+
+
+
+
+
+
+Exercises
+
+Alvin just turned  years old.  His grandmother told him that she will give him  to buy any car he wants whenever he is ready.  Alvin wants to be able to buy his dream car by his 21st birthday, and he wants a 2009 Avatar Z, which he could purchase today for .  The car depreciates (reduces in value) at a rate is  per year.  He wants to figure out how long it would take for his  to be enough to buy the car, without investing the .
+
+After  years
+
+Value of the Car
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write the function that models the depreciated value of the car after  number of years.
+
+
+
+
+
+
+
+Will he be able to afford to buy the car when he turns ?  Explain why or why not.
+
+
+
+
+
+
+
+
+
+Given the same rate of depreciation, after how many years will the value of the car be less than ?
+
+
+
+
+
+
+
+If the same rate of depreciation were to continue indefinitely, after how many years would the value of the car be approximately ?
+
+
+
+
+
+
+
+
+
+
+
+Sophia plans to invest  in each of three banks.
+
+Bank A offers an annual interest rate of , compounded annually.
+
+Bank B offers an annual interest rate of , compounded quarterly.
+
+Bank C offers an annual interest rate of , compounded monthly.
+
+
+
+Write the function that describes the growth of investment for each bank in  years.
+
+
+
+
+
+
+
+How many years will it take to double her initial investment for each bank?  (Round to the nearest whole dollar.)
+
+Year
+
+Bank A
+
+Bank B
+
+Bank C
+
+Year 1
+
+
+
+
+
+
+
+Year 2
+
+
+
+
+
+
+
+Year 3
+
+
+
+
+
+
+
+Year 4
+
+
+
+
+
+
+
+Year 5
+
+
+
+
+
+
+
+Year 6
+
+
+
+
+
+
+
+Year 7
+
+
+
+
+
+
+
+
+
+Sophia went to Bank D.  The bank offers a “double your money” program for an initial investment of  in five years, compounded annually.  What is the annual interest rate for Bank D?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+We can use the full modeling cycle to solve real-world problems in the context of business and commerce (e.g., compound interest, revenue, profit, and cost) and population growth and decay (e.g., population growth, depreciation value, and half-life) to demonstrate linear, exponential, and quadratic functions described verbally through using graphs, tables, or algebraic expressions to make appropriate interpretations and decisions.
+
+Sometimes a graph or table is the best model for problems that involve complicated function equations. 
+
+
+
+Lesson Summary
+
+We can use the full modeling cycle to solve real-world problems in the context of business and commerce (e.g., compound interest, revenue, profit, and cost) and population growth and decay (e.g., population growth, depreciation value, and half-life) to demonstrate linear, exponential, and quadratic functions described verbally through using graphs, tables, or algebraic expressions to make appropriate interpretations and decisions.
+
+Sometimes a graph or table is the best model for problems that involve complicated function equations. 
+
+
+
+
+
+Problem Set 
+
+
+
+Maria invested  in the stock market.  Unfortunately, the value of her investment has been dropping at an average rate of  each year.
+
+Write the function that best models the situation.
+
+If the trend continues, how much will her investment be worth in 5 years?
+
+Given the situation, what should she do with her investment?
+
+
+
+The half-life of the radioactive material in Z-Med, a medication used for certain types of therapy, is  days.  A patient receives a  dose (millicuries, a measure of radiation) in his treatment.  (Half-life means that the radioactive material decays to the point where only half is left.)
+
+Make a table to show the level of Z-Med in the patient’s body after  days. 
+
+Number of Days
+
+Level of Z-Med in Patient
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write a formula to model the half-life of Z-Med for  days.  (Be careful here.  Make sure that the formula works for both odd and even numbers of days.)
+
+How much radioactive material from Z-Med is left in the patient’s body after  days of receiving the medicine?
+
+
+
+
+
+Suppose a male and a female of a certain species of animal were taken to a deserted island.  The population of this species quadruples (multiplies by 4) every year.  Assume that the animals have an abundant food supply and that there are no predators on the island.
+
+What is an equation that can be used to model the population of the species?
+
+What will the population of the species be after  years?
+
+After  years
+
+Population
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write an equation to find how many years it will take for the population of the animals to exceed  million.  Find the number of years, either by using the equation or a table.
+
+After  years
+
+Population
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The revenue of a company for a given month is represented as  and its costs as 
+.  What is the selling price, , of its product that would yield the maximum profit?  Show or explain your answer. 
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M5-TE-1.3.0-10.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M5-TE-1.3.0-10.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.43
+
+S.43
+
+	Lesson 8:	Modeling a Context from a Verbal Description
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 8:	Modeling a Context from a Verbal Description

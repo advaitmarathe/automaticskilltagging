@@ -1,0 +1,543 @@
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 17
+
+  
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 17
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+			
+
+			
+
+
+
+Lesson 17:  Graphing Quadratic Functions from the Standard Form, 
+
+
+
+Classwork
+
+Opening Exercise
+
+A high school baseball player throws a ball straight up into the air for his math class.  The math class was able to determine that the relationship between the height of the ball and the time since it was thrown could be modeled by the function , where  represents the time (in seconds) since the ball was thrown, and  represents the height (in feet) of the ball above the ground. 
+
+What does the domain of the function represent in this context?   
+
+
+
+
+
+
+
+
+
+What does the range of this function represent?  
+
+
+
+
+
+
+
+
+
+At what height does the ball get thrown?
+
+
+
+
+
+
+
+
+
+After how many seconds does the ball hit the ground?
+
+
+
+
+
+
+
+
+
+What is the maximum height that the ball reaches while in the air?  How long will the ball take to reach its maximum height?
+
+
+
+
+
+
+
+What feature(s) of this quadratic function are visible since it is presented in the standard form, 
+?
+
+
+
+
+
+
+
+
+
+
+
+What feature(s) of this quadratic function are visible when it is rewritten in vertex form, 
+?
+
+
+
+
+
+
+
+
+
+A general strategy for graphing a quadratic function from the standard form:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example
+
+A high school baseball player throws a ball straight up into the air for his math class.  The math class was able to determine that the relationship between the height of the ball and the time since it was thrown could be modeled by the function , where  represents the time (in seconds) since the ball was thrown, and  represents the height (in feet) of the ball above the ground. 
+
+What do you notice about the equation, just as it is, that will help us in creating our graph?
+
+
+
+
+
+
+
+
+
+Can we factor to find the zeros of the function?  If not, solve  by completing the square.
+
+
+
+
+
+
+
+
+
+
+
+What is the vertex of the function?  What method did you use to find the vertex?
+
+	
+
+
+
+
+
+
+
+
+
+
+
+	Now plot the graph of  and label the key features on the graph.
+
+
+
+
+
+
+Exercises
+
+	Graph the function , and identify the key features.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Graph the function , and identify the key features.
+
+
+
+
+
+
+Paige wants to start a summer lawn-mowing business.  She comes up with the following profit function that relates the total profit to the rate she charges for a lawn-mowing job:  
+
+.
+
+Both profit and her rate are measured in dollars.  Graph the function in order to answer the following questions.
+
+Graph .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+According to the function, what is her initial cost (e.g., maintaining the mower, buying gas, advertising)?  Explain your answer in the context of this problem.
+
+
+
+
+
+
+
+
+
+Between what two prices does she have to charge to make a profit?  
+
+
+
+
+
+
+
+
+
+If she wants to make  profit this summer, is this the right business choice?
+
+
+
+
+
+
+
+
+A student throws a bag of chips to her friend.  Unfortunately, her friend does not catch the chips, and the bag hits the ground.  The distance from the ground (height) for the bag of chips is modeled by the function 
+,where  is the height (distance from the ground in feet) of the chips, and is the number of seconds the chips are in the air.
+
+Graph .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From what height are the chips being thrown?  Tell how you know.
+
+
+
+
+
+
+
+
+
+What is the maximum height the bag of chips reaches while airborne?  Tell how you know.
+
+
+
+
+
+
+
+
+
+How many seconds after the bag was thrown did it hit the ground?
+
+
+
+
+
+
+
+
+
+
+
+What is the average rate of change of height for the interval from  to  second?  What does that number represent in terms of the context?
+
+
+
+
+
+
+
+
+
+Based on your answer to part (e), what is the average rate of change for the interval from  to  sec.?
+
+
+
+
+
+
+
+
+
+
+
+Notice how the profit and height functions both have negative leading coefficients.  Explain why this is.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+The standard form of a quadratic function is , where .  A general strategy to graphing a quadratic function from the standard form:
+
+Look for hints in the function’s equation for general shape, direction, and -intercept. 
+
+Solve  to find the -intercepts by factoring, completing the square, or using the quadratic formula.
+
+Find the vertex by completing the square or using symmetry.  Find the axis of symmetry and the 
+-coordinate of the vertex using  and the -coordinate of the vertex by finding .
+
+Plot the points that you know (at least three are required for a unique quadratic function), sketch the graph of the curve that connects them, and identify the key features of the graph.
+
+
+
+Lesson Summary
+
+The standard form of a quadratic function is , where .  A general strategy to graphing a quadratic function from the standard form:
+
+Look for hints in the function’s equation for general shape, direction, and -intercept. 
+
+Solve  to find the -intercepts by factoring, completing the square, or using the quadratic formula.
+
+Find the vertex by completing the square or using symmetry.  Find the axis of symmetry and the 
+-coordinate of the vertex using  and the -coordinate of the vertex by finding .
+
+Plot the points that you know (at least three are required for a unique quadratic function), sketch the graph of the curve that connects them, and identify the key features of the graph.
+
+ 
+
+
+
+Problem Set 
+
+
+
+Graph , and identify its key features.  
+
+
+
+
+
+
+
+
+
+
+Graph , and identify its key features.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Did you recognize the numbers in the first two problems?  The equation in the second problem is the product of  and the first equation.  What effect did multiplying the equation by  have on the graph?
+
+
+
+Giselle wants to run a tutoring program over the summer.  She comes up with the following profit function: 
+
+
+
+where  represents the price of the program.  Between what two prices should she charge to make a profit?  How much should she charge her students if she wants to make the most profit?
+
+
+
+Doug wants to start a physical therapy practice.  His financial advisor comes up with the following profit function for his business:  
+
+ 
+
+where  represents the amount, in dollars, that he charges his clients.  How much will it cost for him to start the business?  What should he charge his clients to make the most profit?
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.91
+
+S.91
+
+	Lesson 17:	Graphing Quadratic Functions from the Standard Form, 
+
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 17:	Graphing Quadratic Functions from the Standard Form,

@@ -1,0 +1,325 @@
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 24
+
+  
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 24
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+			
+
+			
+
+
+
+Lesson 24:  Modeling with Quadratic Functions
+
+
+
+Classwork
+
+Opening Exercise
+
+Draw as many quadratic graphs as possible through the following two points on the graph.  Check with your neighbors for ideas.  These points are  and .  
+
+Two Points
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example 1
+
+Use the points , , and  to write the equation for the quadratic function whose graph contains the three points.  
+
+
+
+
+
+
+
+
+Exercise 1
+
+Write in standard form the quadratic function defined by the points , , and .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercise 2
+
+Louis dropped a watermelon from the roof of a tall building.  As it was falling, Amanda and Martin were on the ground with a stopwatch.  As Amanda called the seconds, Martin recorded the floor the watermelon was passing.  They then measured the number of feet per floor and put the collected data into this table.  Write a quadratic function to model the following table of data relating the height of the watermelon (distance in feet from the ground) to the number of seconds that had passed.
+
+Height (distance from the ground) for a Watermelon That Was Dropped from a Tall Building
+
+Time ()
+
+
+
+
+
+
+
+
+
+
+
+Height 
+
+
+
+
+
+
+
+
+
+
+
+
+
+How do we know this data will be represented by a quadratic function?
+
+
+
+
+
+
+
+
+
+
+
+Do we need to use all five data points to write the equation?
+
+
+
+
+
+
+
+
+Are there any points that are particularly useful?  Does it matter which we use?  Write the quadratic function that models the data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How does this equation for the function match up with what you learned about physics in Lesson 23?  Is there a more efficient way to find this equation?  
+
+
+
+
+
+
+
+
+
+
+
+Can you use your quadratic function to predict at what time, , the watermelon will hit the ground (i.e., 
+)?  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+We can create a quadratic function from a data set based on a contextual situation, sketch its graph, and interpret both the function and the graph in context.  We can then answer questions and make predictions related to the data, the quadratic function, and graph.
+
+To determine a unique quadratic function from a table or graph, we must know at least three distinct points.
+
+
+
+Lesson Summary
+
+We can create a quadratic function from a data set based on a contextual situation, sketch its graph, and interpret both the function and the graph in context.  We can then answer questions and make predictions related to the data, the quadratic function, and graph.
+
+To determine a unique quadratic function from a table or graph, we must know at least three distinct points.
+
+Problem Set 
+
+
+
+Write a quadratic function to fit the following points, and state the -values for both roots.  Then, sketch the graph to show that the equation includes the three points.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write a quadratic function to fit the following points:  , , .
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.139
+
+S.139
+
+	Lesson 24:	Modeling with Quadratic Functions
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 24:	Modeling with Quadratic Functions

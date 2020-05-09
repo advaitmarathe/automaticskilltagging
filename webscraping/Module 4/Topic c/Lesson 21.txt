@@ -1,0 +1,374 @@
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 21
+
+  
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 21
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+			
+
+			
+
+
+
+Lesson 21:  Transformations of the Quadratic Parent Function, 
+=
+
+
+
+Classwork
+
+Example 1:  Quadratic Expression Representing a Function
+
+A quadratic function is defined by .  Write this in the completed-square (vertex) form and show all the steps. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Where is the vertex of the graph of this function located? 
+
+
+
+
+
+
+
+
+
+Look at the completed-square form of the function.  Can you name the parent function?  How do you know?
+
+
+
+
+
+
+
+
+
+What transformations have been applied to the parent function to arrive at function ?  Be specific. 	
+
+
+
+
+
+
+
+
+
+How does the completed-square form relate to the quadratic parent function ?
+
+
+
+
+
+
+
+Example 2
+
+The graph of a quadratic function  has been translated  units to the right, vertically stretched by a factor of , and moved  units up.  Write the formula for the function that defines the transformed graph. 
+
+
+
+
+
+
+
+
+
+Exercises
+
+Without using a graphing calculator, sketch the graph of the following quadratic functions on the same coordinate plane, using transformations of the graph of the parent function .  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write a formula for the function that defines the described transformation of the graph of the quadratic parent function .  
+
+ units shift to the right 
+
+Vertical shrink by a factor of 
+
+Reflection across the -axis
+
+ units shift up
+
+Then, graph both the parent and the transformed functions on the same coordinate plane.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Describe the transformation of the quadratic parent function  that results in the quadratic function .
+
+			
+
+		
+
+		
+
+		
+
+			
+
+
+
+
+Sketch the graphs of the following functions based on the graph of the function .  If necessary, rewrite some of the functions in the vertex (completed-square) form.  Label your graphs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+Transformations of the quadratic parent function, , can be rewritten in form , where  is the vertex of the translated and scaled graph of , with the scale factor of , the leading coefficient.  We can then quickly and efficiently (without the use of technology) sketch the graph of any quadratic function in the form  using transformations of the graph of the quadratic parent function, .
+
+Lesson Summary
+
+Transformations of the quadratic parent function, , can be rewritten in form , where  is the vertex of the translated and scaled graph of , with the scale factor of , the leading coefficient.  We can then quickly and efficiently (without the use of technology) sketch the graph of any quadratic function in the form  using transformations of the graph of the quadratic parent function, .
+
+Problem Set 
+
+
+
+Write the function  in completed-square form.  Describe the transformations of the graph of the parent function  that result in the graph of .
+
+
+
+Write the formula for the function whose graph is the graph of translated  units to the right, vertically stretched by a factor of, and translated units up.
+
+
+
+Without using a graphing calculator, sketch the graphs of the functions below based on transformations of the graph of the parent function .  Use your own graph paper, and label your graphs. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.117
+
+S.117
+
+	Lesson 21:	Transformations of the Quadratic Parent Function, 
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 21:	Transformations of the Quadratic Parent Function,

@@ -1,0 +1,382 @@
+Lesson 13
+
+Lesson 13
+
+M3
+
+M3
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+		
+
+		
+
+
+
+Lesson 13:  Interpreting the Graph of a Function
+
+
+
+Classwork 
+
+This graphic was shared by NASA prior to the Mars Curiosity Rover landing on August 6, 2012.  It depicts the landing sequence for the Curiosity Rover’s descent to the surface of the planet.
+
+Courtesy NASA/JPL-Caltech
+
+Does this graphic really represent the landing path of the Curiosity Rover?  Create a model that can be used to predict the altitude and velocity of the Curiosity Rover , , , , and  minute before landing.
+
+
+
+
+
+
+
+
+
+Mathematical Modeling Exercise
+
+Create a model to help you answer the problem and estimate the altitude and velocity at various times during the landing sequence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercises
+
+Does this graphic really represent the landing path of the Curiosity Rover? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Estimate the altitude and velocity of the Curiosity Rover , , , , and  minute before landing.  Explain how you arrived at your estimate.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Based on watching the video/animation, do you think you need to revise any of your work?  Explain why or why not, and then make any needed changes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why is the graph of the altitude function decreasing and the graph of the velocity function increasing on its domain?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why is the graph of the velocity function negative?  Why does this graph not have a -intercept?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is the meaning of the -intercept of the altitude graph?  The -intercept?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Air Temperature
+
+Air TemperatureA Mars rover collected the following temperature data over  Martian days.  A Martian day is called a sol.  Use the graph to answer the following questions.
+
+Courtesy NASA/JPL-Caltech/CAB(CSIC-INTA)
+
+
+
+Approximately when does each graph change from increasing to decreasing?  From decreasing to increasing?
+
+
+
+
+
+
+
+
+
+
+
+
+
+When is the air temperature increasing?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+When is the ground temperature decreasing?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is the air temperature change on this time interval?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why do you think the ground temperature changed more than the air temperature?  Is that typical on earth?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Is there a time when the air and ground were the same temperature?  Explain how you know.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Problem Set 
+
+
+
+Create a short written report summarizing your work on the Mars Curiosity Rover Problem.  Include your answers to the original problem questions and at least one recommendation for further research on this topic or additional questions you have about the situation.
+
+
+
+Consider the sky crane descent portion of the landing sequence.
+
+Create a linear function to model the Curiosity Rover’s altitude as a function of time.  What two points did you choose to create your function? 
+
+Compare the slope of your function to the velocity.  Should they be equal?  Explain why or why not.
+
+Use your linear model to determine the altitude one minute before landing.  How does it compare to your earlier estimate?  Explain any differences you found.
+
+
+
+The exponential function could be used to model the altitude of the Curiosity Rover during its rapid descent.  Do you think this model would be better or worse than the one your group created?  Explain your reasoning.
+
+
+
+For each graph below, identify the increasing and decreasing intervals, the positive and negative intervals, and the intercepts.
+
+ 			b.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M3-TE-1.3.0-08.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M3-TE-1.3.0-08.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.81
+
+S.81
+
+	Lesson 13:	Interpreting the Graph of a Function
+
+	
+
+	
+
+	
+
+	Lesson 13:	Interpreting the Graph of a Function

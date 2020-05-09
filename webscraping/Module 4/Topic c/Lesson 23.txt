@@ -1,0 +1,613 @@
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 23
+
+  
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 23
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+			
+
+			
+
+
+
+Lesson 23:  Modeling with Quadratic Functions
+
+
+
+Classwork
+
+Opening:  The Mathematics of Objects in Motion
+
+Read the following explanation of the Mathematics of Objects in Motion:
+
+Any object that is free falling or projected into the air without a power source is under the influence of gravity.  All free-falling objects on Earth accelerate toward the center of Earth (downward) at a constant rate (, or  ) because of the constant force of Earth’s gravity (represented by ).  That acceleration rate is included in the physics formula used for all objects in a free-falling motion.  It represents the relationship of the height of the object (distance from Earth) with respect to the time that has passed since the launch or fall began.  That formula is 
+
+.
+
+For this reason, the leading coefficient for a quadratic function that models the position of a falling, launched, or projected object must either be  or .  Physicists use mathematics to make predictions about the outcome of a falling or projected object.
+
+The mathematical formulas (equations) used in physics commonly use certain variables to indicate quantities that are most often used for motion problems.  For example, the following are commonly used variables for an event that includes an object that has been dropped or thrown:
+
+is often used to represent the function of height (how high the object is above earth in feet or meters);
+
+ is used to represent the time (number of seconds) that have passed in the event;
+
+ is used to represent velocity (the rate at which an object changes position in  or );
+
+ is used to represent the object’s change in position, or displacement (how far the object has moved in feet or meters).
+
+We often use subscripts with the variables, partly so that we can use the same variables multiple times in a problem without getting confused, but also to indicate the passage of time.  For example:
+
+ indicates the initial velocity (i.e., the velocity at  seconds);  
+
+ tells us the height of the object at seconds, or the initial position.
+
+So putting all of that together, we have a model representing the motion of falling or thrown objects, using U.S. standard units, as a quadratic function: 
+
+,
+
+where  represents the height of the object in feet (distance from Earth), and  is the number of seconds the object has been in motion.  Note that the negative sign in front of the  (half of ) indicates the downward pull of gravity.  We are using a convention for quantities with direction here; upward is positive and downward is negative.  If units are metric, the following equation is used:
+
+,
+
+where everything else is the same, but now the height of the object is measured in meters and the velocity in meters per second.  
+
+These physics functions can be used to model many problems presented in the context of free-falling or projected objects (objects in motion without any inhibiting or propelling power source, such as a parachute or an engine).
+
+
+
+Mathematical Modeling Exercise 1
+
+Use the information in the Opening to answer the following questions.
+
+Chris stands on the edge of a building at a height of  and throws a ball upward with an initial velocity of .  The ball eventually falls all the way to the ground.  What is the maximum height reached by the ball?  After how many seconds will the ball reach its maximum height?  How long will it take the ball to reach the ground?  
+
+What units will we be using to solve this problem?
+
+
+
+
+
+
+
+
+
+
+
+What information from the contextual description do we need to use in the function equation?
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is the maximum point reached by the ball?  After how many seconds will it reach that height?  Show your reasoning.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How long will it take the ball to land on the ground after being thrown?  Show your work.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Graph the function of the height, , of the ball in feet to the time , , in seconds.  Include and label key features of the graph such as the vertex, axis of symmetry, and - and -intercepts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematical Modeling Exercise 2
+
+Read the following information about Business Applications:
+
+Many business contexts can be modeled with quadratic functions.  This is because the expressions representing the price (price per item), the cost (cost per item), and the quantity (number of items sold) are typically linear.  The product of any two of those linear expressions will produce a quadratic expression that can be used as a model for the business context.  The variables used in business applications are not as traditionally accepted as variables that are used in physics applications, but there are some obvious reasons to use for cost,  for price, and for quantity (all lowercase letters).  For total production cost, we often use  for the variable,  for total revenue, and  for total profit (all uppercase letters).  You have seen these formulas in previous lessons, but we will review them here since we use them in the next two lessons.
+
+
+Business Application Vocabulary
+
+Unit price (price per unit):  The price per item a business sets to sell its product, sometimes represented as a linear expression.
+
+Quantity:  The number of items sold, sometimes represented as a linear expression.
+
+Revenue:  The total income based on sales (but without considering the cost of doing business).
+
+Unit cost (cost per unit) or Production cost:  The cost of producing one item, sometimes represented as a linear expression.
+
+Profit:  The amount of money a business makes on the sale of its product.  Profit is determined by taking the total revenue (the quantity sold multiplied by the price per unit) and subtracting the total cost to produce the items (the quantity sold multiplied by the production cost per unit):  .  
+
+
+The following business formulas will be used in this lesson:
+
+
+
+
+
+
+
+
+Now answer the questions related to the following business problem: 
+
+A theater decided to sell special event tickets at  per ticket to benefit a local charity.  The theater can seat up to  people, and the manager of the theater expects to be able to sell all  seats for the event.  To maximize the revenue for this event, a research company volunteered to do a survey to find out whether the price of the ticket could be increased without losing revenue.  The results showed that for each  increase in ticket price,  fewer tickets would be sold.
+
+Let  represent the number of  price-per-ticket increases.  Write an expression to represent the expected price for each ticket.
+
+
+
+
+
+
+
+
+Use the survey results to write an expression representing the possible number of tickets sold.
+
+
+
+
+
+
+
+
+
+Using as the number of -ticket price increases and the expression representing price per ticket, write the function, , to represent the total revenue in terms of the number of -ticket price increases.
+
+
+
+
+
+
+
+
+
+
+
+
+
+How many -ticket price increases will produce the maximum revenue?  (In other words, what value for produces the maximum value?)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is the price of the ticket that will provide the maximum revenue?
+
+
+
+
+
+
+
+
+
+What is the maximum revenue?
+
+
+
+
+
+
+
+
+
+How many tickets will the theater sell to reach the maximum revenue?
+
+
+
+
+
+
+
+
+
+How much more will the theater make for the charity by using the results of the survey to price the tickets than they would had they sold the tickets for their original  price? 
+
+
+
+
+
+
+
+
+
+
+
+Exercise 1
+
+Two rock climbers try an experiment while scaling a steep rock face.  They each carry rocks of similar size and shape up a rock face.  One climbs to a point  above the ground, and the other climbs to a place below her at  above the ground.  The higher climber drops her rock, and  second later, the lower climber drops his.  Note that the climbers are not vertically positioned.  No climber is injured in this experiment.
+
+Define the variables in this situation, and write the two functions that can be used to model the relationship between the heights,  and , of the rocks, in feet, after  seconds.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Assuming the rocks fall to the ground without hitting anything on the way, which of the two rocks will reach the ground last?  Show your work, and explain how you know your answer is correct.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Graph the two functions on the same coordinate plane, and identify the key features that show that your answer to part (b) is correct.  Explain how the graphs show that the two rocks hit the ground at different times.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Does the graph show how far apart the rocks were when they landed?  Explain.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercise 2
+
+Amazing Photography Studio takes school pictures and charges  for each class picture.  The company sells an average of  class pictures in each classroom.  They would like to have a special sale that will help them sell more pictures and actually increase their revenue.  They hired a business analyst to determine how to do that.  The analyst determined that for every reduction of in the cost of the class picture, there would be an additional  pictures sold per classroom.  
+
+Write a function to represent the revenue for each classroom for the special sale.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What should the special sale price be?  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How much more will the studio make than they would have without the sale?  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+We can write quadratic functions described verbally in a given context.  We can also graph, interpret, analyze, or apply key features of quadratic functions to draw conclusions that help us answer questions taken from the problem’s context.
+
+We find quadratic functions commonly applied in physics and business.
+
+We can substitute known - and -values into a quadratic function to create a linear system that, when solved, can identify the parameters of the quadratic equation representing the function.
+
+
+
+Lesson Summary
+
+We can write quadratic functions described verbally in a given context.  We can also graph, interpret, analyze, or apply key features of quadratic functions to draw conclusions that help us answer questions taken from the problem’s context.
+
+We find quadratic functions commonly applied in physics and business.
+
+We can substitute known - and -values into a quadratic function to create a linear system that, when solved, can identify the parameters of the quadratic equation representing the function.
+
+
+
+
+
+Problem Set 
+
+
+
+Dave throws a ball upward with an initial velocity of .  The ball initially leaves his hand  above the ground and eventually falls back to the ground.  In parts (a)–(d), you will answer the following questions:  What is the maximum height reached by the ball?  After how many seconds will the ball reach its maximum height?  How long will it take the ball to reach the ground? 
+
+What units will we be using to solve this problem? 
+
+What information from the contextual description do we need to use to write the formula for the function  of the height of the ball versus time?  Write the formula for height of the ball in feet, , where  stands for seconds.
+
+What is the maximum point reached by the ball?  After how many seconds will it reach that height?  Show your reasoning. 
+
+How long will it take for the ball to land on the ground after being thrown?  Show your work. 
+
+Graph the function of the height of the ball in feet to the time in seconds.  Include and label key features of the graph such as the vertex, axis of symmetry, and - and -intercepts. 
+
+
+
+Katrina developed an app that she sells for  per download.  She has free space on a website that will let her sell downloads.  According to some research she did, for each  increase in download price,  fewer apps are sold.  Determine the price that will maximize her profit.
+
+
+
+
+Edward is drawing rectangles such that the sum of the length and width is always six inches.
+
+Draw one of Edward’s rectangles, and label the length and width.
+
+Fill in the following table with four different possible lengths and widths.
+
+Width (inches)
+
+Length (inches)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Let  be the width.  Write an expression to represent the length of one of Edward’s rectangles. 
+
+Write an equation that gives the area, , in terms of the width, .
+
+For what width and length will the rectangle have maximum area? 
+
+Are you surprised by the answer to part (e)?  What special name is given for the rectangle in your answer to 
+part (e)?
+
+
+
+Chase is standing at the base of a -foot cliff.  He throws a rock in the air hoping to get the rock to the top of the cliff.  If the rock leaves his hand  above the base at a velocity of , does the rock get high enough to reach the top of the cliff?  How do you know?  If so, how long does it take the rock to land on top of the cliff (assuming it lands on the cliff)?  Graph the function and label the key features of the graph.
+
+
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.129
+
+S.129
+
+	Lesson 23:	Modeling with Quadratic Functions
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 23:	Modeling with Quadratic Functions

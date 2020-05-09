@@ -1,0 +1,559 @@
+Lesson 5
+
+Lesson 5
+
+M5
+
+M5
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+
+
+
+
+
+
+Lesson 5:  Modeling from a Sequence
+
+
+
+Classwork 
+
+Opening Exercise
+
+A soccer coach is getting her students ready for the season by introducing them to High Intensity Interval Training (HIIT).  She presents the table below with a list of exercises for a HIIT training circuit and the length of time that must be spent on each exercise before the athlete gets a short time to rest.  The rest times increase as students complete more exercises in the circuit.  Study the chart and answer the questions below.  How long would the tenth exercise be?  If a player had  minutes of actual gym time during a period, how many exercises could she get done?  Explain your answers.
+
+Exercise Number
+
+Length of Exercise Time
+
+Length of Rest Time
+
+Exercise 1
+
+ minutes
+
+minutes
+
+Exercise 2
+
+minutes
+
+ minutes
+
+Exercise 3
+
+ minute
+
+ minutes
+
+Exercise 4
+
+ minutes
+
+ minutes
+
+Exercise 5
+
+ minutes
+
+4 minutes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example 1
+
+Determine whether the sequence below is arithmetic or geometric, and find the function that will produce any given term in the sequence:  
+
+
+
+
+
+Is this sequence arithmetic?
+
+
+
+
+
+
+
+Is the sequence geometric?
+
+
+
+
+
+
+
+What is the analytical representation of the sequence?
+
+
+
+
+
+
+
+
+
+Exercises
+
+Look at the sequence and determine the analytical representation of the sequence.  Show your work and reasoning. 
+
+A decorating consultant charges  for the first hour and  for each additional whole hour.  How much would  hours of consultation cost? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The sequence below represents the area of a square whose side length is the diagonal of a square with integer side length .  What would be the area for the th square?  Hint:  You can use the square below to find the function model, but you can also just use the terms of the sequence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+?
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What would be the tenth term in the sequence?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+A sequence is a list of numbers or objects in a special order.
+
+An arithmetic sequence goes from one term to the next by adding (or subtracting) the same value.
+
+A geometric sequence goes from one term to the next by multiplying (or dividing) by the same value.
+
+Looking at the difference of differences can be a quick way to determine if a sequence can be represented as a quadratic expression.
+
+
+
+Lesson Summary
+
+A sequence is a list of numbers or objects in a special order.
+
+An arithmetic sequence goes from one term to the next by adding (or subtracting) the same value.
+
+A geometric sequence goes from one term to the next by multiplying (or dividing) by the same value.
+
+Looking at the difference of differences can be a quick way to determine if a sequence can be represented as a quadratic expression.
+
+
+
+Problem Set 
+
+
+
+
+
+Week #
+
+Daily Jog Time
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Week #
+
+Daily Jog Time
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solve the following problems by finding the function/formula that represents theth term of the sequence.
+
+After a knee injury, a jogger is told he can jog  minutes every day and that he can increase his jogging time by  minutes every two weeks.  How long will it take for him to be able to jog one hour a day?
+
+
+
+
+
+
+
+
+
+
+
+
+
+A ball is dropped from a height of feet.  The ball then bounces to  of its previous height with each subsequent bounce.
+
+Explain how this situation can be modeled with a sequence.
+
+How high (to the nearest tenth of a foot) does the ball bounce on the fifth bounce?
+
+
+
+Consider the following sequence:
+
+…
+
+What pattern do you see, and what does that pattern mean for the analytical representation of the function?
+
+What is the symbolic representation of the sequence?
+
+
+
+Month
+
+Pull-Up Count
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Month
+
+Pull-Up Count
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arnold wants to be able to complete  military-style pull-ups.  His trainer puts him on a workout regimen designed to improve his pull-up strength.  The following chart shows how many pull-ups Arnold can complete after each month of training.  How many months will it take Arnold to achieve his goal if this pattern continues?
+
+
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M5-TE-1.3.0-10.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M5-TE-1.3.0-10.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.29
+
+S.29
+
+	Lesson 5:	Modeling from a Sequence
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 5:	Modeling from a Sequence

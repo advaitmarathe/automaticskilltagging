@@ -1,0 +1,485 @@
+Lesson 16
+
+Lesson 16
+
+M3
+
+M3
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+				
+
+				
+
+
+
+Lesson 16:  Graphs Can Solve Equations Too
+
+
+
+Classwork 
+
+Opening Exercise
+
+Solve for  in the following equation:  .
+
+
+
+
+
+
+
+
+
+Now, let  and .  
+When does ?
+
+Graph  and  on the same set of axes.
+
+
+
+When does ?  What is the visual significance of the points where ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Is each intersection point  an element of the graph  and an element of the graph of ?  In other words, do the functions  and  really have the same value when ?  What about when ? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example 1
+
+Solve this equation by graphing two functions on the same Cartesian plane:  .  
+
+Let ,and let ,where  can be any real number.
+
+We are looking for values of  at which the functions  and  have the same output value.
+
+Therefore, we set  and , so we can plot the graphs on the same coordinate plane: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From the graph, we see that the two intersection points are _____________ and _____________. 
+
+
+
+
+
+The fact that the graphs of the functions meet at these two points means that when  is _______, both  and  are _______, or when  is _______, both  and  are  _______.
+
+
+
+
+
+Thus, the expressions  and  are equal when  _______ or when _______.
+
+
+
+Therefore, the solution set to the original equation is ___________.
+
+
+
+Example 2
+
+Solve this equation graphically:  .
+
+Write the two functions represented by each side of the equation.
+
+
+
+
+
+
+
+Graph the functions in an appropriate viewing window.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Determine the intersection points of the two functions.
+
+
+
+
+
+
+
+Verify that the -coordinates of the intersection points are solutions to the equation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercises 1–5
+
+Use graphs to find approximate values of the solution set for each equation.  Use technology to support your work.  Explain how each of your solutions relates to the graph.  Check your solutions using the equation.
+
+					2.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The graphs of the functions  and  are shown.
+
+Use the graphs to approximate the solution(s) to the equation .
+
+
+
+
+
+
+
+
+
+
+
+
+
+Let ,and let .  Find all solutions to the equation .  Verify any exact solutions that you determine using the definitions of f and g.  Explain how you arrived at your solutions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The graphs of , a function that involves taking an absolute value, and , a linear function, are shown to the right.  Both functions are defined over all real values for . Tami concluded that the equation  has no solution. 
+
+Do you agree or disagree?  Explain your reasoning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The graphs of  (a function that involves taking the absolute value) and  (an exponential function) are shown below.  Sharon said the solution set to the equation ) is exactly .
+
+Do you agree or disagree with Sharon?  Explain your reasoning.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Problem Set 
+
+
+
+Solve the following equations graphically.  Verify the solution sets using the original equations.
+
+
+
+ 
+
+
+
+Find the approximate solution(s) to each of the following equations graphically.  Use technology to support your work.  Verify the solution sets using the original equations.
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+In each problem, the graphs of the functions  and  are shown on the same Cartesian plane.  Estimate the solution set to the equation .  Assume that the graphs of the two functions intersect only at the points shown on the graph.
+
+
+
+ 					4.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.				            6.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7.	The graph shows Glenn’s distance from home as he rode his bicycle to school, which is just down his street.  His next-door neighbor Pablo, who lives  closer to the school, leaves his house at the same time as Glenn.  He walks at a constant velocity, and they both arrive at school at the same time.
+
+Graph a linear function that represents Pablo’s distance from Glenn’s home as a function of time.
+
+Estimate when the two boys pass each other.
+
+Write piecewise linear functions to represent each boy’s distance, and use them to verify your answer to part (b).
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M3-TE-1.3.0-08.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M3-TE-1.3.0-08.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.103
+
+S.103
+
+	Lesson 16:	Graphs Can Solve Equations Too
+
+	
+
+	
+
+	
+
+	Lesson 16:	Graphs Can Solve Equations Too

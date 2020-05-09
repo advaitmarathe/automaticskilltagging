@@ -1,0 +1,434 @@
+Lesson 7
+
+Lesson 7
+
+M5
+
+M5
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+
+
+
+
+
+
+Lesson 7:  Modeling a Context from Data
+
+
+
+Classwork 
+
+Opening Exercise
+
+What is this data table telling us?
+
+Age (Years)
+
+NYC Marathon Running Time (Minutes)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example 1
+
+Remember that in Module 2, we used a graphing display calculator (GDC) to find a linear regression model.  If a linear model is not appropriate for a collection of data, it may be possible that a quadratic or exponential model will be a better fit.  Your graphing calculator is capable of determining various types of regressions.  Use a GDC to determine if a data set has a better fit with a quadratic or exponential function.  You may need to review entering the data into the stats application of your GDC.
+
+When you are ready to begin, return to the data presented in the Opening Exercise.  Use your graphing calculator to determine the function that best fits the data.  Then, answer some questions your teacher will ask about the data.
+
+
+
+
+
+
+Exercises
+
+Use the following data table to construct a regression model, and then answer the questions.
+
+Chicken Breast Frying Time (Minutes)
+
+Moisture Content (%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data Source:  Journal of Food Processing and Preservation, 1995
+
+What function type appears to be the best fit for this data?  Explain how you know.
+
+
+
+
+
+
+
+
+
+
+
+A student chooses a quadratic regression to model this data.  Is he right or wrong?  Why or why not?
+
+
+
+
+
+
+
+
+
+
+
+Will the moisture content for this product ever reach ?  Why or why not?
+
+
+
+
+
+
+
+
+
+
+
+Based on this model, what would you expect the moisture content to be of a chicken breast fried for  minutes?
+
+
+
+Use the following data table to construct a regression model, then answer the questions based on your model.
+
+
+
+What trends do you see in this collection of data?
+
+
+
+
+
+
+
+
+
+
+
+How do you interpret this trend?
+
+
+
+
+
+
+
+
+
+
+
+If the trend continues, what would we expect the percentage of people in the U.S. who report no leisure-time physical activity to be in 2020?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary 
+
+Using data plots and other visual displays of data, the function type that appears to be the best fit for the data can be determined.  Using the correlation coefficient, the measure of the strength and the direction of a linear relationship can be determined.
+
+A graphing calculator can be used if the data sets are imperfect.  To find a regression equation, the same steps will be performed as for a linear regression.
+
+
+
+Lesson Summary 
+
+Using data plots and other visual displays of data, the function type that appears to be the best fit for the data can be determined.  Using the correlation coefficient, the measure of the strength and the direction of a linear relationship can be determined.
+
+A graphing calculator can be used if the data sets are imperfect.  To find a regression equation, the same steps will be performed as for a linear regression.
+
+Problem Set 
+
+
+
+Use the following data tables to write a regression model, and then answer the questions:
+
+Prescription Drug Sales in the United States Since 1995
+
+Years Since 1995
+
+Prescription Drug Sales (billions of USD)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is the best model for this data?
+
+Based on your model, what were prescription drug sales in 2002?  2005?
+
+For this model, would it make sense to input negative values for  into your regression?  Why or why not?
+
+
+
+Use the data below to answer the questions that follow:
+
+Per Capita Ready-to-Eat Cereal Consumption in the United States per Year Since 1980
+
+Years Since 1980
+
+Cereal Consumption (lb.)
+
+
+
+Years Since 1980
+
+Cereal Consumption (lb.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is the best model for this data? 
+
+Based on your model, what would you expect per capita cereal consumption in 2002?  2005?
+
+For this model, will it make sense to input -values that return negative output values?  Why or why not?
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M5-TE-1.3.0-10.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M5-TE-1.3.0-10.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.39
+
+S.39
+
+	Lesson 7:	Modeling a Context from Data
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 7:	Modeling a Context from Data

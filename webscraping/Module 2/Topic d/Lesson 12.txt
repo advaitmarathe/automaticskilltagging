@@ -1,0 +1,646 @@
+Lesson 12
+
+Lesson 12
+
+M2
+
+M2
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+
+
+
+
+
+
+Lesson 12:  Relationships Between Two Numerical Variables
+
+
+
+Classwork
+
+A scatter plot is an informative way to display numerical data with two variables. In your previous work in Grade 8, you saw how to construct and interpret scatter plots.  Recall that if the two numerical variables are denoted by  and , the scatter plot of the data is a plot of the  data pairs.
+
+
+
+Example 1:  Looking for Patterns in a Scatter Plot
+
+The National Climate Data Center collects data on weather conditions at various locations.  They classify each day as clear, partly cloudy, or cloudy.  Using data taken over a number of years, they provide data on the following variables.
+
+	 represents elevation above sea level (in feet).
+
+	 represents mean number of clear days per year.
+
+	 represents mean number of partly cloudy days per year.
+
+	 represents mean number of cloudy days per year.
+
+
+
+The table below shows data for  U.S. cities. 
+
+
+
+City
+
+ (Elevation Above Sea Level in Feet)
+
+ (Mean Number of Clear Days per Year)
+
+ (Mean Number of Partly Cloudy Days per Year)
+
+ (Mean Number of Cloudy Days per Year)
+
+Albany, NY
+
+
+
+
+
+
+
+
+
+Albuquerque, NM
+
+
+
+
+
+
+
+
+
+Anchorage, AK
+
+
+
+
+
+
+
+
+
+Boise, ID
+
+
+
+
+
+
+
+
+
+Boston, MA
+
+
+
+
+
+
+
+
+
+Helena, MT
+
+
+
+
+
+
+
+
+
+Lander, WY
+
+
+
+
+
+
+
+
+
+Milwaukee, WI
+
+
+
+
+
+
+
+
+
+New Orleans, LA
+
+
+
+
+
+
+
+
+
+Raleigh, NC
+
+
+
+
+
+
+
+
+
+Rapid City, SD
+
+
+
+
+
+
+
+
+
+Salt Lake City, UT
+
+
+
+
+
+
+
+
+
+Spokane, WA
+
+
+
+
+
+
+
+
+
+Tampa, FL
+
+
+
+
+
+
+
+
+
+Here is a scatter plot of the data on elevation and mean number of clear days.
+
+
+
+Data Source:  www.ncdc.noaa.gov 
+
+
+
+Exercises 1–3
+
+Do you see a pattern in the scatter plot, or does it look like the data points are scattered?
+
+
+
+
+
+
+
+
+
+
+
+How would you describe the relationship between elevation and mean number of clear days for these 14 cities?  That is, does the mean number of clear days tend to increase as elevation increases, or does the mean number of clear days tend to decrease as elevation increases?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do you think that a straight line would be a good way to describe the relationship between the mean number of clear days and elevation?  Why do you think this?
+
+
+
+
+
+
+Exercises 4–7:  Thinking about Linear Relationships
+
+Below are three scatter plots.  Each one represents a data set with eight observations.
+
+The scales on the- and -axes have been left off these plots on purpose, so you have to think carefully about the relationships.
+
+
+
+If one of these scatter plots represents the relationship between height and weight for eight adults, which scatter plot do you think it is and why?
+
+
+
+
+
+
+
+
+
+
+
+
+
+If one of these scatter plots represents the relationship between height and SAT math score for eight high school seniors, which scatter plot do you think it is and why?
+
+
+
+
+
+
+If one of these scatter plots represents the relationship between the weight of a car and fuel efficiency for eight cars, which scatter plot do you think it is and why?
+
+
+
+
+
+
+
+
+Which of these three scatter plots does not appear to represent a linear relationship?  Explain the reasoning behind your choice.
+
+
+
+
+
+
+
+
+Exercises 8–13:  Not Every Relationship Is Linear
+
+When a straight line provides a reasonable summary of the relationship between two numerical variables, we say that the two variables are linearly related or that there is a linear relationship between the two variables. 
+
+Take a look at the scatter plots below, and answer the questions that follow.
+
+
+
+Scatter Plot 1
+
+
+
+Is there a relationship between the number of cell phone calls and age, or does it look like the data points are scattered?
+
+
+
+
+
+
+If there is a relationship between the number of cell phone calls and age, does the relationship appear to be linear?
+
+
+
+Scatter Plot 2
+
+
+
+Data Source:  R.G. Moreira, J. Palau, V.E. Sweat, and X. Sun, “Thermal and Physical Properties of Tortilla Chips as a Function of Frying Time,” Journal of Food Processing and Preservation, 19 (1995):  175.
+
+
+
+Is there a relationship between moisture content and frying time, or do the data points look scattered?
+
+
+
+
+
+
+
+
+
+If there is a relationship between moisture content and frying time, does the relationship look linear? 
+
+
+
+Scatter Plot 3
+
+
+
+Data Source:  www.consumerreports.org/health
+
+
+
+Scatter Plot 3 shows data for the prices of bike helmets and the quality ratings of the helmets (based on a scale that estimates helmet quality).  Is there a relationship between quality rating and price, or are the data points scattered?
+
+
+
+
+
+
+
+
+
+If there is a relationship between quality rating and price for bike helmets, does the relationship appear to be linear?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+A scatter plot can be used to investigate whether or not there is a relationship between two numerical variables.
+
+A relationship between two numerical variables can be described as a linear or nonlinear relationship.  
+
+Lesson Summary
+
+A scatter plot can be used to investigate whether or not there is a relationship between two numerical variables.
+
+A relationship between two numerical variables can be described as a linear or nonlinear relationship.  
+
+Problem Set
+
+
+
+Construct a scatter plot that displays the data for  (elevation above sea level in feet) and  (mean number of partly cloudy days per year).
+
+
+
+City
+
+ (Elevation Above Sea Level in Feet)
+
+ (Mean Number of Clear Days per Year)
+
+ (Mean Number of Partly Cloudy Days per Year)
+
+ (Mean Number of Cloudy Days per Year)
+
+Albany, NY
+
+
+
+
+
+
+
+
+
+Albuquerque, NM
+
+
+
+
+
+
+
+
+
+Anchorage, AK
+
+
+
+
+
+
+
+
+
+Boise, ID
+
+
+
+
+
+
+
+
+
+Boston, MA
+
+
+
+
+
+
+
+
+
+Helena, MT
+
+
+
+
+
+
+
+
+
+Lander, WY
+
+
+
+
+
+
+
+
+
+Milwaukee, WI
+
+
+
+
+
+
+
+
+
+New Orleans, LA
+
+
+
+
+
+
+
+
+
+Raleigh, NC
+
+
+
+
+
+
+
+
+
+Rapid City, SD
+
+
+
+
+
+
+
+
+
+Salt Lake City, UT
+
+
+
+
+
+
+
+
+
+Spokane, WA
+
+
+
+
+
+
+
+
+
+Tampa, FL
+
+
+
+
+
+
+
+
+
+
+
+Based on the scatter plot you constructed in Problem 1, is there a relationship between elevation and the mean number of partly cloudy days per year?  If so, how would you describe the relationship?  Explain your reasoning.
+
+
+
+
+
+
+
+Consider the following scatter plot for Problems 3 and 4.
+
+
+
+Scatter Plot 4
+
+
+
+Data Source:  Sample of six women who ran the 2003 NYC marathon
+
+
+
+Is there a relationship between finish time and age, or are the data points scattered?
+
+
+
+Do you think there is a relationship between finish time and age?  If so, does it look linear?
+
+
+
+
+
+
+Consider the following scatter plot for Problems 5 and 6.
+
+
+
+Scatter Plot 5
+
+
+
+Data Source:  Elissa Z. Cameron, Kevin J. Stafford, Wayne L. Linklater, and Clare J. Veltman, “Suckling behaviour does not measure milk intake in horses, equus caballus,” Animal Behaviour, 57 (1999): 673.
+
+
+
+A mare is a female horse, and a foal is a baby horse.  Is there a relationship between a foal’s birth weight and a mare’s weight, or are the data points scattered?
+
+
+If there is a relationship between baby birth weight and mother’s weight, does the relationship look linear?
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M2-TE-1.3.0-08.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M2-TE-1.3.0-08.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.75
+
+S.75
+
+	Lesson 12:	Relationships Between Two Numerical Variables 
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 12:	Relationships Between Two Numerical Variables

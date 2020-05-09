@@ -1,0 +1,254 @@
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 14
+
+  
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 14
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+			
+
+			
+
+
+
+Lesson 14:  Deriving the Quadratic Formula
+
+
+
+Classwork 
+
+Opening Exercise
+
+Solve for  by completing the square:  .
+
+
+
+
+
+
+
+
+
+
+
+Solve for  by completing the square:  .
+
+
+
+
+
+
+
+
+
+
+
+Discussion
+
+Solve .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercises 1–4
+
+Use the quadratic formula to solve each equation.
+
+, ,  [Watch the negatives.]
+
+
+
+
+
+
+
+
+
+
+
+	
+
+, ,   [Did you remember the negative?]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+, , 
+
+
+
+
+
+
+
+
+
+
+
+, , 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercise 5 
+
+Solve these quadratic equations, using a different method for each:  solve by factoring, solve by completing the square, and solve using the quadratic formula.  Before starting, indicate which method you will use for each.	
+
+
+
+		Method ______________	Method ______________	Method ______________
+
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+The quadratic formula, , is derived by completing the square on the general form of a quadratic equation:  , where .  The formula can be used to solve any quadratic equation, and is especially useful for those that are not easily solved using any other method (i.e., by factoring or completing the square).
+
+
+
+Lesson Summary
+
+The quadratic formula, , is derived by completing the square on the general form of a quadratic equation:  , where .  The formula can be used to solve any quadratic equation, and is especially useful for those that are not easily solved using any other method (i.e., by factoring or completing the square).
+
+Problem Set 
+
+
+
+Use the quadratic formula to solve each equation.
+
+Solve for :  .
+
+
+
+Solve for :  
+
+
+
+Solve for :  .
+
+
+
+
+
+
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.78
+
+S.78
+
+	Lesson 14:	Deriving the Quadratic Formula
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 14:	Deriving the Quadratic Formula

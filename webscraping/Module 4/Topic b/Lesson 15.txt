@@ -1,0 +1,454 @@
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 15
+
+  
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 15
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+			
+
+			
+
+
+
+Lesson 15:  Using the Quadratic Formula 
+
+
+
+Classwork
+
+Opening Exercise
+
+Solve the following:
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercises
+
+Solve Exercises 1–5 using the quadratic formula.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For Exercises 6–9, determine the number of real solutions for each quadratic equation without solving.
+
+
+
+	
+
+	
+
+	
+
+	
+
+ 
+
+	
+
+	
+
+	
+
+	
+
+ 
+
+	
+
+	
+
+	
+
+	
+
+ 
+
+
+
+
+
+
+
+
+
+On the line below each graph, state whether the discriminant of each quadratic equation is positive, negative, or equal to zero.  Then, identify which graph matches the discriminants below.
+
+	
+
+					Graph 1	Graph 2	Graph 3	Graph 4
+
+		      _____________________	     ______________________	_______________________         	        ______________________							    
+
+					Graph 1	Graph 2	Graph 3	Graph 4
+
+		      _____________________	     ______________________	_______________________         	        ______________________							    
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+Discriminant A:
+
+
+
+
+
+Graph: ______
+
+Discriminant B:
+
+
+
+
+
+Graph: ______
+
+Discriminant C:
+
+
+
+
+
+Graph: ______
+
+Discriminant D:
+
+
+
+
+
+Graph: ______
+
+Consider the quadratic function .
+
+Use the quadratic formula to find the -intercepts of the graph of the function.
+
+
+
+
+
+
+
+
+
+Use the -intercepts to write the quadratic function in factored form.
+
+
+
+
+
+
+
+
+
+Show that the function from part (b) written in factored form is equivalent to the original function. 
+
+
+
+
+
+
+
+
+
+
+
+Extension:  Consider the quadratic equation .
+
+Write the equation in factored form, , where  and  are the solutions to the equation.
+
+
+
+
+
+
+
+
+
+Show that the equation from part (a) is equivalent to the original equation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+You can use the sign of the discriminant, , to determine the number of real solutions to a quadratic equation in the form , where .  If the equation has a positive discriminant, there are two real solutions.  A negative discriminant yields no real solutions, and a discriminant equal to zero yields only one real solution.
+
+
+
+Lesson Summary
+
+You can use the sign of the discriminant, , to determine the number of real solutions to a quadratic equation in the form , where .  If the equation has a positive discriminant, there are two real solutions.  A negative discriminant yields no real solutions, and a discriminant equal to zero yields only one real solution.
+
+
+
+
+
+Problem Set 
+
+
+
+Without solving, determine the number of real solutions for each quadratic equation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Based on the graph of each quadratic function,, determine the number of real solutions for each corresponding quadratic equation, .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Consider the quadratic function .
+
+Find the -intercepts of the graph of the function.
+
+Use the -intercepts to write the quadratic function in factored form.
+
+Show that the function from part (b) written in factored form is equivalent to the original function. 
+
+
+
+Consider the quadratic function .
+
+Find the -intercepts of the graph of the function.
+
+Use the -intercepts to write the quadratic function in factored form.
+
+Show that the function from part (b) written in factored form is equivalent to the original function. 
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.82
+
+S.82
+
+	Lesson 15:	Using the Quadratic Formula 
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 15:	Using the Quadratic Formula

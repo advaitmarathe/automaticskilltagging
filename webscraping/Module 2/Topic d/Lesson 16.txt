@@ -1,0 +1,521 @@
+Lesson 16
+
+
+
+Lesson #
+
+Lesson 16
+
+
+
+Lesson #
+
+M2
+
+
+
+MX
+
+M2
+
+
+
+MX
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+
+  
+
+
+
+  
+
+
+
+ALGEBRA I
+
+
+
+COURSE NAME
+
+ALGEBRA I
+
+
+
+COURSE NAME
+
+
+
+
+
+
+
+Lesson 16:  More on Modeling Relationships with a Line
+
+
+
+Classwork
+
+Example 1:  Calculating Residuals
+
+The curb weight of a car is the weight of the car without luggage or passengers.  The table below shows the curb weights (in hundreds of pounds) and fuel efficiencies (in miles per gallon) of five compact cars.
+
+Curb Weight
+
+(hundreds of pounds)
+
+Fuel Efficiency
+
+(mpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Using a calculator, the least squares line for this data set was found to have the equation: 
+
+
+
+where is the curb weight (in hundreds of pounds), and is the predicted fuel efficiency (in miles per gallon).
+
+
+
+The scatter plot of this data set is shown below, and the least squares line is shown on the graph.
+
+
+
+You will calculate the residuals for the five points in the scatter plot.  Before calculating the residuals, look at the scatter plot.
+
+Exercises 1–2
+
+Will the residual for the car whose curb weight is  hundred pounds be positive or negative?  Roughly what is the value of the residual for this point?
+
+
+
+
+
+
+
+Will the residual for the car whose curb weight is  hundred pounds be positive or negative?  Roughly what is the value of the residual for this point?  
+
+
+
+
+
+
+
+The residuals for both of these curb weights are calculated as follows:
+
+Substitute  into the equation of the least squares line to find the predicted fuel efficiency.
+
+
+
+
+
+
+Now calculate the residual.
+
+
+
+Residual  actual -value  predicted -value
+
+
+
+                
+
+Substitute  into the equation of the least squares line to find the predicted fuel efficiency.
+
+
+
+
+
+
+Now calculate the residual.
+
+
+
+residual  actual -value  predicted -value
+
+                
+
+                
+
+
+
+These two residuals have been written in the table below.
+
+Curb Weight
+
+(hundreds of pounds)
+
+Fuel Efficiency
+
+(mpg)
+
+Residual
+
+(mpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercises 3–4
+
+Continue to think about the car weights and fuel efficiencies from Example 1. 
+
+Calculate the remaining three residuals, and write them in the table.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Suppose that a car has a curb weight of  hundred pounds.
+
+What does the least squares line predict for the fuel efficiency of this car?
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Would you be surprised if the actual fuel efficiency of this car was  miles per gallon?  Explain your answer.
+
+
+
+
+
+
+
+
+
+
+
+Example 2:  Making a Residual Plot to Evaluate a Line
+
+It is often useful to make a graph of the residuals, called a residual plot.  You will make the residual plot for the compact car data set.
+
+Plot the original -variable (curb weight in this case) on the horizontal axis and the residuals on the vertical axis.  For this example, you need to draw a horizontal axis that goes from  to  and a vertical axis with a scale that includes the values of the residuals that you calculated.  Next, plot the point for the first car.  The curb weight of the first car is  hundred pounds and the residual is .  Plot the point . 
+
+
+
+
+
+
+
+The axes and this first point are shown below.
+
+
+
+
+
+Exercise 5–6
+
+Plot the other four residuals in the residual plot started in Example 3.
+
+
+
+
+
+
+
+
+
+
+
+
+
+How does the pattern of the points in the residual plot relate to the pattern in the original scatter plot?  Looking at the original scatter plot, could you have known what the pattern in the residual plot would be?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+The predicted -value is calculated using the equation of the least squares line.
+
+The residual is calculated using
+
+residual  actual -value  predicted -value.
+
+The sum of the residuals provides an idea of the degree of accuracy when using the least squares line to make predictions.
+
+To make a residual plot, plot the -values on the horizontal axis and the residuals on the vertical axis.
+
+Lesson Summary
+
+The predicted -value is calculated using the equation of the least squares line.
+
+The residual is calculated using
+
+residual  actual -value  predicted -value.
+
+The sum of the residuals provides an idea of the degree of accuracy when using the least squares line to make predictions.
+
+To make a residual plot, plot the -values on the horizontal axis and the residuals on the vertical axis.
+
+
+
+Problem Set
+
+
+
+Four athletes on a track team are comparing their personal bests in the meter and meter events.  A table of their best times is shown below.
+
+Athlete
+
+ time
+
+(seconds)
+
+ time
+
+(seconds)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A scatter plot of these results (including the least squares line) is shown below.
+
+
+
+
+
+Use your calculator or computer to find the equation of the least squares line.
+
+
+
+Use your equation to find the predicted -meter time for the runner whose -meter time is  seconds.  What is the residual for this athlete?
+
+
+
+Calculate the residuals for the other three athletes.  Write all the residuals in the table given below.
+
+
+
+Athlete
+
+ time
+
+(seconds)
+
+ time
+
+(seconds)
+
+Residual
+
+(seconds)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Using the axes provided below, construct a residual plot for this data set. 
+
+
+
+
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M2-TE-1.3.0-08.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M2-TE-1.3.0-08.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.111
+
+S.111
+
+	Lesson 16:	More on Modeling Relationships with a Line 
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 16:	More on Modeling Relationships with a Line

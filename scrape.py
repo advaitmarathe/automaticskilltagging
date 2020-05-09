@@ -19,7 +19,8 @@ sheet1 = wb.add_sheet('Sheet 1')
 sheet1.write(0,0, "Module")
 sheet1.write(0,1,"Topic")
 sheet1.write(0,2,"Skill Name")
-sheet1.write(0,3,"Problem Text")
+sheet1.write(0,3,"Lesson")
+sheet1.write(0,4,"Problem Text")
 # function to download the pdfs
 def downloadpdfs(url,filename):
 	# folder_location = r'webscraping' + filename
@@ -80,6 +81,7 @@ for i in range(1,6):
 			topic_url = module_url+"-topic-"+str(topic)+"-"
 		print(topic_url)
 		for lesson in lessons[lesson_counter-1:]:
+			print("Lesson " + str(lesson))
 			lesson_url = topic_url + "lesson-" + str(lesson)
 			response = requests.get(lesson_url)
 			try:
@@ -103,19 +105,25 @@ for i in range(1,6):
 					problem_set_match = re.search("Problem Set",text)
 					eureka = re.search("This work is derived from Eureka Math",text)
 					problem_set_text = text[problem_set_match.start():eureka.start()]
-					print("yes")
 					problems_list = getQuestions(problem_set_text)
-					print("no")
 					print("Filtered problem list length: ",len(problems_list))
-					sheet1.write(sheet_row,0, i)
-					#topic
-					sheet1.write(sheet_row,1,topic)
-					sheet1.write(sheet_row,2,skill)
-					sheet1.write(sheet_row,3,problem_set_text)
-					sheet_row+=1
+					for problem in problems_list:
+						problem = re.sub("\n","",problem)
+						filter_bool = True
+						if len(problem) == 0:
+							filter_bool = False
+						if filter_bool:
+							percentage = float(problem.count(" ") + problem.count("\t"))/float(len(problem))
 
+						if(len(problem)>20 and percentage < 0.3):
+							sheet1.write(sheet_row,0, i)
+							sheet1.write(sheet_row,1,topic)
+							sheet1.write(sheet_row,2,skill)
+							sheet1.write(sheet_row,3,lesson)
+							sheet1.write(sheet_row,4,problem)
+							sheet_row+=1
+					print("Finished lesson")
 			except:
-				print(lesson)
 				lesson_counter = lesson
 				break
 		# else:

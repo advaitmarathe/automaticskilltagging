@@ -1,0 +1,634 @@
+Lesson 14
+
+Lesson 14
+
+M3
+
+M3
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+				
+
+				
+
+
+
+Lesson 14:  Linear and Exponential Models—Comparing Growth Rates
+
+
+
+Classwork 
+
+Example 1
+
+Linear Functions
+
+Sketch points  and .  Are there values of  and  such that the graph of the linear function described by  contains  and ?  If so, find those values.  If not, explain why they do not exist.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sketch  and .  Are there values of  and  so that the graph of a linear function described by  contains  and ?  If so, find those values.  If not, explain why they do not exist.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exponential Functions
+
+Graphs (c) and (d) are both graphs of an exponential function of the form .  Rewrite the function  using the values for  and  that are required for the graph shown to be a graph of .
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example 2
+
+A lab researcher records the growth of the population of a yeast colony and finds that the population doubles every hour.
+
+Complete the researcher’s table of data:
+
+
+
+Hours into study
+
+
+
+
+
+
+
+
+
+
+
+Yeast colony population (thousands)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is the exponential function that models the growth of the colony’s population?
+
+
+
+
+
+
+
+
+
+Several hours into the study, the researcher looks at the data and wishes there were more frequent measurements.  Knowing that the colony doubles every hour, how can the researcher determine the population in half-hour increments?  Explain.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Complete the new table that includes half-hour increments.
+
+Hours into study
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yeast colony population (thousands)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How would the calculation for the data change for time increments of  minutes?  Explain.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Complete the new table that includes -minute increments.
+
+
+
+Hours into study
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yeast colony population (thousands)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The researcher’s lab assistant studies the data recorded and makes the following claim:
+
+Since the population doubles in  hour, then half of that growth happens in the first half hour, and the other half of that growth happens in the second half hour.  We should be able to find the population at  by taking the average of the populations at and .
+
+Is the assistant’s reasoning correct?  Compare this strategy to your work in parts (c) and (e).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example 3
+
+A California Population Projection Engineer in 1920 was tasked with finding a model that predicts the state’s population growth.  He modeled the population growth as a function of time,  years since 1900.  Census data shows that the population in 1900, in thousands, was .  In 1920, the population of the state of California was  thousand.  He decided to explore both a linear and an exponential model. 
+
+Use the data provided to determine the equation of the linear function that models the population growth from 1900–1920. 
+
+
+
+
+
+
+
+
+
+
+
+Use the data provided and your calculator to determine the equation of the exponential function that models the population growth.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Use the two functions to predict the population for the following years:
+
+
+
+Projected Population Based on Linear Function, 
+
+(thousands)
+
+Projected Population Based on Exponential Function, 
+
+(thousands)
+
+Census Population Data and Intercensal Estimates for California
+
+(thousands)
+
+1935
+
+
+
+
+
+
+
+1960
+
+
+
+
+
+
+
+2010
+
+
+
+
+
+
+
+                                                                                 				          Courtesy U.S. Census Bureau
+
+Which function is a better model for the population growth of California in 1935 and in 1960?
+
+
+
+
+
+
+
+
+
+
+
+Does either model closely predict the population for 2010?  What phenomenon explains the real population value?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary
+
+Given a linear function of the form  and an exponential function of the form  for  a real number and constants ,,, and , consider the sequence given by  and the sequence given by , where .  Both of these sequences can be written recursively: 
+
+ and , and
+
+ and .
+
+The first sequence shows that a linear function grows additively by the same summand  over equal length intervals (i.e., the intervals between consecutive integers).  The second sequence shows that an exponential function grows multiplicatively by the same factor  over equal-length intervals (i.e., the intervals between consecutive integers). 
+
+An increasing exponential function eventually exceeds any linear function.  That is, if  is an exponential function with  and , and  is a linear function, then there is a real number  such that for all , then .  Sometimes this is not apparent in a graph displayed on a graphing calculator; that is because the graphing window does not show enough of the graphs for us to see the sharp rise of the exponential function in contrast with the linear function. 
+
+
+
+Lesson Summary
+
+Given a linear function of the form  and an exponential function of the form  for  a real number and constants ,,, and , consider the sequence given by  and the sequence given by , where .  Both of these sequences can be written recursively: 
+
+ and , and
+
+ and .
+
+The first sequence shows that a linear function grows additively by the same summand  over equal length intervals (i.e., the intervals between consecutive integers).  The second sequence shows that an exponential function grows multiplicatively by the same factor  over equal-length intervals (i.e., the intervals between consecutive integers). 
+
+An increasing exponential function eventually exceeds any linear function.  That is, if  is an exponential function with  and , and  is a linear function, then there is a real number  such that for all , then .  Sometimes this is not apparent in a graph displayed on a graphing calculator; that is because the graphing window does not show enough of the graphs for us to see the sharp rise of the exponential function in contrast with the linear function. 
+
+
+
+
+
+Problem Set 
+
+
+
+When a ball bounces up and down, the maximum height it reaches decreases with each bounce in a predictable way.  Suppose for a particular type of squash ball dropped on a squash court, the maximum height, , after  number of bounces can be represented by .  
+
+How many times higher is the height after the first bounce compared to the height after the third bounce?
+
+Graph the points  for -values of , ,, ,, and.
+
+
+
+Australia experienced a major pest problem in the early 20th century.  The pest?  Rabbits.  In 1859,  rabbits were released by Thomas Austin at Barwon Park.  In 1926, there were an estimated  billion rabbits in Australia.  Needless to say, the Australian government spent a tremendous amount of time and money to get the rabbit problem under control.  (To find more on this topic, visit Australia’s Department of Environment and Primary Industries website under Agriculture.)  
+
+Based only on the information above, write an exponential function that would model Australia’s rabbit population growth.  
+
+The model you created from the data in the problem is obviously a huge simplification from the actual function of the number of rabbits in any given year from 1859 to 1926.  Name at least one complicating factor (about rabbits) that might make the graph of your function look quite different than the graph of the actual function.  
+
+
+
+
+
+
+
+
+
+
+
+After graduating from college, Jane has two job offers to consider.  Job A is compensated at  a year but with no hope of ever having an increase in pay.  Jane knows a few of her peers are getting that kind of an offer right out of college.  Job B is for a social media start-up, which guarantees a mere  a year.  The founder is sure the concept of the company will be the next big thing in social networking and promises a pay increase of  at the beginning of each new year.
+
+Which job will have a greater annual salary at the beginning of the fifth year?  By approximately how much?
+
+Which job will have a greater annual salary at the beginning of the tenth year?  By approximately how much?
+
+Which job will have a greater annual salary at the beginning of the twentieth year?  By approximately how much?
+
+If you were in Jane’s shoes, which job would you take?
+
+
+
+The population of a town in 2007 was  people.  The town has gotten its fresh water supply from a nearby lake and river system with the capacity to provide water for up to  people.  Due to its proximity to a big city and a freeway, the town’s population has begun to grow more quickly than in the past.  The table below shows the population counts for each year from 2007–2012.  
+
+Write a function of  that closely matches these data points for -values of , ,, ,, and.  
+
+Year
+
+Years Past 2007
+
+Population of the town
+
+2007
+
+
+
+
+
+2008
+
+
+
+
+
+2009
+
+
+
+
+
+2010
+
+
+
+
+
+2011
+
+
+
+
+
+2012
+
+
+
+
+
+
+
+
+Assume the function is a good model for the population growth from 2012–2032.  At what year during the time frame 2012–2032 will the water supply be inadequate for the population?  
+
+
+
+
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M3-TE-1.3.0-08.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M3-TE-1.3.0-08.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.88
+
+S.88
+
+	Lesson 14:	Linear and Exponential Models—Comparing Growth Rates
+
+	
+
+	
+
+	
+
+	Lesson 14:	Linear and Exponential Models—Comparing Growth Rates

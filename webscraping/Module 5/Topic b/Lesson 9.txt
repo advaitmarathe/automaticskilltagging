@@ -1,0 +1,290 @@
+Lesson 9
+
+Lesson 9
+
+M5
+
+M5
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+
+
+
+
+
+
+Lesson 9:  Modeling a Context from a Verbal Description
+
+
+
+Classwork 
+
+Opening Exercise
+
+What does it mean to attend to precision when modeling in mathematics?
+
+
+
+
+
+
+
+
+
+Example 1
+
+Marymount Township secured the construction of a power plant, which opened in 1990.  Once the power plant opened in 1990, the population of Marymount increased by abouteach year for the first ten years and then increased by  each year after that.   
+
+If the population was  people in 2010, what was the population in 2000?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How should you round your answer?  Explain.
+
+
+
+
+
+
+
+
+
+
+
+What was the population in 1990?
+
+
+
+
+
+
+
+Example 2
+
+If the trend continued, what would the population be in 2009?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercises
+
+A tortoise and a hare are having a race.  The tortoise moves at  miles per hour.  The hare travels at  miles per hour.  Halfway through the race, the hare decides to take a -hour nap and then gets up and continues at  miles per hour.  
+
+If the race is  miles long, who won the race?  Support your answer with mathematical evidence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+How long (in miles) would the race have to be for there to be a tie between the two creatures, if the same situation (as described in Exercise 1) happened?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The graph on the right represents the value  of a popular stock.  Its initial value was /share on day . 
+
+Note:  The calculator uses  to represent , and  to represent .
+
+How many days after its initial value at time  did the stock price return to  per share?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write a quadratic equation representing the value of this stock over time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Use this quadratic equation to predict the stock’s value after  days.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson Summary 
+
+The full modeling cycle is used to interpret the function and its graph, compute for the rate of change over an interval, and attend to precision to solve real-world problems in the context of population growth and decay and other problems in geometric sequences or forms of linear, exponential, and quadratic functions.
+
+
+
+Lesson Summary 
+
+The full modeling cycle is used to interpret the function and its graph, compute for the rate of change over an interval, and attend to precision to solve real-world problems in the context of population growth and decay and other problems in geometric sequences or forms of linear, exponential, and quadratic functions.
+
+
+
+
+
+Problem Set 
+
+
+
+According to the Center for Disease Control and Prevention, the breast cancer rate for women has decreased at  per year between 2000 and 2009. 
+
+If  women were diagnosed with invasive breast cancer in 2009, how many were diagnosed in 2005?  For this problem, assume that there is no change in population from 2005 and 2009.
+
+According to the American Cancer Society, in 2005 there were  people diagnosed with breast cancer.  In a written response, communicate how precise and accurate your solution in part (a) is, and explain why.
+
+
+
+The functions  and represent the population of two different kinds of bacteria, where  is the time (in hours) and and  are the number of bacteria (in thousands).  and .
+
+Between the third and sixth hour, which bacteria had a faster rate of growth?
+
+Will the population of  ever exceed the population of ?  If so, at what hour?
+
+
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M5-TE-1.3.0-10.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M5-TE-1.3.0-10.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.48
+
+S.48
+
+	Lesson 9:	Modeling a Context from a Verbal Description
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 9:	Modeling a Context from a Verbal Description

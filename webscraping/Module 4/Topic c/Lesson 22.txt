@@ -1,0 +1,594 @@
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 22
+
+  
+
+
+
+
+
+
+
+NYS COMMON CORE MATHEMATICS CURRICULUM
+
+M4
+
+Lesson 22
+
+
+
+ALGEBRA I
+
+ALGEBRA I
+
+			
+
+			
+
+
+
+Lesson 22:  Comparing Quadratic, Square Root, and Cube Root Functions Represented in Different Ways
+
+
+
+Classwork 
+
+Opening Exercise
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Populate the table on the right with values from the graph.
+
+
+
+
+
+
+Exploratory Challenges 1–3
+
+Solve each problem, and show or explain how you found your answers.
+
+Xavier and Sherleese each threw a baseball straight up into the air.  The relationship between the height (distance from the ground in feet) of Sherleese’s ball with respect to the time since it was thrown, in seconds, is given by the function: 
+
+
+
+The graph of the height as a function of time of Xavier’s ball is represented below.
+
+
+
+Height (feet)
+
+
+
+ (seconds)
+
+Height (feet)
+
+
+
+ (seconds) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Xavier claims that his ball went higher than Sherleese’s.  Sherleese disagrees.  Answer the questions below, and support your answers mathematically by comparing the features found in the equation to those in the graph.
+
+Who is right? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+For how long was each baseball airborne?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Construct a graph of Sherleese’s throw as a function of time () on the same set of axes as the graph of Xavier’s, and use the graph to support your answers to parts (a) and (b).
+
+
+
+Height (feet)
+
+ (seconds)
+
+Height (feet)
+
+ (seconds)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Length (in cm)
+
+Time (in seconds)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In science class, students constructed pendulums of various lengths and then recorded the time required for the pendulum to complete one full oscillation (out and back).  The results are displayed in the table shown below.
+
+Jack looks at the first three rows of the table and says that a linear function should be used to model the data.  Based on the data, do you agree with him?  Justify your reasoning.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create a scatterplot of length versus oscillation time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Based on the scatterplot, what sort of function might be used to model the data?
+
+
+
+
+
+
+
+
+
+Mr. Williams, the science teacher, tells the students that the oscillation time for a pendulum can be found using the formula where  is the length of the pendulum, in meters, and  is the oscillation time, in seconds.  Does this formula support the results from the table?  Explain.
+
+
+
+
+
+
+
+
+
+
+
+Looking at the table of values, what effect does quadrupling the length of the pendulum have on the oscillation time?  Use the formula from part (d) to demonstrate why this is the case.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The growth of a Great Dane puppy can be represented by the graph below, where  represents the shoulder height (in inches) and  represents the puppy’s age (in months).
+
+
+
+The growth of a lion cub can be modeled by the function represented in the table below. 
+
+(months since birth)
+
+ (height in inches)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Which animal has the greater shoulder height at birth?
+
+
+
+
+
+
+
+Which animal will have the greater shoulder height at  years of age (the age each animal is considered full-grown)?
+
+
+
+
+
+
+
+
+
+If you were told that the domain for these functions is the set of all real numbers, would you agree?  Why or why not?
+
+
+
+
+
+
+
+
+Lesson Summary
+
+The key features of a quadratic function, which are the zeros (roots), the vertex, and the leading coefficient, can be used to interpret the function in a context (e.g., the vertex represents the maximum or minimum value of the function).  Graphing calculators and bivariate data tables are useful tools when comparing functions.
+
+Lesson Summary
+
+The key features of a quadratic function, which are the zeros (roots), the vertex, and the leading coefficient, can be used to interpret the function in a context (e.g., the vertex represents the maximum or minimum value of the function).  Graphing calculators and bivariate data tables are useful tools when comparing functions.
+
+
+
+Problem Set 
+
+
+
+One type of rectangle has lengths that are always two inches more than their widths.  The function  describes the relationship between the width of this rectangle in  inches and its area, , in square inches, and is represented in the table below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A second type of rectangle has lengths that are always one-half of their widths.  The function  describes the relationship between the width given in  inches and the area, , given in square inches of such a rectangle.  
+
+Use  to determine the area of a rectangle of the second type if the width is  inches.
+
+Why is  contained in the graphs of both functions?  Explain the meaning of  in terms of the situations that the functions describe. 
+
+Determine which function has a greater average rate of change on the interval .
+
+Interpret your answer to part (c) in terms of the situation being described.
+
+Which type of rectangle has a greater area when the width is  inches?  By how much?
+
+Will the first type of rectangle always have a greater area than the second type of rectangle when widths are the same?  Explain how you know.
+
+
+
+
+
+
+
+
+
+
+
+
+
+The function given by the equation  gives the edge length,  units, of a square with area  square units.  Similarly, the graph below describes the length of a leg,  units, of an isosceles right triangle whose area is  square units.
+
+
+
+Graph of Isosceles Triangle Leg Lengths for Given Areas
+
+Graph of Isosceles Triangle Leg Lengths for Given Areas
+
+
+
+
+
+y
+
+y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is the length of a leg of an isosceles right triangle with an area of  square units?
+
+Graph the function that represents a square with area  square units using the same graph that was given.  Which function has a greater average rate of change on the interval ?
+
+Interpret your answer to part (b) in terms of the situation being described.
+
+Which will have a greater value:  the edge length of a square with area  square units or the length of a leg of an isosceles right triangle with an area of  square units?  Approximately by how much?
+
+
+
+A portion of a graph of a cube root function, , and select values of a square root function, , are given below.  The domain of  is .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fill in each blank with one of the following:  , , or. 
+
+ _______ 
+
+intercept of  ______ intercept of 
+
+Average rate of change of  on interval  ______ Average rate of change of  on interval 
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is derived from Eureka Math ™ and licensed by Great Minds. ©2015  Great Minds. eureka-math.org This file derived from ALG I-M4-TE-1.3.0-09.2015
+
+
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+This work is licensed under a 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+S.122
+
+S.122
+
+	Lesson 22:	Comparing Quadratic, Square Root, and Cube Root Functions Represented in Different Ways
+
+	
+
+	
+
+	
+
+	
+
+	Lesson 22:	Comparing Quadratic, Square Root, and Cube Root Functions Represented in Different Ways
